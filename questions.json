@@ -49,7 +49,7 @@
     "unit": "UNIT 1 - Present Continuous",
     "level": "Dễ",
     "category": "Grammar - Present Continuous",
-    "question": "They haven't got anywhere to live the moment. They ____ with friends until they find somewhere.",
+    "question": "They haven't got anywhere to live at the moment. They ____ with friends until they find somewhere.",
     "options": [
       "are staying",
       "stay",
@@ -98,8 +98,8 @@
     "options": [
       "am trying",
       "try",
-      "tryed",
-      "have tryed"
+      "tried",
+      "have tried"
     ],
     "answer": "am trying",
     "explanation": "Đáp án \"am trying\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -127,7 +127,7 @@
     "question": "' ____ this week?' 'No, he's on holiday.' (Colin/work)",
     "options": [
       "Is Colin working",
-      "does Colin working",
+      "Does Colin working",
       "do not know",
       "is doing"
     ],
@@ -142,9 +142,9 @@
     "question": "Why ____ at me like that? What's the matter? (you/look)",
     "options": [
       "are you looking",
-      "are you lookings",
-      "are you lookinged",
-      "has are you lookinged"
+      "do you look",
+      "did you look",
+      "have you looked"
     ],
     "answer": "are you looking",
     "explanation": "Đáp án \"are you looking\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -157,9 +157,9 @@
     "question": "'Jenny is a student at university.' 'Is she? What ____ ?' (she/study)",
     "options": [
       "is she studying",
-      "is she studyings",
-      "is she studyinged",
-      "has is she studyinged"
+      "does she study",
+      "did she study",
+      "has she studied"
     ],
     "answer": "is she studying",
     "explanation": "Đáp án \"is she studying\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -172,7 +172,7 @@
     "question": "____ to the radio or can I turn it off? (anybody/listen)",
     "options": [
       "Is anybody listening",
-      "does anybody listening",
+      "Does anybody listening",
       "do not know",
       "is doing"
     ],
@@ -187,7 +187,7 @@
     "question": "How is your English? ____ better? (it/get)",
     "options": [
       "Is it getting",
-      "does it getting",
+      "Does it getting",
       "do not know",
       "is doing"
     ],
@@ -247,7 +247,7 @@
     "question": "Catherine phoned me last night. She's on holiday in France. She ____ (have) a great time and doesn't want to come back.",
     "options": [
       "is having",
-      "haves",
+      "has",
       "had",
       "has had"
     ],
@@ -307,9 +307,9 @@
     "question": "Sarah:Brian! How nice to see you! What ____ (you/do) these days?",
     "options": [
       "are you doing",
-      "are you doings",
-      "are you doinged",
-      "has are you doinged"
+      "do you do",
+      "did you do",
+      "have you done"
     ],
     "answer": "are you doing",
     "explanation": "Đáp án \"are you doing\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -337,9 +337,9 @@
     "question": "Sarah:Really? What's it like? ____ (you/enjoy) it?",
     "options": [
       "Are you enjoying",
-      "do you enjoying",
-      "do not know",
-      "is doing"
+      "Do you enjoy",
+      "Did you enjoy",
+      "Have you enjoyed"
     ],
     "answer": "Are you enjoying",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Are you enjoying\"."
@@ -368,8 +368,8 @@
     "options": [
       "am trying",
       "try",
-      "tryed",
-      "have tryed"
+      "tried",
+      "have tried"
     ],
     "answer": "am trying",
     "explanation": "Đáp án \"am trying\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -397,9 +397,9 @@
     "question": "Brian: ____ (you/do) it alone?",
     "options": [
       "Are you doing",
-      "do you doing",
-      "do not know",
-      "is doing"
+      "Do you do",
+      "Did you do",
+      "Have you done"
     ],
     "answer": "Are you doing",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Are you doing\"."
@@ -457,7 +457,7 @@
     "question": "The world ____ . Things never stay the same.",
     "options": [
       "is changing",
-      "changs",
+      "changes",
       "changed",
       "has changed"
     ],
@@ -473,8 +473,8 @@
     "options": [
       "is rising",
       "rises",
-      "rised",
-      "has rised"
+      "rose",
+      "has risen"
     ],
     "answer": "is rising",
     "explanation": "Đáp án \"is rising\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -502,9 +502,9 @@
     "question": "Ann ____ German very well.",
     "options": [
       "speaks",
-      "speak",
-      "is speaking",
-      "spoke"
+      "spoke",
+      "has spoken",
+      "do not know"
     ],
     "answer": "speaks",
     "explanation": "Đáp án \"speaks\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
@@ -533,7 +533,7 @@
     "options": [
       "closes",
       "close",
-      "is closeing",
+      "is closing",
       "closed"
     ],
     "answer": "closes",
@@ -548,7 +548,7 @@
     "options": [
       "causes",
       "cause",
-      "is causeing",
+      "is causing",
       "caused"
     ],
     "answer": "causes",
@@ -577,9 +577,9 @@
     "question": "The Olympic Games ____ every four years.",
     "options": [
       "take place",
-      "take places",
-      "take placed",
-      "has take placed"
+      "takes place",
+      "are taking place",
+      "took place"
     ],
     "answer": "take place",
     "explanation": "Đáp án \"take place\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
@@ -607,9 +607,9 @@
     "question": "What time ____ (the banks/close) in Britain?",
     "options": [
       "do the banks close",
-      "do the banks closes",
-      "do the banks closed",
-      "has do the banks closed"
+      "are the banks closing",
+      "did the banks close",
+      "have the banks closed"
     ],
     "answer": "do the banks close",
     "explanation": "Đáp án \"do the banks close\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
@@ -622,9 +622,9 @@
     "question": "'Where ____ (Martin/come) from?' 'He's Scottish.'",
     "options": [
       "does Martin come",
-      "does Martin comes",
-      "does Martin comed",
-      "has does Martin comed"
+      "is Martin coming",
+      "did Martin come",
+      "has Martin come"
     ],
     "answer": "does Martin come",
     "explanation": "Đáp án \"does Martin come\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
@@ -637,9 +637,9 @@
     "question": "'What ____ . (you/do)? 'I'm an electrical engineer.'",
     "options": [
       "do you do",
-      "do you does",
-      "do you doed",
-      "has do you doed"
+      "are you doing",
+      "did you do",
+      "have you done"
     ],
     "answer": "do you do",
     "explanation": "Đáp án \"do you do\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
@@ -652,9 +652,9 @@
     "question": "It ____ me an hour to get to work. (take)",
     "options": [
       "takes",
-      "take",
-      "is takeing",
-      "took"
+      "took",
+      "has taken",
+      "do not know"
     ],
     "answer": "takes",
     "explanation": "Đáp án \"takes\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
@@ -667,9 +667,9 @@
     "question": "How long ____ you to get to work? (it/take)",
     "options": [
       "does it take",
-      "does it takes",
-      "does it taked",
-      "has does it taked"
+      "is it taking",
+      "did it take",
+      "has it taken"
     ],
     "answer": "does it take",
     "explanation": "Đáp án \"does it take\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
@@ -712,9 +712,9 @@
     "question": "I don't understand this sentence. What ____ (this word/mean)?",
     "options": [
       "does this word mean",
-      "does this word means",
-      "does this word meaned",
-      "has does this word meaned"
+      "is this word meaning",
+      "did this word mean",
+      "has this word meant"
     ],
     "answer": "does this word mean",
     "explanation": "Đáp án \"does this word mean\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
@@ -744,7 +744,7 @@
       "does not grow",
       "grows",
       "is not growing",
-      "has not growed"
+      "has not grown"
     ],
     "answer": "does not grow",
     "explanation": "Đáp án \"does not grow\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
@@ -758,8 +758,8 @@
     "options": [
       "rises",
       "rise",
-      "is riseing",
-      "rised"
+      "is rising",
+      "rose"
     ],
     "answer": "rises",
     "explanation": "Đáp án \"rises\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
@@ -803,7 +803,7 @@
     "options": [
       "does not believe",
       "believes",
-      "is not believeing",
+      "is not believing",
       "has not believed"
     ],
     "answer": "does not believe",
@@ -817,9 +817,9 @@
     "question": "An interpreter ____ from one language into another.",
     "options": [
       "translates",
-      "translate",
-      "is translateing",
-      "translated"
+      "translated",
+      "has translated",
+      "do not know"
     ],
     "answer": "translates",
     "explanation": "Đáp án \"translates\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
@@ -834,7 +834,7 @@
       "does not tell",
       "tells",
       "is not telling",
-      "has not telled"
+      "has not told"
     ],
     "answer": "does not tell",
     "explanation": "Đáp án \"does not tell\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
@@ -847,9 +847,9 @@
     "question": "The River Amazon ____ into the Atlantic Ocean.",
     "options": [
       "flows",
-      "flow",
-      "is flowing",
-      "flowed"
+      "flowed",
+      "has flowed",
+      "do not know"
     ],
     "answer": "flows",
     "explanation": "Đáp án \"flows\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
@@ -862,7 +862,7 @@
     "question": "You know that Liz plays tennis. You want to know how often. Ask her. ____",
     "options": [
       "How often do you play tennis",
-      "How often are you play tennis",
+      "How often Are you play tennis",
       "do not know",
       "is doing"
     ],
@@ -877,7 +877,7 @@
     "question": "Perhaps Liz's sister plays tennis too. You want to know. Ask Liz. ____",
     "options": [
       "Does your sister play tennis",
-      "is your sister play tennis",
+      "Is your sister play tennis",
       "do not know",
       "is doing"
     ],
@@ -892,7 +892,7 @@
     "question": "You know that Liz reads a newspaper every day. You want to know which one. Ask her. ____",
     "options": [
       "Which newspaper do you read",
-      "Which newspaper are you read",
+      "Which newspaper Are you read",
       "do not know",
       "is doing"
     ],
@@ -907,7 +907,7 @@
     "question": "You know that Liz's brother works. You want to know what he does. Ask Liz. ____",
     "options": [
       "What does your brother do",
-      "What is your brother are",
+      "What Is your brother Are",
       "do not know",
       "is doing"
     ],
@@ -922,7 +922,7 @@
     "question": "You know that Liz goes to the cinema a lot. You want to know how often. Ask her. ____",
     "options": [
       "How often do you go to the cinema",
-      "How often are you go to the cinema",
+      "How often Are you go to the cinema",
       "do not know",
       "is doing"
     ],
@@ -937,7 +937,7 @@
     "question": "You don't know where Liz's mother lives. Ask Liz. ____",
     "options": [
       "Where does your mother live",
-      "Where is your mother live",
+      "Where Is your mother live",
       "do not know",
       "is doing"
     ],
@@ -952,9 +952,9 @@
     "question": "I won't tell anybody what you said. ____.",
     "options": [
       "I promise",
-      "I promises",
       "I promised",
-      "has I promised"
+      "I am promising",
+      "I have promised"
     ],
     "answer": "I promise",
     "explanation": "Đáp án \"I promise\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
@@ -964,12 +964,12 @@
     "unit": "UNIT 2 - Present Simple",
     "level": "Dễ",
     "category": "Grammar - Present Simple",
-    "question": "(_in a restaurant=) You must let me pay for the meal. ____.",
+    "question": "(in a restaurant) You must let me pay for the meal. ____.",
     "options": [
       "I insist",
-      "I insists",
       "I insisted",
-      "has I insisted"
+      "I am insisting",
+      "I have insisted"
     ],
     "answer": "I insist",
     "explanation": "Đáp án \"I insist\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
@@ -982,9 +982,9 @@
     "question": "____ for what I said about you. It wasn't true and I shouldn't have said it.",
     "options": [
       "I apologize",
-      "I apologizes",
       "I apologized",
-      "has I apologized"
+      "I am apologizing",
+      "I have apologized"
     ],
     "answer": "I apologize",
     "explanation": "Đáp án \"I apologize\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
@@ -997,9 +997,9 @@
     "question": "The new restaurant in Hill Street is very good. ____ it.",
     "options": [
       "I recommend",
-      "I recommends",
       "I recommended",
-      "has I recommended"
+      "I am recommending",
+      "I have recommended"
     ],
     "answer": "I recommend",
     "explanation": "Đáp án \"I recommend\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
@@ -1009,7 +1009,7 @@
     "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
     "level": "Trung bình",
     "category": "Error Correction",
-    "question": "Water boils at 100 degrees celsius. ____",
+    "question": "Water boils at 100 degrees Celsius. ____",
     "options": [
       "Right",
       "Wrong: use present continuous",
@@ -1027,9 +1027,9 @@
     "question": "The water boils. Can you turn it off? ____",
     "options": [
       "The water is boiling",
-      "The water is boilings",
-      "The water is boilinged",
-      "has The water is boilinged"
+      "The water boils",
+      "The water boiled",
+      "The water has boiled"
     ],
     "answer": "The water is boiling",
     "explanation": "Đáp án \"The water is boiling\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -1042,9 +1042,9 @@
     "question": "Look! That man tries to open the door of your car. ____",
     "options": [
       "That man is trying",
-      "That man is tryings",
-      "That man is tryinged",
-      "has That man is tryinged"
+      "That man tries",
+      "That man tried",
+      "That man has tried"
     ],
     "answer": "That man is trying",
     "explanation": "Đáp án \"That man is trying\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -1057,7 +1057,7 @@
     "question": "Can you hear those people? What do they talk about? ____",
     "options": [
       "What are they talking about",
-      "What do they talking about",
+      "What Do they talking about",
       "do not know",
       "is doing"
     ],
@@ -1087,9 +1087,9 @@
     "question": "I must go now. It gets late. ____",
     "options": [
       "It is getting late",
-      "It is getting lates",
-      "It is getting lated",
-      "has It is getting lated"
+      "It gets late",
+      "It got late",
+      "It has got late"
     ],
     "answer": "It is getting late",
     "explanation": "Đáp án \"It is getting late\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -1117,9 +1117,9 @@
     "question": "'Hurry up! It's time to leave.' 'OK, I come.' ____",
     "options": [
       "I am coming",
-      "I am comings",
-      "I am cominged",
-      "has I am cominged"
+      "I come",
+      "I came",
+      "I have come"
     ],
     "answer": "I am coming",
     "explanation": "Đáp án \"I am coming\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -1132,7 +1132,7 @@
     "question": "I hear you've got a new job. How do you get on? ____",
     "options": [
       "How are you getting on",
-      "How do you getting on",
+      "How Do you getting on",
       "do not know",
       "is doing"
     ],
@@ -1162,9 +1162,9 @@
     "question": "Julia is very good at languages. She ____ (speak) four languages very well.",
     "options": [
       "speaks",
-      "speak",
-      "is speaking",
-      "spoke"
+      "spoke",
+      "has spoken",
+      "do not know"
     ],
     "answer": "speaks",
     "explanation": "Đáp án \"speaks\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -1192,7 +1192,7 @@
     "question": "' ____ (you/listen) to the radio?' 'No, you can turn it off.'",
     "options": [
       "Are you listening",
-      "do you listening",
+      "Do you listening",
       "do not know",
       "is doing"
     ],
@@ -1207,7 +1207,7 @@
     "question": "' ____ (you/listen) to the radio every day?' 'No, just occasionally.'",
     "options": [
       "Do you listen",
-      "are you listen",
+      "Are you listen",
       "do not know",
       "is doing"
     ],
@@ -1222,9 +1222,9 @@
     "question": "The River Nile ____ (flow) into the Mediterranean.",
     "options": [
       "flows",
-      "flow",
-      "is flowing",
-      "flowed"
+      "flowed",
+      "has flowed",
+      "do not know"
     ],
     "answer": "flows",
     "explanation": "Đáp án \"flows\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -1253,8 +1253,8 @@
     "options": [
       "grow",
       "grows",
-      "growed",
-      "has growed"
+      "grew",
+      "have grown"
     ],
     "answer": "grow",
     "explanation": "Đáp án \"grow\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -1312,9 +1312,9 @@
     "question": "Ron ____ at the Park Hotel when he's in London. (always/stay)",
     "options": [
       "always stays",
-      "always stayses",
-      "always staysed",
-      "has always staysed"
+      "is always staying",
+      "always stayed",
+      "has always stayed"
     ],
     "answer": "always stays",
     "explanation": "Đáp án \"always stays\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -1417,9 +1417,9 @@
     "question": "Where ____? (your parents/live)",
     "options": [
       "do your parents live",
-      "do your parents lives",
-      "do your parents lived",
-      "has do your parents lived"
+      "are your parents living",
+      "did your parents live",
+      "have your parents lived"
     ],
     "answer": "do your parents live",
     "explanation": "Đáp án \"do your parents live\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -1462,9 +1462,9 @@
     "question": "'What ____?' 'He's an architect.' (your father/do)",
     "options": [
       "does your father do",
-      "does your father does",
-      "does your father doed",
-      "has does your father doed"
+      "is your father doing",
+      "did your father do",
+      "has your father done"
     ],
     "answer": "does your father do",
     "explanation": "Đáp án \"does your father do\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -1522,9 +1522,9 @@
     "question": "B:Not again! ____.",
     "options": [
       "You are always losing your key",
-      "You are always losing your keys",
-      "You are always losing your keyed",
-      "has You are always losing your keyed"
+      "You always lose your key",
+      "You lost your key",
+      "You have lost your key"
     ],
     "answer": "You are always losing your key",
     "explanation": "Đáp án \"You are always losing your key\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -1537,9 +1537,9 @@
     "question": "B:That car is useless! It ____.",
     "options": [
       "is always breaking down",
-      "is always breaking downs",
-      "is always breaking downed",
-      "has is always breaking downed"
+      "always breaks down",
+      "broke down",
+      "has broken down"
     ],
     "answer": "is always breaking down",
     "explanation": "Đáp án \"is always breaking down\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -1552,9 +1552,9 @@
     "question": "B:Oh no, not again! I ____.",
     "options": [
       "am always making the same mistake",
-      "am always making the same mistakes",
-      "am always making the same mistaked",
-      "has am always making the same mistaked"
+      "always make the same mistake",
+      "made the same mistake",
+      "have made the same mistake"
     ],
     "answer": "am always making the same mistake",
     "explanation": "Đáp án \"am always making the same mistake\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -1567,9 +1567,9 @@
     "question": "B:Typical! You ____.",
     "options": [
       "are always leaving the lights on",
-      "are always leaving the lights ons",
-      "are always leaving the lights oned",
-      "has are always leaving the lights oned"
+      "always leave the lights on",
+      "left the lights on",
+      "have left the lights on"
     ],
     "answer": "are always leaving the lights on",
     "explanation": "Đáp án \"are always leaving the lights on\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
@@ -1579,7 +1579,7 @@
     "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
     "level": "Trung bình",
     "category": "Error Correction",
-    "question": "I'm seeing the manager tomorow morning. ____",
+    "question": "I'm seeing the manager tomorrow morning. ____",
     "options": [
       "Right",
       "Wrong: use present continuous",
@@ -1612,7 +1612,7 @@
     "question": "Are you believing in God? ____",
     "options": [
       "Do you believe in God",
-      "are you believe in God",
+      "Are you believe in God",
       "do not know",
       "is doing"
     ],
@@ -1627,9 +1627,9 @@
     "question": "This sauce is great. It's tasting really good. ____",
     "options": [
       "It tastes really good",
-      "It tastes really goods",
-      "It tastes really gooded",
-      "has It tastes really gooded"
+      "It is tasting really good",
+      "It tasted really good",
+      "It has tasted really good"
     ],
     "answer": "It tastes really good",
     "explanation": "Đáp án \"It tastes really good\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
@@ -1642,9 +1642,9 @@
     "question": "I'm thinking this is your key. Am I right? ____",
     "options": [
       "I think this is your key",
-      "I think this is your keys",
-      "I think this is your keyed",
-      "has I think this is your keyed"
+      "I am thinking this is your key",
+      "I thought this was your key",
+      "I have thought this is your key"
     ],
     "answer": "I think this is your key",
     "explanation": "Đáp án \"I think this is your key\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
@@ -1657,7 +1657,7 @@
     "question": "Are you hungry? ____ something to eat? (you/want)",
     "options": [
       "Do you want",
-      "are you want",
+      "Are you want",
       "do not know",
       "is doing"
     ],
@@ -1687,7 +1687,7 @@
     "question": "Don't put the dictionary away. I ____ it. (use)",
     "options": [
       "am using",
-      "us",
+      "use",
       "used",
       "have used"
     ],
@@ -1702,9 +1702,9 @@
     "question": "Don't put the dictionary away. I ____ it. (need)",
     "options": [
       "need",
-      "ne",
-      "was neing",
-      "has ned"
+      "needs",
+      "needed",
+      "have needed"
     ],
     "answer": "need",
     "explanation": "Đáp án \"need\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
@@ -1717,9 +1717,9 @@
     "question": "Who is that man? What ____ ? (he/want)",
     "options": [
       "does he want",
-      "does he wants",
-      "does he wanted",
-      "has does he wanted"
+      "is he wanting",
+      "did he want",
+      "has he wanted"
     ],
     "answer": "does he want",
     "explanation": "Đáp án \"does he want\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
@@ -1732,9 +1732,9 @@
     "question": "Who is that man? Why ____ at us? (he/look)",
     "options": [
       "is he looking",
-      "is he lookings",
-      "is he lookinged",
-      "has is he lookinged"
+      "does he look",
+      "did he look",
+      "has he looked"
     ],
     "answer": "is he looking",
     "explanation": "Đáp án \"is he looking\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
@@ -1748,7 +1748,7 @@
     "options": [
       "believes",
       "believe",
-      "is believeing",
+      "is believing",
       "believed"
     ],
     "answer": "believes",
@@ -1778,8 +1778,8 @@
     "options": [
       "am thinking",
       "think",
-      "thinked",
-      "have thinked"
+      "thought",
+      "have thought"
     ],
     "answer": "am thinking",
     "explanation": "Đáp án \"am thinking\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
@@ -1793,8 +1793,8 @@
     "options": [
       "think",
       "thinks",
-      "thinked",
-      "has thinked"
+      "thought",
+      "have thought"
     ],
     "answer": "think",
     "explanation": "Đáp án \"think\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
@@ -1808,8 +1808,8 @@
     "options": [
       "do not use",
       "used",
-      "is not useing",
-      "has not used"
+      "am not using",
+      "have not used"
     ],
     "answer": "do not use",
     "explanation": "Đáp án \"do not use\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
@@ -1823,8 +1823,8 @@
     "options": [
       "prefer",
       "prefers",
-      "prefered",
-      "has prefered"
+      "preferred",
+      "have preferred"
     ],
     "answer": "prefer",
     "explanation": "Đáp án \"prefer\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
@@ -1837,9 +1837,9 @@
     "question": "Air ____ mainly of nitrogen and oxygen. (consist)",
     "options": [
       "consists",
-      "consist",
-      "is consisting",
-      "consisted"
+      "consisted",
+      "has consisted",
+      "do not know"
     ],
     "answer": "consists",
     "explanation": "Đáp án \"consists\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
@@ -1852,9 +1852,9 @@
     "question": "I can't understand why ____ so selfish. He isn't usually like that.",
     "options": [
       "he is being",
-      "he is beings",
-      "he is beinged",
-      "has he is beinged"
+      "he is",
+      "he was",
+      "he has been"
     ],
     "answer": "he is being",
     "explanation": "Đáp án \"he is being\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
@@ -1867,9 +1867,9 @@
     "question": "Jack ____ very nice to me at the moment. I wonder why.",
     "options": [
       "is being",
-      "bes",
-      "bed",
-      "has bed"
+      "is",
+      "was",
+      "has been"
     ],
     "answer": "is being",
     "explanation": "Đáp án \"is being\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
@@ -1882,9 +1882,9 @@
     "question": "You'll like Jill when you meet her. She ____ very nice.",
     "options": [
       "is",
-      "i",
-      "is iing",
-      "ied"
+      "is being",
+      "was",
+      "has been"
     ],
     "answer": "is",
     "explanation": "Đáp án \"is\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
@@ -1897,9 +1897,9 @@
     "question": "Normally you are very sensible, so why ____ so silly about this matter?",
     "options": [
       "are you being",
-      "are you beings",
-      "are you beinged",
-      "has are you beinged"
+      "are you",
+      "were you",
+      "have you been"
     ],
     "answer": "are you being",
     "explanation": "Đáp án \"are you being\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
@@ -1912,7 +1912,7 @@
     "question": "Why isn't Sarah at work today? ____ ill?",
     "options": [
       "Is she",
-      "does she",
+      "Does she",
       "do not know",
       "is doing"
     ],
@@ -1927,9 +1927,9 @@
     "question": "Mozart ____ more than 600 pieces of music.",
     "options": [
       "wrote",
-      "was wroteing",
-      "has wroted",
-      "do not know"
+      "writes",
+      "was writing",
+      "has written"
     ],
     "answer": "wrote",
     "explanation": "Đáp án \"wrote\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -1942,9 +1942,9 @@
     "question": "'How did you learn to drive?' 'My father ____ me'",
     "options": [
       "taught",
-      "was taughting",
-      "has taughted",
-      "do not know"
+      "teaches",
+      "was teaching",
+      "has taught"
     ],
     "answer": "taught",
     "explanation": "Đáp án \"taught\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -1957,9 +1957,9 @@
     "question": "We couldn't afford to keep our car, so we ____ it.",
     "options": [
       "sold",
-      "was solding",
-      "has solded",
-      "do not know"
+      "sells",
+      "was selling",
+      "has sold"
     ],
     "answer": "sold",
     "explanation": "Đáp án \"sold\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -1972,9 +1972,9 @@
     "question": "I was very thirsty. I ____ the water very quickly.",
     "options": [
       "drank",
-      "was dranking",
-      "has dranked",
-      "do not know"
+      "drinks",
+      "was drinking",
+      "has drunk"
     ],
     "answer": "drank",
     "explanation": "Đáp án \"drank\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -1987,9 +1987,9 @@
     "question": "Paul and I played tennis yesterday. He's much better than me, so he ____ easily",
     "options": [
       "won",
-      "was woning",
-      "has woned",
-      "do not know"
+      "wins",
+      "was winning",
+      "has won"
     ],
     "answer": "won",
     "explanation": "Đáp án \"won\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -2002,9 +2002,9 @@
     "question": "Don ____ down the stairs this morning.",
     "options": [
       "fell",
-      "was felling",
-      "has felled",
-      "do not know"
+      "falls",
+      "was falling",
+      "has fallen"
     ],
     "answer": "fell",
     "explanation": "Đáp án \"fell\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -2017,7 +2017,7 @@
     "question": "Don fell down the stairs this morning and ____ his leg.",
     "options": [
       "hurt",
-      "was hurting",
+      "hurts",
       "has hurt",
       "do not know"
     ],
@@ -2032,9 +2032,9 @@
     "question": "Jim ____ the ball to Sue.",
     "options": [
       "threw",
-      "was threwing",
-      "has threwed",
-      "do not know"
+      "throws",
+      "was throwing",
+      "has thrown"
     ],
     "answer": "threw",
     "explanation": "Đáp án \"threw\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -2047,9 +2047,9 @@
     "question": "Sue ____ the ball.",
     "options": [
       "caught",
-      "was caughting",
-      "has caughted",
-      "do not know"
+      "catches",
+      "was catching",
+      "has caught"
     ],
     "answer": "caught",
     "explanation": "Đáp án \"caught\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -2062,9 +2062,9 @@
     "question": "Ann ____ a lot of money yesterday.",
     "options": [
       "spent",
-      "was spenting",
-      "has spented",
-      "do not know"
+      "spends",
+      "was spending",
+      "has spent"
     ],
     "answer": "spent",
     "explanation": "Đáp án \"spent\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -2074,12 +2074,12 @@
     "unit": "UNIT 5 - Past Simple",
     "level": "Dễ",
     "category": "Grammar - Past Simple",
-    "question": "She ____ a dress which cost ?100.",
+    "question": "She ____ a dress which cost 100 pounds.",
     "options": [
       "bought",
-      "was boughting",
-      "has boughted",
-      "do not know"
+      "buys",
+      "was buying",
+      "has bought"
     ],
     "answer": "bought",
     "explanation": "Đáp án \"bought\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -2092,7 +2092,7 @@
     "question": "(where/go?) ____ ?",
     "options": [
       "Where did you go",
-      "Where are you go",
+      "Where Have you go",
       "do not know",
       "is doing"
     ],
@@ -2107,7 +2107,7 @@
     "question": "(go alone?) ____ ?",
     "options": [
       "Did you go alone",
-      "are you go alone",
+      "Have you go alone",
       "do not know",
       "is doing"
     ],
@@ -2122,7 +2122,7 @@
     "question": "(food/good?) ____ ?",
     "options": [
       "Was the food good",
-      "did the food good",
+      "Did the food good",
       "do not know",
       "is doing"
     ],
@@ -2137,7 +2137,7 @@
     "question": "(how long/ stay there?) ____ ?",
     "options": [
       "How long did you stay there",
-      "How long are you stay there",
+      "How long Have you stay there",
       "do not know",
       "is doing"
     ],
@@ -2152,7 +2152,7 @@
     "question": "(stay/ at a hotel?) ____ ?",
     "options": [
       "Did you stay at a hotel",
-      "are you stay at a hotel",
+      "Have you stay at a hotel",
       "do not know",
       "is doing"
     ],
@@ -2167,7 +2167,7 @@
     "question": "(how/ travel?) ____ ?",
     "options": [
       "How did you travel",
-      "How are you travel",
+      "How Have you travel",
       "do not know",
       "is doing"
     ],
@@ -2182,7 +2182,7 @@
     "question": "(the weather/ fine?) ____ ?",
     "options": [
       "Was the weather fine",
-      "did the weather fine",
+      "Did the weather fine",
       "do not know",
       "is doing"
     ],
@@ -2197,7 +2197,7 @@
     "question": "(what/ do in the evening?) ____ ?",
     "options": [
       "What did you do in the evening",
-      "What are you are in the evening",
+      "What Have you Are in the evening",
       "do not know",
       "is doing"
     ],
@@ -2209,10 +2209,10 @@
     "unit": "UNIT 5 - Past Simple",
     "level": "Trung bình",
     "category": "Question Formation",
-    "question": "(meet anybody intersting?) ____ ?",
+    "question": "(meet anybody interesting?) ____ ?",
     "options": [
       "Did you meet anybody interesting",
-      "are you meet anybody interesting",
+      "Have you meet anybody interesting",
       "do not know",
       "is doing"
     ],
@@ -2227,9 +2227,9 @@
     "question": "It was warm, so I ____ off my coat (take)",
     "options": [
       "took",
-      "was tooking",
-      "has tooked",
-      "do not know"
+      "takes",
+      "was taking",
+      "has taken"
     ],
     "answer": "took",
     "explanation": "Đáp án \"took\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -2243,8 +2243,8 @@
     "options": [
       "did not enjoy",
       "enjoyed",
-      "is not enjoying",
-      "has not enjoyed"
+      "was not enjoying",
+      "had not enjoyed"
     ],
     "answer": "did not enjoy",
     "explanation": "Đáp án \"did not enjoy\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -2258,8 +2258,8 @@
     "options": [
       "did not disturb",
       "disturbed",
-      "is not disturbing",
-      "has not disturbed"
+      "was not disturbing",
+      "had not disturbed"
     ],
     "answer": "did not disturb",
     "explanation": "Đáp án \"did not disturb\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -2272,9 +2272,9 @@
     "question": "I was very tired, so I ____ to bed early. (go)",
     "options": [
       "went",
-      "was wenting",
-      "has wented",
-      "do not know"
+      "goes",
+      "was going",
+      "has gone"
     ],
     "answer": "went",
     "explanation": "Đáp án \"went\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -2288,8 +2288,8 @@
     "options": [
       "did not sleep",
       "slept",
-      "is not sleeping",
-      "has not slept"
+      "was not sleeping",
+      "had not slept"
     ],
     "answer": "did not sleep",
     "explanation": "Đáp án \"did not sleep\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -2303,8 +2303,8 @@
     "options": [
       "did not eat",
       "ate",
-      "is not eating",
-      "has not eaten"
+      "was not eating",
+      "had not eaten"
     ],
     "answer": "did not eat",
     "explanation": "Đáp án \"did not eat\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -2317,9 +2317,9 @@
     "question": "We went to Kate's house but she ____ at home. (be)",
     "options": [
       "was not",
-      "was nots",
-      "was noted",
-      "has was noted"
+      "was",
+      "is not",
+      "has not been"
     ],
     "answer": "was not",
     "explanation": "Đáp án \"was not\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -2332,9 +2332,9 @@
     "question": "It was a funny situation but nobody ____ (laugh)",
     "options": [
       "laughed",
-      "laugh",
-      "was laughing",
-      "has laughed"
+      "laughs",
+      "has laughed",
+      "do not know"
     ],
     "answer": "laughed",
     "explanation": "Đáp án \"laughed\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -2347,9 +2347,9 @@
     "question": "The window was open and a bird ____ into the room. (fly)",
     "options": [
       "flew",
-      "was flewing",
-      "has flewed",
-      "do not know"
+      "flies",
+      "was flying",
+      "has flown"
     ],
     "answer": "flew",
     "explanation": "Đáp án \"flew\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -2362,9 +2362,9 @@
     "question": "The hotel wasn't very expensive. It ____ very much. (cost)",
     "options": [
       "did not cost",
-      "costed",
-      "is not costing",
-      "has not costed"
+      "cost",
+      "was not costing",
+      "has not cost"
     ],
     "answer": "did not cost",
     "explanation": "Đáp án \"did not cost\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -2378,8 +2378,8 @@
     "options": [
       "did not have",
       "had",
-      "is not haveing",
-      "has not had"
+      "was not haveing",
+      "had not had"
     ],
     "answer": "did not have",
     "explanation": "Đáp án \"did not have\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -2393,8 +2393,8 @@
     "options": [
       "were",
       "was",
-      "was being",
-      "has bed"
+      "are",
+      "have been"
     ],
     "answer": "were",
     "explanation": "Đáp án \"were\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
@@ -2422,9 +2422,9 @@
     "question": "The doorbell rang while I ____.",
     "options": [
       "was having a shower",
-      "had",
-      "had had",
-      "haves"
+      "had a shower",
+      "had had a shower",
+      "has a shower"
     ],
     "answer": "was having a shower",
     "explanation": "Đáp án \"was having a shower\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
@@ -2437,9 +2437,9 @@
     "question": "We saw an accident while we ____.",
     "options": [
       "were driving home",
-      "drived",
-      "had drived",
-      "drive"
+      "drove home",
+      "had driven home",
+      "drive home"
     ],
     "answer": "were driving home",
     "explanation": "Đáp án \"were driving home\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
@@ -2467,9 +2467,9 @@
     "question": "The television was on but nobody ____",
     "options": [
       "was watching it",
-      "watched",
-      "had watched",
-      "watches"
+      "watched it",
+      "had watched it",
+      "watches it"
     ],
     "answer": "was watching it",
     "explanation": "Đáp án \"was watching it\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
@@ -2497,7 +2497,7 @@
     "question": "Jane was waiting for me when I ____. (arrive)",
     "options": [
       "arrived",
-      "arriv",
+      "arrives",
       "was arriving",
       "has arrived"
     ],
@@ -2512,9 +2512,9 @@
     "question": "'What ____ (you/do) this time yesterday?' 'I was asleep'.",
     "options": [
       "were you doing",
-      "were you doings",
-      "were you doinged",
-      "has were you doinged"
+      "did you do",
+      "are you doing",
+      "have you done"
     ],
     "answer": "were you doing",
     "explanation": "Đáp án \"were you doing\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
@@ -2527,7 +2527,7 @@
     "question": "' ____ (you/go) out last night?' 'No, I was too tired.'",
     "options": [
       "Did you go",
-      "are you go",
+      "Have you go",
       "do not know",
       "is doing"
     ],
@@ -2557,9 +2557,9 @@
     "question": "How fast ____ when the accident happened? (you/drive)",
     "options": [
       "were you driving",
-      "were you drivings",
-      "were you drivinged",
-      "has were you drivinged"
+      "did you drive",
+      "are you driving",
+      "have you driven"
     ],
     "answer": "were you driving",
     "explanation": "Đáp án \"were you driving\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
@@ -2572,9 +2572,9 @@
     "question": "The accident ____ while you were driving. (happen)",
     "options": [
       "happened",
-      "happen",
-      "was happening",
-      "has happened"
+      "happens",
+      "has happened",
+      "do not know"
     ],
     "answer": "happened",
     "explanation": "Đáp án \"happened\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
@@ -2587,9 +2587,9 @@
     "question": "John ____ a photograph of me. (take)",
     "options": [
       "took",
-      "was tooking",
-      "has tooked",
-      "do not know"
+      "takes",
+      "was taking",
+      "has taken"
     ],
     "answer": "took",
     "explanation": "Đáp án \"took\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
@@ -2618,8 +2618,8 @@
     "options": [
       "did not know",
       "knew",
-      "is not knowing",
-      "has not known"
+      "was not knowing",
+      "had not known"
     ],
     "answer": "did not know",
     "explanation": "Đáp án \"did not know\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
@@ -2632,9 +2632,9 @@
     "question": "When I last ____ Alan, he was trying to find a job in London. (see)",
     "options": [
       "saw",
-      "was sawing",
-      "has sawed",
-      "do not know"
+      "see",
+      "was seeing",
+      "have seen"
     ],
     "answer": "saw",
     "explanation": "Đáp án \"saw\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
@@ -2647,8 +2647,8 @@
     "question": "When I last saw Alan, he ____ to find a job in London. (try)",
     "options": [
       "was trying",
-      "tryed",
-      "had tryed",
+      "tried",
+      "had tried",
       "tries"
     ],
     "answer": "was trying",
@@ -2677,9 +2677,9 @@
     "question": "I was walking along the street when suddenly I ____ footsteps behind me. (hear)",
     "options": [
       "heard",
-      "was hearding",
-      "has hearded",
-      "do not know"
+      "hear",
+      "was hearing",
+      "have heard"
     ],
     "answer": "heard",
     "explanation": "Đáp án \"heard\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
@@ -2692,9 +2692,9 @@
     "question": "When I was young, I ____ (want) to be a bus driver.",
     "options": [
       "wanted",
-      "want",
-      "was wanting",
-      "has wanted"
+      "wants",
+      "has wanted",
+      "do not know"
     ],
     "answer": "wanted",
     "explanation": "Đáp án \"wanted\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
@@ -2707,9 +2707,9 @@
     "question": "I/buy/a new car. ____.",
     "options": [
       "I have bought a new car",
-      "I have bought a new cars",
-      "I have bought a new cared",
-      "has I have bought a new cared"
+      "I bought a new car",
+      "I am buying a new car",
+      "I will buy a new car"
     ],
     "answer": "I have bought a new car",
     "explanation": "Đáp án \"I have bought a new car\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -2719,12 +2719,12 @@
     "unit": "UNIT 7 - Present Perfect (1)",
     "level": "Khá",
     "category": "Grammar - Present Perfect Simple",
-    "question": "my father/start/a new job: ____.",
+    "question": "My father/start/a new job: ____.",
     "options": [
       "My father has started a new job",
-      "My father has started a new jobs",
-      "My father has started a new jobed",
-      "has My father has started a new jobed"
+      "My father started a new job",
+      "My father is starting a new job",
+      "My father will start a new job"
     ],
     "answer": "My father has started a new job",
     "explanation": "Đáp án \"My father has started a new job\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -2737,9 +2737,9 @@
     "question": "I/give/smoking: ____.",
     "options": [
       "I have given up smoking",
-      "I have given up smokings",
-      "I have given up smokinged",
-      "has I have given up smokinged"
+      "I gave up smoking",
+      "I am giving up smoking",
+      "I will give up smoking"
     ],
     "answer": "I have given up smoking",
     "explanation": "Đáp án \"I have given up smoking\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -2752,9 +2752,9 @@
     "question": "Charles and Sarah/go/to Brazil: ____.",
     "options": [
       "Charles and Sarah have gone to Brazil",
-      "Charles and Sarah have gone to Brazils",
-      "Charles and Sarah have gone to Braziled",
-      "has Charles and Sarah have gone to Braziled"
+      "Charles and Sarah went to Brazil",
+      "Charles and Sarah are going to Brazil",
+      "Charles and Sarah will go to Brazil"
     ],
     "answer": "Charles and Sarah have gone to Brazil",
     "explanation": "Đáp án \"Charles and Sarah have gone to Brazil\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -2767,9 +2767,9 @@
     "question": "Suzanne/have/a baby: ____",
     "options": [
       "Suzanne has had a baby",
-      "Suzanne has had a babies",
-      "Suzanne has had a babyed",
-      "has Suzanne has had a babyed"
+      "Suzanne had a baby",
+      "Suzanne is having a baby",
+      "Suzanne will have a baby"
     ],
     "answer": "Suzanne has had a baby",
     "explanation": "Đáp án \"Suzanne has had a baby\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -2782,9 +2782,9 @@
     "question": "Mike is looking for his key. He can't find it. He ____.",
     "options": [
       "has lost it",
-      "has been losting",
-      "losted",
-      "is losting"
+      "lost it",
+      "is losing it",
+      "has been looking for it"
     ],
     "answer": "has lost it",
     "explanation": "Đáp án \"has lost it\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -2794,12 +2794,12 @@
     "unit": "UNIT 7 - Present Perfect (1)",
     "level": "Khá",
     "category": "Grammar - Present Perfect Simple",
-    "question": "Magaret can't walk and her leg is in plaster. She ____.",
+    "question": "Margaret can't walk and her leg is in plaster. She ____.",
     "options": [
       "has broken her leg",
-      "has been brokening",
-      "brokened",
-      "is brokening"
+      "broke her leg",
+      "is breaking her leg",
+      "has hurt her arm"
     ],
     "answer": "has broken her leg",
     "explanation": "Đáp án \"has broken her leg\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -2812,9 +2812,9 @@
     "question": "Maria's English wasn't very good. Now it is much better. ____.",
     "options": [
       "It has improved",
-      "It has improveds",
-      "It has improveded",
-      "has It has improveded"
+      "It improved",
+      "It is improving",
+      "It will improve"
     ],
     "answer": "It has improved",
     "explanation": "Đáp án \"It has improved\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -2827,9 +2827,9 @@
     "question": "Tim didn't have a beard last month. Now he has a beard. ____.",
     "options": [
       "He has grown a beard",
-      "He has grown a beards",
-      "He has grown a bearded",
-      "has He has grown a bearded"
+      "He grew a beard",
+      "He is growing a beard",
+      "He will grow a beard"
     ],
     "answer": "He has grown a beard",
     "explanation": "Đáp án \"He has grown a beard\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -2842,9 +2842,9 @@
     "question": "This morning I was expecting a letter. Now I have it. ____.",
     "options": [
       "The letter has arrived",
-      "The letter has arriveds",
-      "The letter has arriveded",
-      "has The letter has arriveded"
+      "The letter arrived",
+      "The letter is arriving",
+      "The letter will arrive"
     ],
     "answer": "The letter has arrived",
     "explanation": "Đáp án \"The letter has arrived\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -2857,9 +2857,9 @@
     "question": "Last week the bus fare was 80 pence. Now it is 90. ____",
     "options": [
       "The bus fare has gone up",
-      "The bus fare has gone ups",
-      "The bus fare has gone uped",
-      "has The bus fare has gone uped"
+      "The bus fare went up",
+      "The bus fare is going up",
+      "The bus fare will go up"
     ],
     "answer": "The bus fare has gone up",
     "explanation": "Đáp án \"The bus fare has gone up\" hoàn thành câu đúng về nghĩa và cấu trúc."
@@ -2947,9 +2947,9 @@
     "question": "A: Is Ann coming to the cinema with us? B: No, she ____ the film. (already/see)",
     "options": [
       "has already seen",
-      "has been alreadying",
-      "alreadyed",
-      "is alreadying"
+      "already saw",
+      "is seeing",
+      "will see"
     ],
     "answer": "has already seen",
     "explanation": "Đáp án \"has already seen\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -2959,12 +2959,12 @@
     "unit": "UNIT 7 - Present Perfect (1)",
     "level": "Khá",
     "category": "Grammar - Present Perfect Simple",
-    "question": "_A=:Are you freinds here yet? _B=: Yes, they ____ . (just/arrive)",
+    "question": "A: Are your friends here yet? B: Yes, they ____ . (just/arrive)",
     "options": [
       "have just arrived",
-      "have been justing",
-      "justed",
-      "are justing"
+      "just arrived",
+      "are arriving",
+      "will arrive"
     ],
     "answer": "have just arrived",
     "explanation": "Đáp án \"have just arrived\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -2974,12 +2974,12 @@
     "unit": "UNIT 7 - Present Perfect (1)",
     "level": "Khá",
     "category": "Grammar - Present Perfect Simple",
-    "question": "_A=:What does Tim thik about your plant? _B=: I ____ (not/tell/yet).",
+    "question": "A: What does Tim think about your plan? B: I ____ (not/tell/yet).",
     "options": [
       "have not told him yet",
-      "have been tolding",
-      "did not told",
-      "do not told"
+      "did not tell him yet",
+      "am not telling him yet",
+      "will not tell him yet"
     ],
     "answer": "have not told him yet",
     "explanation": "Đáp án \"have not told him yet\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -2992,9 +2992,9 @@
     "question": "After lunch you go to see a friend at her house. She says \"Would you like something to eat?\". You say: \"No, thank you. ____ . (have lunch)",
     "options": [
       "I have just had lunch",
-      "I have just had lunches",
-      "I have just had lunched",
-      "has I have just had lunched"
+      "I just had lunch",
+      "I am having lunch",
+      "I will have lunch"
     ],
     "answer": "I have just had lunch",
     "explanation": "Đáp án \"I have just had lunch\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3007,9 +3007,9 @@
     "question": "Joe goes out. Five minutes later, the phone rings and the caller says \"Can I speak to Joe?\" .You say: I'm afraid ____ (go out)",
     "options": [
       "he has just gone out",
-      "he has just gone outs",
-      "he has just gone outed",
-      "has he has just gone outed"
+      "he just went out",
+      "he is going out",
+      "he will go out"
     ],
     "answer": "he has just gone out",
     "explanation": "Đáp án \"he has just gone out\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3019,12 +3019,12 @@
     "unit": "UNIT 7 - Present Perfect (1)",
     "level": "Khá",
     "category": "Grammar - Present Perfect Simple",
-    "question": "You are eating in a restaurant. The waiter things you have finished and stars to take your plate away. You say: Wait a minute! ____ (not/finish)",
+    "question": "You are eating in a restaurant. The waiter thinks you have finished and starts to take your plate away. You say: Wait a minute! ____ (not/finish)",
     "options": [
       "I have not finished yet",
-      "I have not finished yets",
-      "I have not finished yeted",
-      "has I have not finished yeted"
+      "I did not finish yet",
+      "I am not finished yet",
+      "I will not finish yet"
     ],
     "answer": "I have not finished yet",
     "explanation": "Đáp án \"I have not finished yet\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3034,12 +3034,12 @@
     "unit": "UNIT 7 - Present Perfect (1)",
     "level": "Khá",
     "category": "Grammar - Present Perfect Simple",
-    "question": "You are going to restaurant to evening. You phone to reserve a table. Later your friend says 'Shall I phone reserve a table?' You say: No, ____ it (do)",
+    "question": "You are going to a restaurant this evening. You phone to reserve a table. Later your friend says, 'Shall I phone to reserve a table?' You say: No, ____ it (do)",
     "options": [
       "I have already done",
-      "I have already dones",
-      "I have already doned",
-      "has I have already doned"
+      "I already did",
+      "I am doing",
+      "I will do"
     ],
     "answer": "I have already done",
     "explanation": "Đáp án \"I have already done\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3049,12 +3049,12 @@
     "unit": "UNIT 7 - Present Perfect (1)",
     "level": "Khá",
     "category": "Question Formation",
-    "question": "You know that a freind of yours is looking for a job. Perhaps she has been successful. Ask her. You say: ____ ? (find)",
+    "question": "You know that a friend of yours is looking for a job. Perhaps she has been successful. Ask her. You say: ____ ? (find)",
     "options": [
       "Have you found a job yet",
-      "did you found a job yet",
-      "are you found a job yet",
-      "do not know"
+      "Did you find a job yet",
+      "Are you finding a job yet",
+      "Will you find a job yet"
     ],
     "answer": "Have you found a job yet",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you found a job yet\"."
@@ -3064,12 +3064,12 @@
     "unit": "UNIT 7 - Present Perfect (1)",
     "level": "Khá",
     "category": "Grammar - Present Perfect Simple",
-    "question": "Ann went to the bank, but a few minutes ago the returned. Somebody asks 'Is Ann still at the bank?' You say: No, ____ (come back)",
+    "question": "Ann went to the bank, but a few minutes ago she returned. Somebody asks 'Is Ann still at the bank?' You say: No, ____ (come back)",
     "options": [
       "she has just come back",
-      "she has just come backs",
-      "she has just come backed",
-      "has she has just come backed"
+      "she just came back",
+      "she is coming back",
+      "she will come back"
     ],
     "answer": "she has just come back",
     "explanation": "Đáp án \"she has just come back\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3157,9 +3157,9 @@
     "question": "(ever/ride/horse?) ____ ?",
     "options": [
       "Have you ever ridden a horse",
-      "did you ever ridden a horse",
-      "are you ever ridden a horse",
-      "do not know"
+      "Did you ever ride a horse",
+      "Are you riding a horse",
+      "Will you ride a horse"
     ],
     "answer": "Have you ever ridden a horse",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you ever ridden a horse\"."
@@ -3172,9 +3172,9 @@
     "question": "(ever/be/California?) ____ ?",
     "options": [
       "Have you ever been to California",
-      "did you ever been to California",
-      "are you ever been to California",
-      "do not know"
+      "Did you ever go to California",
+      "Are you in California",
+      "Will you go to California"
     ],
     "answer": "Have you ever been to California",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you ever been to California\"."
@@ -3187,9 +3187,9 @@
     "question": "(ever/run/marathon?) ____ ?",
     "options": [
       "Have you ever run a marathon",
-      "did you ever run a marathon",
-      "are you ever run a marathon",
-      "do not know"
+      "Did you ever run a marathon",
+      "Are you running a marathon",
+      "Will you run a marathon"
     ],
     "answer": "Have you ever run a marathon",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you ever run a marathon\"."
@@ -3202,9 +3202,9 @@
     "question": "(ever/speak/famous person?) ____ ?",
     "options": [
       "Have you ever spoken to a famous person",
-      "did you ever spoken to a famous person",
-      "are you ever spoken to a famous person",
-      "do not know"
+      "Did you ever speak to a famous person",
+      "Are you speaking to a famous person",
+      "Will you speak to a famous person"
     ],
     "answer": "Have you ever spoken to a famous person",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you ever spoken to a famous person\"."
@@ -3217,9 +3217,9 @@
     "question": "(always/live/in the town?) ____ ?",
     "options": [
       "Have you always lived in this town",
-      "did you always lived in this town",
-      "are you always lived in this town",
-      "do not know"
+      "Did you always live in this town",
+      "Are you living in this town",
+      "Will you live in this town"
     ],
     "answer": "Have you always lived in this town",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you always lived in this town\"."
@@ -3232,9 +3232,9 @@
     "question": "What ____ her.",
     "options": [
       "is the most beautiful place you have ever visited",
-      "is the most beautiful place you have ever visiteds",
-      "is the most beautiful place you have ever visiteded",
-      "has is the most beautiful place you have ever visiteded"
+      "do not know",
+      "is doing",
+      "did it"
     ],
     "answer": "is the most beautiful place you have ever visited",
     "explanation": "Đáp án \"is the most beautiful place you have ever visited\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3247,7 +3247,7 @@
     "question": "A: How is Amy these days? B: I don't know. I ____ her recently.",
     "options": [
       "have not seen",
-      "have been seening",
+      "have not been seening",
       "did not seen",
       "do not seen"
     ],
@@ -3262,7 +3262,7 @@
     "question": "A: Are you hungry? B: Yes, I ____ much today.",
     "options": [
       "have not eaten",
-      "have been eatening",
+      "have not been eatening",
       "did not eaten",
       "do not eaten"
     ],
@@ -3277,9 +3277,9 @@
     "question": "A: Can you play chess? B: Yes, but ____ for ages.",
     "options": [
       "I have not played",
-      "I have not playeds",
-      "I have not playeded",
-      "has I have not playeded"
+      "I did not play",
+      "I am not playing",
+      "I will not play"
     ],
     "answer": "I have not played",
     "explanation": "Đáp án \"I have not played\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3289,12 +3289,12 @@
     "unit": "UNIT 8 - Present Perfect (2)",
     "level": "Khá",
     "category": "Grammar - Present Perfect Simple",
-    "question": "A: Did you enjoy your holiday? B: Yes, it's the best holiday. ____ for a long times.",
+    "question": "A: Did you enjoy your holiday? B: Yes, it's the best holiday. ____ for a long time.",
     "options": [
       "I have had",
-      "I have hads",
-      "I have haded",
-      "has I have haded"
+      "I had",
+      "I am having",
+      "I will have"
     ],
     "answer": "I have had",
     "explanation": "Đáp án \"I have had\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3307,9 +3307,9 @@
     "question": "A: What's that book like? B: I don't know. ____ it.",
     "options": [
       "I have not read",
-      "I have not reads",
-      "I have not readed",
-      "has I have not readed"
+      "I did not read",
+      "I am not reading",
+      "I will not read"
     ],
     "answer": "I have not read",
     "explanation": "Đáp án \"I have not read\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3322,9 +3322,9 @@
     "question": "A: Is Brussels an interesting place? B: I've no idea. ____ there.",
     "options": [
       "I have not been",
-      "I have not beens",
-      "I have not beened",
-      "has I have not beened"
+      "I did not go",
+      "I am not there",
+      "I will not go"
     ],
     "answer": "I have not been",
     "explanation": "Đáp án \"I have not been\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3334,12 +3334,12 @@
     "unit": "UNIT 8 - Present Perfect (2)",
     "level": "Khá",
     "category": "Grammar - Present Perfect Simple",
-    "question": "A: Mike has later for work again today. B: Agian? He ____ every day this week.",
+    "question": "A: Mike is late for work again today. B: Again? He ____ every day this week.",
     "options": [
       "has been late",
-      "has been beening",
-      "beened",
-      "is beening"
+      "was late",
+      "is late",
+      "has arrived late"
     ],
     "answer": "has been late",
     "explanation": "Đáp án \"has been late\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3352,9 +3352,9 @@
     "question": "A: Do you like caviar? B: I don't know ____ it.",
     "options": [
       "I have never tried",
-      "I have never trieds",
-      "I have never trieded",
-      "has I have never trieded"
+      "I never tried",
+      "I am trying",
+      "I will try"
     ],
     "answer": "I have never tried",
     "explanation": "Đáp án \"I have never tried\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3364,12 +3364,12 @@
     "unit": "UNIT 8 - Present Perfect (2)",
     "level": "Khá",
     "category": "Grammar - Present Perfect Simple",
-    "question": "A: The car broke down again yesterday. B: Not agian! That's the second times. ____ this week.",
+    "question": "A: The car broke down again yesterday. B: Not again! That's the second time. ____ this week.",
     "options": [
       "it has broken down",
-      "it has broken downs",
-      "it has broken downed",
-      "has it has broken downed"
+      "it broke down",
+      "it is breaking down",
+      "it will break down"
     ],
     "answer": "it has broken down",
     "explanation": "Đáp án \"it has broken down\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3382,9 +3382,9 @@
     "question": "I saw Tom yesterday but I ____ today.",
     "options": [
       "have not seen him",
-      "have been seening",
-      "did not seen",
-      "do not seen"
+      "have not been seening him",
+      "did not seen him",
+      "do not seen him"
     ],
     "answer": "have not seen him",
     "explanation": "Đáp án \"have not seen him\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3397,9 +3397,9 @@
     "question": "I read a newspaper yesterday but I ____ today.",
     "options": [
       "have not read one",
-      "have been reading",
-      "did not read",
-      "do not read"
+      "have not been reading one",
+      "did not read one",
+      "do not read one"
     ],
     "answer": "have not read one",
     "explanation": "Đáp án \"have not read one\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3412,9 +3412,9 @@
     "question": "Last year the company made a profit but this year. ____",
     "options": [
       "it has made a loss",
-      "it has made a losses",
-      "it has made a lossed",
-      "has it has made a lossed"
+      "it had made a loss",
+      "it is made a loss",
+      "it will made a loss"
     ],
     "answer": "it has made a loss",
     "explanation": "Đáp án \"it has made a loss\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3427,9 +3427,9 @@
     "question": "Tracy worked hard at school last term but ____",
     "options": [
       "she has not worked hard",
-      "she has not worked hards",
-      "she has not worked harded",
-      "has she has not worked harded"
+      "she did not work hard",
+      "she is not working hard",
+      "she will not work hard"
     ],
     "answer": "she has not worked hard",
     "explanation": "Đáp án \"she has not worked hard\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3442,9 +3442,9 @@
     "question": "It snowed a lot last winter but ____",
     "options": [
       "it has not snowed much",
-      "it has not snowed muches",
-      "it has not snowed muched",
-      "has it has not snowed muched"
+      "it did not snow much",
+      "it is not snowing much",
+      "it will not snow much"
     ],
     "answer": "it has not snowed much",
     "explanation": "Đáp án \"it has not snowed much\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3457,9 +3457,9 @@
     "question": "Our football team won a lot of games last season but we ____",
     "options": [
       "have not won many",
-      "have been woning",
-      "did not won",
-      "do not won"
+      "have not been woning many",
+      "did not won many",
+      "do not won many"
     ],
     "answer": "have not won many",
     "explanation": "Đáp án \"have not won many\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3469,14 +3469,14 @@
     "unit": "UNIT 8 - Present Perfect (2)",
     "level": "Khá",
     "category": "Grammar - Present Perfect Simple",
-    "question": "_You ask:= Have ____ ?",
+    "question": "Jack is driving a car. Ask him: ____ ?",
     "options": [
-      "you driven a car before",
-      "you driven a car befores",
-      "you driven a car befored",
-      "has you driven a car befored"
+      "Have you driven a car before",
+      "Did you drive a car before",
+      "Are you driving a car now",
+      "Will you drive a car"
     ],
-    "answer": "you driven a car before",
+    "answer": "Have you driven a car before",
     "explanation": "Đáp án \"you driven a car before\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
   },
   {
@@ -3484,12 +3484,12 @@
     "unit": "UNIT 8 - Present Perfect (2)",
     "level": "Khá",
     "category": "Grammar - Present Perfect Simple",
-    "question": "_He says:= No, this is the first times ____.",
+    "question": "He says: No, this is the first time ____.",
     "options": [
       "I have driven a car",
-      "I have driven a cars",
-      "I have driven a cared",
-      "has I have driven a cared"
+      "I drove a car",
+      "I am driving a car",
+      "I will drive a car"
     ],
     "answer": "I have driven a car",
     "explanation": "Đáp án \"I have driven a car\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3499,14 +3499,14 @@
     "unit": "UNIT 8 - Present Perfect (2)",
     "level": "Khá",
     "category": "Grammar - Present Perfect Simple",
-    "question": "_You ask:= Have ____ ?",
+    "question": "Len is playing tennis. Ask him: ____ ?",
     "options": [
-      "you played tennis before",
-      "you played tennis befores",
-      "you played tennis befored",
-      "has you played tennis befored"
+      "Have you played tennis before",
+      "Did you play tennis before",
+      "Are you playing tennis now",
+      "Will you play tennis"
     ],
-    "answer": "you played tennis before",
+    "answer": "Have you played tennis before",
     "explanation": "Đáp án \"you played tennis before\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
   },
   {
@@ -3514,12 +3514,12 @@
     "unit": "UNIT 8 - Present Perfect (2)",
     "level": "Khá",
     "category": "Grammar - Present Perfect Simple",
-    "question": "_He says:= No, this is the first time ____",
+    "question": "He says: No, this is the first time ____.",
     "options": [
       "I have played tennis",
-      "I have played tennises",
-      "I have played tennised",
-      "has I have played tennised"
+      "I played tennis",
+      "I am playing tennis",
+      "I will play tennis"
     ],
     "answer": "I have played tennis",
     "explanation": "Đáp án \"I have played tennis\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3529,12 +3529,12 @@
     "unit": "UNIT 8 - Present Perfect (2)",
     "level": "Khá",
     "category": "Question Formation",
-    "question": "_You ask:= ____ ?",
+    "question": "You ask: ____ ?",
     "options": [
       "Have you ridden a horse before",
-      "did you ridden a horse before",
-      "are you ridden a horse before",
-      "do not know"
+      "Did you ride a horse before",
+      "Are you riding a horse now",
+      "Will you ride a horse"
     ],
     "answer": "Have you ridden a horse before",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you ridden a horse before\"."
@@ -3544,12 +3544,12 @@
     "unit": "UNIT 8 - Present Perfect (2)",
     "level": "Khá",
     "category": "Grammar - Present Perfect Simple",
-    "question": "_She says:=No, this is the first time ____",
+    "question": "She says: No, this is the first time ____.",
     "options": [
       "I have ridden a horse",
-      "I have ridden a horses",
-      "I have ridden a horsed",
-      "has I have ridden a horsed"
+      "I rode a horse",
+      "I am riding a horse",
+      "I will ride a horse"
     ],
     "answer": "I have ridden a horse",
     "explanation": "Đáp án \"I have ridden a horse\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3559,12 +3559,12 @@
     "unit": "UNIT 8 - Present Perfect (2)",
     "level": "Khá",
     "category": "Question Formation",
-    "question": "_You ask:= ____ ?",
+    "question": "You ask: ____ ?",
     "options": [
       "Have you been to London before",
-      "did you been to London before",
-      "are you been to London before",
-      "do not know"
+      "Did you go to London before",
+      "Are you in London now",
+      "Will you go to London"
     ],
     "answer": "Have you been to London before",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you been to London before\"."
@@ -3574,12 +3574,12 @@
     "unit": "UNIT 8 - Present Perfect (2)",
     "level": "Khá",
     "category": "Grammar - Present Perfect Simple",
-    "question": "_She says:= ____.",
+    "question": "She says: ____.",
     "options": [
       "No, this is the first time I have been to London",
-      "No, this is the first time I have been to Londons",
-      "No, this is the first time I have been to Londoned",
-      "has No, this is the first time I have been to Londoned"
+      "No, I went to London before",
+      "No, I am in London now",
+      "No, I will go to London"
     ],
     "answer": "No, this is the first time I have been to London",
     "explanation": "Đáp án \"No, this is the first time I have been to London\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
@@ -3592,9 +3592,9 @@
     "question": "John looks sunburnt. You ask: (you/ sit in the sun?) ____ ?",
     "options": [
       "Have you been sitting in the sun",
-      "did you been sitting in the sun",
-      "are you been sitting in the sun",
-      "do not know"
+      "Have you sat in the sun",
+      "Did you sit in the sun",
+      "Are you sitting in the sun"
     ],
     "answer": "Have you been sitting in the sun",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you been sitting in the sun\"."
@@ -3607,9 +3607,9 @@
     "question": "You have just arrived to meet a friend who is waiting for you. You ask: (you/wait/long?) ____ ?",
     "options": [
       "Have you been waiting long",
-      "did you been waiting long",
-      "are you been waiting long",
-      "do not know"
+      "Have you waited long",
+      "Did you wait long",
+      "Are you waiting now"
     ],
     "answer": "Have you been waiting long",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you been waiting long\"."
@@ -3622,9 +3622,9 @@
     "question": "You meet a friend in the street. His face and hands are very dirty. You ask: (what/you/do?) ____ ?",
     "options": [
       "What have you been doing",
-      "What did you been doing",
-      "What are you been doing",
-      "do not know"
+      "What have you done",
+      "What did you do",
+      "What are you doing"
     ],
     "answer": "What have you been doing",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"What have you been doing\"."
@@ -3637,9 +3637,9 @@
     "question": "A friend of yours is now living in Baker Street. You want to know 'how long …?) You ask: (how long/you/live/in Baker Street?) ____ ?",
     "options": [
       "How long have you been living in Baker Street",
-      "How long did you been living in Baker Street",
-      "How long are you been living in Baker Street",
-      "do not know"
+      "How long have you lived in Baker Street",
+      "How long did you live in Baker Street",
+      "How long are you living in Baker Street"
     ],
     "answer": "How long have you been living in Baker Street",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How long have you been living in Baker Street\"."
@@ -3649,12 +3649,12 @@
     "unit": "UNIT 9 - Present Perfect Continuous",
     "level": "Khó",
     "category": "Question Formation",
-    "question": "A friend tells you about his ob - he sells computer. You want to know 'how long…?) You ask: (how long/you/sell/computer?) ____ ?",
+    "question": "A friend tells you about his job - he sells computers. You want to know 'how long?' You ask: (how long/you/sell/computers?) ____ ?",
     "options": [
       "How long have you been selling computers",
-      "How long did you been selling computers",
-      "How long are you been selling computers",
-      "do not know"
+      "How long have you sold computers",
+      "How long did you sell computers",
+      "How long are you selling computers"
     ],
     "answer": "How long have you been selling computers",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How long have you been selling computers\"."
@@ -3664,7 +3664,7 @@
     "unit": "UNIT 9 - Present Perfect Continuous",
     "level": "Khó",
     "category": "Grammar - Present Perfect Continuous",
-    "question": "The rain stated two hours ago. It's still raining now. It ____ for two hours.",
+    "question": "The rain started two hours ago. It's still raining now. It ____ for two hours.",
     "options": [
       "has been raining",
       "has rained",
@@ -3697,9 +3697,9 @@
     "question": "I started Spanish classes in December. I'm still learning Spanish now. I ____ since December.",
     "options": [
       "have been learning Spanish",
-      "have learned",
-      "learned",
-      "are learning"
+      "have learned Spanish",
+      "learned Spanish",
+      "are learning Spanish"
     ],
     "answer": "have been learning Spanish",
     "explanation": "Đáp án \"have been learning Spanish\" phù hợp vì hành động bắt đầu trong quá khứ và vẫn tiếp tục hoặc còn dấu hiệu ở hiện tại."
@@ -3709,12 +3709,12 @@
     "unit": "UNIT 9 - Present Perfect Continuous",
     "level": "Khó",
     "category": "Grammar - Present Perfect Continuous",
-    "question": "Ann began looking for a job six month ago. She's still working now. ____ for six months",
+    "question": "Ann began looking for a job six months ago. She's still looking now. ____ for six months",
     "options": [
       "Ann has been looking for a job",
-      "Ann has been looking for a jobs",
-      "Ann has been looking for a jobed",
-      "has Ann has been looking for a jobed"
+      "Ann has looked for a job",
+      "Ann looked for a job",
+      "Ann is looking for a job"
     ],
     "answer": "Ann has been looking for a job",
     "explanation": "Đáp án \"Ann has been looking for a job\" phù hợp vì hành động bắt đầu trong quá khứ và vẫn tiếp tục hoặc còn dấu hiệu ở hiện tại."
@@ -3724,12 +3724,12 @@
     "unit": "UNIT 9 - Present Perfect Continuous",
     "level": "Khó",
     "category": "Grammar - Present Perfect Continuous",
-    "question": "Maty started working in London on 18 January. She's still working there now. ____ since 18 January.",
+    "question": "Mary started working in London on 18 January. She's still working there now. ____ since 18 January.",
     "options": [
       "Mary has been working there",
-      "Mary has been working theres",
-      "Mary has been working thered",
-      "has Mary has been working thered"
+      "Mary has worked there",
+      "Mary worked there",
+      "Mary is working there"
     ],
     "answer": "Mary has been working there",
     "explanation": "Đáp án \"Mary has been working there\" phù hợp vì hành động bắt đầu trong quá khứ và vẫn tiếp tục hoặc còn dấu hiệu ở hiện tại."
@@ -3742,9 +3742,9 @@
     "question": "Years ago you started writing to a penfriend. you still write to each other regularly now. We ____ for years.",
     "options": [
       "have been writing to each other",
-      "have writed",
-      "writed",
-      "are writing"
+      "have written to each other",
+      "wrote to each other",
+      "are writing to each other"
     ],
     "answer": "have been writing to each other",
     "explanation": "Đáp án \"have been writing to each other\" phù hợp vì hành động bắt đầu trong quá khứ và vẫn tiếp tục hoặc còn dấu hiệu ở hiện tại."
@@ -3787,9 +3787,9 @@
     "question": "Why ____ (you/look) at me like that? Stop it!",
     "options": [
       "are you looking",
-      "are you lookings",
-      "are you lookinged",
-      "has are you lookinged"
+      "do not know",
+      "is doing",
+      "did it"
     ],
     "answer": "are you looking",
     "explanation": "Đáp án \"are you looking\" phù hợp vì hành động bắt đầu trong quá khứ và vẫn tiếp tục hoặc còn dấu hiệu ở hiện tại."
@@ -3817,8 +3817,8 @@
     "question": "I ____ (think) about what you said and I've decided to take your advice.",
     "options": [
       "have been thinking",
-      "have thinked",
-      "thinked",
+      "have thought",
+      "thought",
       "are thinking"
     ],
     "answer": "have been thinking",
@@ -3847,9 +3847,9 @@
     "question": "(read/for two hours) He ____.",
     "options": [
       "has been reading for two hours",
-      "has read",
-      "read",
-      "is reading"
+      "has read for two hours",
+      "read for two hours",
+      "is reading for two hours"
     ],
     "answer": "has been reading for two hours",
     "explanation": "Đáp án \"has been reading for two hours\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
@@ -3862,9 +3862,9 @@
     "question": "(read/53 pages so far) He ____.",
     "options": [
       "has read 53 pages so far",
-      "has been reading",
-      "read",
-      "is reading"
+      "has been reading 53 pages so far",
+      "read 53 pages so far",
+      "is reading 53 pages so far"
     ],
     "answer": "has read 53 pages so far",
     "explanation": "Đáp án \"has read 53 pages so far\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
@@ -3877,9 +3877,9 @@
     "question": "(travel/for three months) She ____.",
     "options": [
       "has been travelling for three months",
-      "has travelled",
-      "travelled",
-      "is travelling"
+      "has travelled for three months",
+      "travelled for three months",
+      "is travelling for three months"
     ],
     "answer": "has been travelling for three months",
     "explanation": "Đáp án \"has been travelling for three months\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
@@ -3892,9 +3892,9 @@
     "question": "(visit/six countries so far) ____.",
     "options": [
       "She has visited six countries so far",
-      "She has visited six countries so fars",
-      "She has visited six countries so fared",
-      "has She has visited six countries so fared"
+      "She visited six countries",
+      "She is visiting six countries",
+      "She will visit six countries"
     ],
     "answer": "She has visited six countries so far",
     "explanation": "Đáp án \"She has visited six countries so far\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
@@ -3907,9 +3907,9 @@
     "question": "(win/the national championship four times) ____.",
     "options": [
       "He has won the national championship four times",
-      "He has won the national championship four timeses",
-      "He has won the national championship four timesed",
-      "has He has won the national championship four timesed"
+      "He had won the national championship four times",
+      "He is won the national championship four times",
+      "He will won the national championship four times"
     ],
     "answer": "He has won the national championship four times",
     "explanation": "Đáp án \"He has won the national championship four times\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
@@ -3922,9 +3922,9 @@
     "question": "(play/tennis since he was ten) ____",
     "options": [
       "He has been playing tennis since he was ten",
-      "He has been playing tennis since he was tens",
-      "He has been playing tennis since he was tened",
-      "has He has been playing tennis since he was tened"
+      "He has played tennis since he was ten",
+      "He played tennis when he was ten",
+      "He is playing tennis now"
     ],
     "answer": "He has been playing tennis since he was ten",
     "explanation": "Đáp án \"He has been playing tennis since he was ten\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
@@ -3937,9 +3937,9 @@
     "question": "When they left college, Mary and Sue started making films together. They still make films. (make/ten films since they left college) They ____",
     "options": [
       "have made ten films since they left college",
-      "have been madeing",
-      "maded",
-      "are madeing"
+      "have been madeing ten films since they left college",
+      "maded ten films since they left college",
+      "are madeing ten films since they left college"
     ],
     "answer": "have made ten films since they left college",
     "explanation": "Đáp án \"have made ten films since they left college\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
@@ -3952,9 +3952,9 @@
     "question": "You have a friend who is learning Arabic. You ask: (how long/learn/Arabic?) How long ____ ?",
     "options": [
       "have you been learning Arabic",
-      "have been youing",
-      "youed",
-      "are youing"
+      "have you learned Arabic",
+      "did you learn Arabic",
+      "are you learning Arabic"
     ],
     "answer": "have you been learning Arabic",
     "explanation": "Đáp án \"have you been learning Arabic\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
@@ -3967,9 +3967,9 @@
     "question": "You have just arrived to meet a friend. She is waiting for you. You ask: (how long/wait?) ____ ?",
     "options": [
       "How long have you been waiting",
-      "How long did you been waiting",
-      "How long are you been waiting",
-      "do not know"
+      "How long have you waited",
+      "How long did you wait",
+      "How long are you waiting"
     ],
     "answer": "How long have you been waiting",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How long have you been waiting\"."
@@ -3982,8 +3982,8 @@
     "question": "(how many fish/catch?) ____ ?",
     "options": [
       "How many fish have you caught",
-      "How many fish did you caught",
-      "How many fish are you caught",
+      "How many fish Did you caught",
+      "How many fish Are you caught",
       "do not know"
     ],
     "answer": "How many fish have you caught",
@@ -3997,8 +3997,8 @@
     "question": "Some friends of yours are having a party next week. You ask: (how many people/invite?) ____ ?",
     "options": [
       "How many people have you invited",
-      "How many people did you invited",
-      "How many people are you invited",
+      "How many people Did you invited",
+      "How many people Are you invited",
       "do not know"
     ],
     "answer": "How many people have you invited",
@@ -4012,9 +4012,9 @@
     "question": "A friend of yours is a teacher. You ask: (how long/teach?) ____ ?",
     "options": [
       "How long have you been teaching",
-      "How long did you been teaching",
-      "How long are you been teaching",
-      "do not know"
+      "How long have you taught",
+      "How long did you teach",
+      "How long are you teaching"
     ],
     "answer": "How long have you been teaching",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How long have you been teaching\"."
@@ -4027,8 +4027,8 @@
     "question": "(how many books/write?) ____ ?",
     "options": [
       "How many books have you written",
-      "How many books did you written",
-      "How many books are you written",
+      "How many books Did you written",
+      "How many books Are you written",
       "do not know"
     ],
     "answer": "How many books have you written",
@@ -4042,9 +4042,9 @@
     "question": "(how long/write/books?) ____ ?",
     "options": [
       "How long have you been writing books",
-      "How long did you been writing books",
-      "How long are you been writing books",
-      "do not know"
+      "How long have you written books",
+      "How long did you write books",
+      "How long are you writing books"
     ],
     "answer": "How long have you been writing books",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How long have you been writing books\"."
@@ -4057,9 +4057,9 @@
     "question": "(how long/save?) ____ ?",
     "options": [
       "How long have you been saving",
-      "How long did you been saving",
-      "How long are you been saving",
-      "do not know"
+      "How long have you saved",
+      "How long did you save",
+      "How long are you saving"
     ],
     "answer": "How long have you been saving",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How long have you been saving\"."
@@ -4072,8 +4072,8 @@
     "question": "(how much money/save?) ____ ?",
     "options": [
       "How much money have you saved",
-      "How much money did you saved",
-      "How much money are you saved",
+      "How much money Did you saved",
+      "How much money Are you saved",
       "do not know"
     ],
     "answer": "How much money have you saved",
@@ -4087,9 +4087,9 @@
     "question": "Where have you been? ____ (you/play) tennis?",
     "options": [
       "Have you been playing",
-      "did you been playing",
-      "are you been playing",
-      "do not know"
+      "Have you played",
+      "Did you play",
+      "Are you playing"
     ],
     "answer": "Have you been playing",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you been playing\"."
@@ -4102,9 +4102,9 @@
     "question": "Look! Somebody ____ (break) that window.",
     "options": [
       "has broken",
-      "has been brokening",
-      "brokened",
-      "is brokening"
+      "broke",
+      "is breaking",
+      "has been breaking"
     ],
     "answer": "has broken",
     "explanation": "Đáp án \"has broken\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
@@ -4117,9 +4117,9 @@
     "question": "You look tired. ____ (you/work) hard?",
     "options": [
       "Have you been working",
-      "did you been working",
-      "are you been working",
-      "do not know"
+      "Have you worked",
+      "Did you work",
+      "Are you working"
     ],
     "answer": "Have you been working",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you been working\"."
@@ -4129,12 +4129,12 @@
     "unit": "UNIT 10 - Present Perfect Continuous and Simple",
     "level": "Khó",
     "category": "Question Formation",
-    "question": "____ you/ever/work) in a factory? \"No, never\"",
+    "question": "____ in a factory? (you/ever/work)",
     "options": [
       "Have you ever worked",
-      "did you ever worked",
-      "are you ever worked",
-      "do not know"
+      "Did you ever work",
+      "Are you working",
+      "Will you work"
     ],
     "answer": "Have you ever worked",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you ever worked\"."
@@ -4144,12 +4144,12 @@
     "unit": "UNIT 10 - Present Perfect Continuous and Simple",
     "level": "Khó",
     "category": "Grammar - Present Perfect Simple vs Continuous",
-    "question": "\"Ane is away on holiday.\" Oh, is she? Where ____ (she/go)?",
+    "question": "Ann is away on holiday. Oh, is she? Where ____? (she/go)",
     "options": [
       "has she gone",
-      "has been sheing",
-      "shed",
-      "is sheing"
+      "did she go",
+      "is she going",
+      "has she been"
     ],
     "answer": "has she gone",
     "explanation": "Đáp án \"has she gone\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
@@ -4162,9 +4162,9 @@
     "question": "My brother is an actor. He ____ (appear) in several films.",
     "options": [
       "has appeared",
-      "has been appeareding",
-      "appeareded",
-      "is appeareding"
+      "appeared",
+      "is appearing",
+      "has been appearing"
     ],
     "answer": "has appeared",
     "explanation": "Đáp án \"has appeared\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
@@ -4207,9 +4207,9 @@
     "question": "I ____ my address book. (lose)",
     "options": [
       "have lost",
-      "have been losting",
-      "losted",
-      "are losting"
+      "lost",
+      "am losing",
+      "have been looking for"
     ],
     "answer": "have lost",
     "explanation": "Đáp án \"have lost\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
@@ -4222,9 +4222,9 @@
     "question": "____ it anywhere? (you/see)",
     "options": [
       "Have you seen",
-      "did you seen",
-      "are you seen",
-      "do not know"
+      "Did you see",
+      "Are you seeing",
+      "Will you see"
     ],
     "answer": "Have you seen",
     "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you seen\"."
@@ -4252,7 +4252,7 @@
     "question": "I ____ it yet. (not/finish)",
     "options": [
       "have not finished",
-      "have been finisheding",
+      "have not been finisheding",
       "did not finished",
       "do not finished"
     ],
