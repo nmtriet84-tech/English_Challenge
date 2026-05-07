@@ -37,7 +37,7 @@
       top: 0;
       z-index: 10;
       display: grid;
-      grid-template-columns: repeat(6, minmax(120px, 1fr));
+      grid-template-columns: repeat(7, minmax(120px, 1fr));
       gap: 10px;
       padding: 12px;
       background: #fffffff2;
@@ -399,6 +399,10 @@
       </select>
     </label>
     <label class="check">
+      <input id="studentAnswerInput" type="checkbox" checked>
+      In bảng điền câu trả lời
+    </label>
+    <label class="check">
       <input id="separateAnswerInput" type="checkbox" checked>
       In đáp án ra trang riêng
     </label>
@@ -454,6 +458,7 @@
       });
       $("separateAnswerInput").addEventListener("change", renderPaper);
       $("boldAnswerInput").addEventListener("change", renderPaper);
+      $("studentAnswerInput").addEventListener("change", renderPaper);
     }
 
     function generatePaper() {
@@ -505,7 +510,7 @@
       const answerPageClass = $("separateAnswerInput").checked ? "answer-page" : "answer-page no-answer-key";
       $("exam").innerHTML = `
         ${renderHeader()}
-        ${renderAnswerSheet(false)}
+        ${$("studentAnswerInput").checked ? renderAnswerSheet(false) : ""}
         <section class="questions">
           ${state.paper.questions.map(renderQuestion).join("")}
         </section>
@@ -528,6 +533,8 @@
             <div class="student-info">
               <span>Họ và tên:</span><span class="line"></span>
               <span>Lớp:</span><span class="line"></span>
+              <span>STT/SBD:</span><span class="line"></span>
+              <span>Ngày:</span><span class="line"></span>
             </div>
           </div>
           <div class="code-box">
