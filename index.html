@@ -1,0 +1,1273 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>English Quiz GenZ</title>
+  <link rel="icon" href="data:,">
+  <style>
+    :root {
+      --ink: #171717;
+      --muted: #68636f;
+      --paper: #fffaf2;
+      --panel: #ffffff;
+      --line: #211f261f;
+      --hot: #ff4d8d;
+      --mint: #20c997;
+      --sun: #ffc857;
+      --sky: #3aa8ff;
+      --bad: #ff5a5f;
+      --good: #1ca97c;
+      --shadow: 0 24px 70px #27202f24;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 10% 8%, #ff4d8d33 0 18%, transparent 19%),
+        radial-gradient(circle at 90% 18%, #20c99730 0 16%, transparent 17%),
+        linear-gradient(135deg, #fff4c7 0%, #e8fff7 45%, #f7ecff 100%);
+      overflow-x: hidden;
+    }
+
+    button, input { font: inherit; }
+
+    .app {
+      width: min(1060px, calc(100% - 32px));
+      min-height: 100vh;
+      margin: 0 auto;
+      padding: 28px 0;
+      display: grid;
+      place-items: center;
+    }
+
+    .screen { width: 100%; display: none; }
+    .screen.active { display: block; }
+
+    .shell {
+      position: relative;
+      overflow: hidden;
+      background: #ffffffd9;
+      border: 2px solid #ffffff;
+      border-radius: 24px;
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(18px);
+    }
+
+    .hero {
+      min-height: min(680px, calc(100vh - 56px));
+      display: grid;
+      grid-template-columns: 1.05fr .95fr;
+      align-items: center;
+      gap: 18px;
+      padding: clamp(24px, 5vw, 56px);
+    }
+
+    .hero-art {
+      min-height: 440px;
+      border-left: 2px dashed #211f2629;
+      display: grid;
+      place-items: center;
+    }
+
+    .sticker-board {
+      position: relative;
+      width: min(390px, 100%);
+      aspect-ratio: 1;
+      border-radius: 34% 66% 50% 50% / 42% 37% 63% 58%;
+      background:
+        linear-gradient(145deg, #ff4d8d, #ffc857 48%, #20c997);
+      box-shadow: 0 32px 70px #ff4d8d2e;
+      transform: rotate(-4deg);
+    }
+
+    .sticker-board::before,
+    .sticker-board::after {
+      content: "";
+      position: absolute;
+      background: #fff;
+      border: 4px solid #1f1b2d;
+      box-shadow: 8px 8px 0 #1f1b2d;
+    }
+
+    .sticker-board::before {
+      width: 55%;
+      height: 26%;
+      left: -8%;
+      top: 24%;
+      border-radius: 18px;
+      transform: rotate(11deg);
+    }
+
+    .sticker-board::after {
+      width: 42%;
+      height: 42%;
+      right: -4%;
+      bottom: 11%;
+      border-radius: 50%;
+    }
+
+    .bubble {
+      position: absolute;
+      display: grid;
+      place-items: center;
+      min-width: 108px;
+      padding: 13px 18px;
+      border: 3px solid #1f1b2d;
+      border-radius: 18px;
+      background: #fff;
+      box-shadow: 7px 7px 0 #1f1b2d;
+      font-weight: 950;
+      letter-spacing: 0;
+      transform: rotate(7deg);
+    }
+
+    .bubble.one { top: 19%; left: -4%; color: var(--hot); }
+    .bubble.two { right: 2%; top: 10%; color: #6b4dff; transform: rotate(-8deg); }
+    .bubble.three { bottom: 14%; left: 18%; color: var(--mint); transform: rotate(3deg); }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      border: 2px solid #1f1b2d;
+      border-radius: 999px;
+      background: var(--sun);
+      font-weight: 900;
+      box-shadow: 4px 4px 0 #1f1b2d;
+    }
+
+    h1 {
+      margin: 22px 0 14px;
+      font-size: clamp(42px, 8vw, 92px);
+      line-height: .9;
+      letter-spacing: 0;
+      max-width: 650px;
+    }
+
+    .lede {
+      max-width: 560px;
+      margin: 0 0 28px;
+      color: var(--muted);
+      font-size: clamp(17px, 2.4vw, 22px);
+      line-height: 1.45;
+      font-weight: 650;
+    }
+
+    .start-form {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 12px;
+      max-width: 560px;
+    }
+
+    .leaderboard-panel {
+      max-width: 560px;
+      margin-top: 28px;
+      padding: 18px;
+      border: 3px solid #1f1b2d;
+      border-radius: 20px;
+      background: #fff;
+      box-shadow: 6px 6px 0 #1f1b2d;
+    }
+
+    .leaderboard-panel h2 {
+      margin: 0 0 12px;
+      font-size: 20px;
+      line-height: 1.2;
+      letter-spacing: 0;
+    }
+
+    .leaderboard-list {
+      display: grid;
+      gap: 8px;
+    }
+
+    .leader-row {
+      min-height: 48px;
+      display: grid;
+      grid-template-columns: 42px minmax(0, 1fr) auto;
+      align-items: center;
+      gap: 10px;
+      padding: 8px 10px;
+      border: 2px solid #1f1b2d;
+      border-radius: 14px;
+      background: #fffaf2;
+      font-weight: 900;
+    }
+
+    .leader-row small {
+      display: block;
+      margin-top: 2px;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .rank-badge {
+      width: 34px;
+      aspect-ratio: 1;
+      display: grid;
+      place-items: center;
+      border-radius: 50%;
+      background: var(--sun);
+      border: 2px solid #1f1b2d;
+      box-shadow: 2px 2px 0 #1f1b2d;
+    }
+
+    .input {
+      width: 100%;
+      min-height: 58px;
+      padding: 0 18px;
+      border: 3px solid #1f1b2d;
+      border-radius: 18px;
+      background: #fff;
+      box-shadow: 5px 5px 0 #1f1b2d;
+      outline: none;
+      font-size: 18px;
+      font-weight: 800;
+    }
+
+    .input:focus { border-color: var(--hot); }
+
+    .btn {
+      min-height: 50px;
+      border: 0;
+      border-radius: 16px;
+      padding: 0 18px;
+      background: #1f1b2d;
+      color: #fff;
+      font-weight: 950;
+      cursor: pointer;
+      box-shadow: 0 12px 28px #1f1b2d26;
+      transition: transform .18s ease, box-shadow .18s ease, opacity .18s ease;
+      white-space: nowrap;
+    }
+
+    .btn:hover { transform: translateY(-2px); box-shadow: 0 16px 34px #1f1b2d30; }
+    .btn:disabled { opacity: .55; cursor: not-allowed; transform: none; }
+    .btn.hot { background: var(--hot); }
+    .btn.mint { background: var(--mint); color: #10251f; }
+    .btn.sun { background: var(--sun); color: #1f1b2d; }
+    .btn.ghost { background: #fff; color: #1f1b2d; border: 2px solid #1f1b2d; }
+
+    .quiz {
+      min-height: min(760px, calc(100vh - 56px));
+      padding: 24px;
+    }
+
+    .topbar {
+      display: grid;
+      grid-template-columns: 1fr auto auto auto;
+      gap: 12px;
+      align-items: center;
+      margin-bottom: 20px;
+    }
+
+    .pill {
+      min-height: 46px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 0 14px;
+      border: 2px solid #1f1b2d;
+      border-radius: 999px;
+      background: #fff;
+      font-weight: 900;
+      box-shadow: 3px 3px 0 #1f1b2d;
+    }
+
+    .timer {
+      position: relative;
+      width: 72px;
+      aspect-ratio: 1;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      background: conic-gradient(var(--hot) var(--timer-angle), #ece7f0 0);
+      border: 3px solid #1f1b2d;
+      box-shadow: 4px 4px 0 #1f1b2d;
+      font-weight: 950;
+      font-size: 22px;
+    }
+
+    .timer::after {
+      content: "";
+      position: absolute;
+      inset: 7px;
+      border-radius: 50%;
+      background: #fff;
+      z-index: 0;
+    }
+
+    .timer span { position: relative; z-index: 1; }
+
+    .question-panel {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 320px;
+      gap: 22px;
+      align-items: stretch;
+    }
+
+    .question-card {
+      min-height: 500px;
+      padding: clamp(22px, 4vw, 40px);
+      border: 3px solid #1f1b2d;
+      border-radius: 22px;
+      background: #fff;
+      box-shadow: 9px 9px 0 #1f1b2d;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      gap: 28px;
+    }
+
+    .meta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 18px;
+    }
+
+    .tag {
+      padding: 7px 10px;
+      border-radius: 999px;
+      background: #f4f1f7;
+      color: #433b4d;
+      font-size: 13px;
+      font-weight: 850;
+    }
+
+    .question-text {
+      margin: 0;
+      font-size: clamp(24px, 4.2vw, 42px);
+      line-height: 1.18;
+      font-weight: 950;
+      letter-spacing: 0;
+    }
+
+    .options {
+      display: grid;
+      gap: 12px;
+    }
+
+    .option {
+      width: 100%;
+      min-height: 62px;
+      text-align: left;
+      border: 2px solid #1f1b2d;
+      border-radius: 16px;
+      padding: 14px 16px;
+      background: #fff;
+      color: #1f1b2d;
+      cursor: pointer;
+      display: grid;
+      grid-template-columns: 34px 1fr;
+      align-items: center;
+      gap: 12px;
+      font-weight: 850;
+      box-shadow: 3px 3px 0 #1f1b2d;
+    }
+
+    .option:hover,
+    .option.selected {
+      background: #e9fff6;
+      border-color: var(--mint);
+      transform: translateY(-1px);
+    }
+
+    .option-key {
+      width: 34px;
+      aspect-ratio: 1;
+      display: grid;
+      place-items: center;
+      border-radius: 50%;
+      background: #1f1b2d;
+      color: #fff;
+      font-size: 14px;
+    }
+
+    .side {
+      display: grid;
+      gap: 14px;
+      align-content: start;
+    }
+
+    .statbox {
+      padding: 18px;
+      border: 2px solid #1f1b2d;
+      border-radius: 20px;
+      background: #fff;
+      box-shadow: 5px 5px 0 #1f1b2d;
+    }
+
+    .statbox strong {
+      display: block;
+      font-size: 32px;
+      line-height: 1;
+      margin-bottom: 6px;
+    }
+
+    .statbox span {
+      color: var(--muted);
+      font-weight: 800;
+      font-size: 14px;
+    }
+
+    .progress {
+      height: 12px;
+      border: 2px solid #1f1b2d;
+      border-radius: 999px;
+      background: #fff;
+      overflow: hidden;
+      margin-top: 14px;
+    }
+
+    .progress > i {
+      display: block;
+      height: 100%;
+      width: var(--w);
+      background: linear-gradient(90deg, var(--hot), var(--sun), var(--mint));
+    }
+
+    .actions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      margin-top: 18px;
+    }
+
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      display: none;
+      place-items: center;
+      background: #17121fcc;
+      z-index: 20;
+      padding: 20px;
+    }
+
+    .modal-backdrop.active { display: grid; }
+
+    .modal {
+      width: min(760px, 100%);
+      max-height: min(760px, calc(100vh - 40px));
+      overflow: auto;
+      background: var(--panel);
+      border: 3px solid #1f1b2d;
+      border-radius: 22px;
+      box-shadow: 10px 10px 0 #1f1b2d;
+      padding: clamp(20px, 4vw, 34px);
+    }
+
+    .modal h2 {
+      margin: 0 0 8px;
+      font-size: clamp(30px, 5vw, 52px);
+      line-height: 1;
+      letter-spacing: 0;
+    }
+
+    .remark {
+      margin: 0 0 20px;
+      color: var(--muted);
+      font-size: 18px;
+      font-weight: 850;
+      line-height: 1.4;
+    }
+
+    .history {
+      width: 100%;
+      border-collapse: collapse;
+      overflow: hidden;
+      border: 2px solid #1f1b2d;
+      border-radius: 14px;
+      font-size: 14px;
+      background: #fff;
+    }
+
+    .history th,
+    .history td {
+      padding: 11px 10px;
+      border-bottom: 1px solid var(--line);
+      text-align: left;
+      font-weight: 800;
+    }
+
+    .history th { background: #fff0a8; }
+
+    .review {
+      min-height: min(760px, calc(100vh - 56px));
+      padding: 24px;
+    }
+
+    .review-card {
+      min-height: 560px;
+      padding: clamp(22px, 4vw, 38px);
+      border: 3px solid #1f1b2d;
+      border-radius: 22px;
+      background: #fff;
+      box-shadow: 9px 9px 0 #1f1b2d;
+      display: grid;
+      gap: 18px;
+    }
+
+    .answer-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+    }
+
+    .answer-box {
+      padding: 16px;
+      border: 2px solid #1f1b2d;
+      border-radius: 16px;
+      background: #f8f6fb;
+      font-weight: 850;
+    }
+
+    .answer-box.good { background: #dcfff2; border-color: var(--good); }
+    .answer-box.bad { background: #ffe2e5; border-color: var(--bad); }
+
+    .empty {
+      padding: 20px;
+      border: 2px dashed #1f1b2d;
+      border-radius: 16px;
+      color: var(--muted);
+      font-weight: 850;
+    }
+
+    .toast {
+      position: fixed;
+      left: 50%;
+      bottom: 22px;
+      transform: translateX(-50%);
+      max-width: min(520px, calc(100% - 32px));
+      padding: 13px 16px;
+      border-radius: 999px;
+      background: #1f1b2d;
+      color: #fff;
+      font-weight: 900;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity .2s ease, transform .2s ease;
+      z-index: 30;
+    }
+
+    .toast.show {
+      opacity: 1;
+      transform: translate(-50%, -4px);
+    }
+
+    @media (max-width: 840px) {
+      .hero,
+      .question-panel {
+        grid-template-columns: 1fr;
+      }
+
+      .hero-art {
+        min-height: 260px;
+        border-left: 0;
+        border-top: 2px dashed #211f2629;
+        padding-top: 22px;
+      }
+
+      .sticker-board { width: min(260px, 82%); }
+
+      .topbar {
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .topbar .pill:first-child {
+        grid-column: 1 / -1;
+      }
+
+      .side {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .actions { justify-content: stretch; }
+      .actions .btn { flex: 1; }
+    }
+
+    @media (max-width: 560px) {
+      .app { width: min(100% - 18px, 1060px); padding: 9px 0; }
+      .shell { border-radius: 18px; }
+      .hero, .quiz, .review { padding: 16px; }
+      .start-form, .side, .answer-grid { grid-template-columns: 1fr; }
+      .topbar { grid-template-columns: 1fr; }
+      .timer { width: 64px; }
+      .question-card, .review-card { box-shadow: 5px 5px 0 #1f1b2d; }
+      .question-text { font-size: 24px; }
+      .option { grid-template-columns: 30px 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <main class="app">
+    <section id="startScreen" class="screen active">
+      <div class="shell hero">
+        <div>
+          <span class="eyebrow">English Quiz Mode</span>
+          <h1>Flex tiếng Anh tới nóc</h1>
+          <p class="lede">Nhập nickname, vào trận, né bẫy ngữ pháp và giữ chuỗi đúng cho thật mượt.</p>
+          <form id="startForm" class="start-form">
+            <input id="nicknameInput" class="input" maxlength="24" autocomplete="nickname" placeholder="Nickname của bạn">
+            <button class="btn hot" type="submit">Bắt đầu làm bài</button>
+          </form>
+          <section class="leaderboard-panel" aria-labelledby="leaderboardTitle">
+            <h2 id="leaderboardTitle">TOP 5 bảng xếp hạng</h2>
+            <div id="leaderboardList" class="leaderboard-list">
+              <div class="empty">Đang tải bảng xếp hạng...</div>
+            </div>
+          </section>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+          <div class="sticker-board">
+            <div class="bubble one">15s</div>
+            <div class="bubble two">10/10</div>
+            <div class="bubble three">No cap</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="quizScreen" class="screen">
+      <div class="shell quiz">
+        <div class="topbar">
+          <div class="pill" id="playerPill">Player</div>
+          <div class="pill">Câu <span id="questionIndex">1</span>/<span id="totalQuestions">20</span></div>
+          <div class="pill">Điểm <span id="scorePill">0.00</span>/10</div>
+          <div id="timer" class="timer" style="--timer-angle: 360deg"><span>15</span></div>
+        </div>
+
+        <div class="question-panel">
+          <article class="question-card">
+            <div>
+              <div class="meta-row">
+                <span class="tag" id="unitTag">Unit</span>
+                <span class="tag" id="levelTag">Level</span>
+                <span class="tag" id="categoryTag">Category</span>
+              </div>
+              <p id="questionText" class="question-text"></p>
+            </div>
+            <div>
+              <div id="options" class="options"></div>
+              <div class="actions">
+                <button id="giveUpBtn" class="btn ghost" type="button">Đầu hàng</button>
+                <button id="nextBtn" class="btn mint" type="button" disabled>Tiếp theo</button>
+              </div>
+            </div>
+          </article>
+
+          <aside class="side">
+            <div class="statbox">
+              <strong id="correctStat">0</strong>
+              <span>Câu đúng</span>
+              <div class="progress" style="--w: 0%" aria-hidden="true"><i></i></div>
+            </div>
+            <div class="statbox">
+              <strong id="wrongStat">0</strong>
+              <span>Câu sai</span>
+            </div>
+            <div class="statbox">
+              <strong id="streakStat">0</strong>
+              <span>Sai liên tiếp</span>
+            </div>
+            <div class="statbox">
+              <strong id="queueStat">20</strong>
+              <span>Tổng câu hiện tại</span>
+            </div>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <section id="reviewScreen" class="screen">
+      <div class="shell review">
+        <div class="topbar">
+          <div class="pill">Xem lại bài làm</div>
+          <div class="pill">Câu <span id="reviewIndex">1</span>/<span id="reviewTotal">1</span></div>
+          <button id="backResultBtn" class="btn ghost" type="button">Kết quả</button>
+          <button id="newQuizFromReviewBtn" class="btn hot" type="button">Làm bài mới</button>
+        </div>
+        <article class="review-card">
+          <div>
+            <div class="meta-row">
+              <span class="tag" id="reviewUnit"></span>
+              <span class="tag" id="reviewLevel"></span>
+              <span class="tag" id="reviewCategory"></span>
+            </div>
+            <p id="reviewQuestion" class="question-text"></p>
+          </div>
+          <div class="answer-grid">
+            <div id="userAnswerBox" class="answer-box"></div>
+            <div class="answer-box good" id="correctAnswerBox"></div>
+          </div>
+          <div class="answer-box" id="explanationBox"></div>
+          <div class="actions">
+            <button id="prevReviewBtn" class="btn ghost" type="button">Trước</button>
+            <button id="nextReviewBtn" class="btn sun" type="button">Sau</button>
+          </div>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <div id="resultModal" class="modal-backdrop">
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="resultTitle">
+      <h2 id="resultTitle">Kết quả</h2>
+      <p id="resultRemark" class="remark"></p>
+      <div class="answer-grid">
+        <div class="answer-box good" id="finalScoreBox"></div>
+        <div class="answer-box" id="finalDetailBox"></div>
+      </div>
+      <h3>Lịch sử làm bài</h3>
+      <div id="historyWrap"></div>
+      <div class="actions">
+        <button id="reviewBtn" class="btn sun" type="button">Xem lại bài làm</button>
+        <button id="newQuizBtn" class="btn hot" type="button">Làm bài mới</button>
+      </div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast"></div>
+
+  <script>
+    const QUESTION_SECONDS = 15;
+    const START_TOTAL = 20;
+    const LEVEL_ORDER = ["Dễ", "Trung bình", "Khá", "Khó"];
+    const HISTORY_KEY = "englishQuizHistory.v1";
+    const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxpBGs8rp6wlJt9KRQ5hppho0hGpv06wfTSGHrtwEFiQYWXfMIKByIOzd2SE6ER3iwx/exec";
+
+    const remarks = [
+      "Đỉnh nóc, kịch trần. Bài này nhìn bạn xong chắc tự xin học lại.",
+      "Mượt như mở khóa màn hình lần đầu. Grammar hôm nay bị bạn xử đẹp.",
+      "Bạn đang bật chế độ học bá, hơi nguy hiểm cho phần còn lại của đề.",
+      "Điểm này đem khoe nhẹ được, nhớ nói là do luyện tập chứ đừng nói do vía.",
+      "Ổn áp nha. Không quá ồn ào nhưng đủ làm mấy lỗi sai phải tự quê.",
+      "Có tiềm năng flex, chỉ cần bớt vội là điểm sẽ lên như trend mới.",
+      "Bài làm có nét. Chưa cháy phố nhưng đã sáng đèn.",
+      "Bạn đang ở vùng 'biết bài nhưng còn drama với vài thì tiếng Anh'.",
+      "Tạm được, chưa viral nhưng không flop. Cứ luyện tiếp là lên.",
+      "Sai vài câu hơi đau, nhưng chưa đến mức phải đổi nickname.",
+      "Não đã khởi động, nhưng grammar vẫn đang xin thêm thời gian tải dữ liệu.",
+      "Kết quả này nói nhỏ thôi: bạn biết nhiều hơn bạn tưởng, nhưng cũng sai nhiều hơn bạn muốn.",
+      "Đề chưa hạ gục bạn, nhưng cũng đã lấy được vài miếng danh dự.",
+      "Có cố gắng, có năng lượng, có cả vài pha chọn đáp án rất nghệ thuật.",
+      "Điểm này cần comeback arc. Nhân vật chính thường bắt đầu từ đây.",
+      "Bạn vừa donate kha khá điểm cho đề. Lần sau thu hồi vốn nha.",
+      "Hệ thống ghi nhận tinh thần chiến đấu, còn đáp án thì ghi nhận hơi rén.",
+      "Grammar vừa tung combo, bạn đỡ được một phần. Tập thêm là phản công.",
+      "Không sao, hôm nay đề hơi căng. Nhưng mai mà vẫn vậy thì ta nói chuyện tiếp.",
+      "Bạn làm bài với tinh thần GenZ: nhanh, thật, và đôi lúc rất khó đoán.",
+      "Cần buff nhẹ vốn thì và câu hỏi. Tin vui là app này sinh ra để buff bạn.",
+      "Điểm còn khiêm tốn, nhưng thái độ vào trận là có. Lần mới làm lại cho bốc.",
+      "Đề đang cười nhẹ. Mình đề xuất làm ván nữa để nó bớt thái độ.",
+      "Không phải thua, chỉ là dữ liệu học tập đang cập nhật phiên bản mới.",
+      "Bạn vừa mở khóa nhiệm vụ phụ: phục thù câu sai."
+    ];
+
+    const state = {
+      questions: [],
+      nickname: "",
+      queue: [],
+      usedIds: new Set(),
+      currentIndex: 0,
+      selected: null,
+      answers: [],
+      correct: 0,
+      wrong: 0,
+      wrongStreak: 0,
+      timerId: null,
+      secondsLeft: QUESTION_SECONDS,
+      startedAt: null,
+      finished: false,
+      reviewIndex: 0,
+      lastResult: null,
+      leaderboard: []
+    };
+
+    const $ = (id) => document.getElementById(id);
+    const screens = {
+      start: $("startScreen"),
+      quiz: $("quizScreen"),
+      review: $("reviewScreen")
+    };
+
+    init();
+
+    async function init() {
+      bindEvents();
+      try {
+        const response = await fetch("questions.json", { cache: "no-store" });
+        if (!response.ok) throw new Error("Không tải được questions.json");
+        state.questions = await response.json();
+        if (!Array.isArray(state.questions) || state.questions.length === 0) {
+          throw new Error("questions.json chưa có câu hỏi");
+        }
+        loadLeaderboard();
+      } catch (error) {
+        toast("Không đọc được questions.json. Hãy mở qua GitHub Pages hoặc local server.");
+        console.error(error);
+      }
+    }
+
+    function bindEvents() {
+      $("startForm").addEventListener("submit", (event) => {
+        event.preventDefault();
+        const nickname = $("nicknameInput").value.trim();
+        if (!nickname) {
+          toast("Nhập nickname đã rồi vào trận nha.");
+          $("nicknameInput").focus();
+          return;
+        }
+        startQuiz(nickname);
+      });
+
+      $("nextBtn").addEventListener("click", () => submitCurrent(false));
+      $("giveUpBtn").addEventListener("click", () => finishQuiz("giveup"));
+      $("reviewBtn").addEventListener("click", showReview);
+      $("newQuizBtn").addEventListener("click", newQuiz);
+      $("newQuizFromReviewBtn").addEventListener("click", newQuiz);
+      $("backResultBtn").addEventListener("click", () => {
+        showScreen("quiz");
+        showResultModal();
+      });
+      $("prevReviewBtn").addEventListener("click", () => {
+        state.reviewIndex = Math.max(0, state.reviewIndex - 1);
+        renderReview();
+      });
+      $("nextReviewBtn").addEventListener("click", () => {
+        state.reviewIndex = Math.min(state.answers.length - 1, state.reviewIndex + 1);
+        renderReview();
+      });
+    }
+
+    function startQuiz(nickname) {
+      if (!state.questions.length) {
+        toast("Chưa có dữ liệu câu hỏi.");
+        return;
+      }
+
+      Object.assign(state, {
+        nickname,
+        queue: [],
+        usedIds: new Set(),
+        currentIndex: 0,
+        selected: null,
+        answers: [],
+        correct: 0,
+        wrong: 0,
+        wrongStreak: 0,
+        secondsLeft: QUESTION_SECONDS,
+        startedAt: Date.now(),
+        finished: false,
+        reviewIndex: 0,
+        lastResult: null
+      });
+
+      addRandomQuestions(START_TOTAL);
+      $("playerPill").textContent = nickname;
+      showScreen("quiz");
+      renderQuestion();
+    }
+
+    function addRandomQuestions(count, minLevel = null) {
+      const minRank = minLevel ? LEVEL_ORDER.indexOf(minLevel) : 0;
+      let pool = state.questions.filter((question) => {
+        const unused = !state.usedIds.has(question.id);
+        const enoughLevel = minRank < 0 || LEVEL_ORDER.indexOf(question.level) >= minRank;
+        return unused && enoughLevel;
+      });
+
+      if (pool.length < count) {
+        pool = state.questions.filter((question) => !state.usedIds.has(question.id));
+      }
+
+      shuffle(pool).slice(0, count).forEach((question) => {
+        state.usedIds.add(question.id);
+        state.queue.push(question);
+      });
+    }
+
+    function renderQuestion() {
+      clearInterval(state.timerId);
+
+      if (state.finished) return;
+      if (currentScore() >= 10 && state.answers.length > 0) {
+        finishQuiz("perfect");
+        return;
+      }
+      if (state.currentIndex >= state.queue.length) {
+        finishQuiz("done");
+        return;
+      }
+
+      const question = state.queue[state.currentIndex];
+      state.selected = null;
+
+      $("questionIndex").textContent = state.currentIndex + 1;
+      $("totalQuestions").textContent = state.queue.length;
+      $("unitTag").textContent = question.unit;
+      $("levelTag").textContent = question.level;
+      $("categoryTag").textContent = question.category;
+      $("questionText").textContent = question.question;
+      $("nextBtn").disabled = true;
+
+      const options = shuffle([...question.options]);
+      $("options").innerHTML = options.map((option, index) => `
+        <button class="option" type="button" data-option="${escapeAttr(option)}">
+          <span class="option-key">${String.fromCharCode(65 + index)}</span>
+          <span>${escapeHtml(option)}</span>
+        </button>
+      `).join("");
+
+      document.querySelectorAll(".option").forEach((button) => {
+        button.addEventListener("click", () => {
+          document.querySelectorAll(".option").forEach((item) => item.classList.remove("selected"));
+          button.classList.add("selected");
+          state.selected = button.dataset.option;
+          $("nextBtn").disabled = false;
+        });
+      });
+
+      renderStats();
+      startTimer();
+    }
+
+    function startTimer() {
+      state.secondsLeft = QUESTION_SECONDS;
+      updateTimer();
+      state.timerId = setInterval(() => {
+        state.secondsLeft -= 1;
+        updateTimer();
+        if (state.secondsLeft <= 0) submitCurrent(true);
+      }, 1000);
+    }
+
+    function updateTimer() {
+      const ratio = Math.max(0, state.secondsLeft) / QUESTION_SECONDS;
+      $("timer").style.setProperty("--timer-angle", `${ratio * 360}deg`);
+      $("timer").querySelector("span").textContent = Math.max(0, state.secondsLeft);
+    }
+
+    function submitCurrent(timedOut) {
+      clearInterval(state.timerId);
+      if (state.finished || state.currentIndex >= state.queue.length) return;
+
+      const question = state.queue[state.currentIndex];
+      const userAnswer = timedOut ? null : state.selected;
+      const isCorrect = userAnswer === question.answer;
+
+      state.answers.push({
+        question,
+        userAnswer,
+        isCorrect,
+        timedOut,
+        order: state.currentIndex + 1
+      });
+
+      if (isCorrect) {
+        state.correct += 1;
+        state.wrongStreak = 0;
+      } else {
+        state.wrong += 1;
+        state.wrongStreak += 1;
+        const extra = state.wrongStreak >= 2 ? 4 : 2;
+        addRandomQuestions(extra, question.level);
+        toast(state.wrongStreak >= 2 ? `Sai ${state.wrongStreak} câu liên tiếp: thêm ${extra} câu cho nóng.` : `Sai rồi, thêm ${extra} câu cùng hoặc cao level.`);
+      }
+
+      state.currentIndex += 1;
+      renderStats();
+
+      if (currentScore() >= 10) {
+        finishQuiz("perfect");
+      } else {
+        renderQuestion();
+      }
+    }
+
+    function renderStats() {
+      const score = currentScore();
+      $("scorePill").textContent = formatScore(score);
+      $("correctStat").textContent = state.correct;
+      $("wrongStat").textContent = state.wrong;
+      $("streakStat").textContent = state.wrongStreak;
+      $("queueStat").textContent = state.queue.length;
+      document.querySelector(".progress").style.setProperty("--w", `${Math.min(100, score * 10)}%`);
+    }
+
+    function currentScore() {
+      return state.queue.length ? Math.min(10, (state.correct / state.queue.length) * 10) : 0;
+    }
+
+    function finishQuiz(reason) {
+      if (state.finished) return;
+      clearInterval(state.timerId);
+      state.finished = true;
+
+      const score = currentScore();
+      const elapsedSeconds = Math.max(0, Math.round((Date.now() - (state.startedAt || Date.now())) / 1000));
+      const result = {
+        nickname: state.nickname,
+        score: Number(formatScore(score)),
+        correct: state.correct,
+        wrong: state.wrong,
+        total: state.queue.length,
+        answered: state.answers.length,
+        elapsedSeconds,
+        reason,
+        submittedAt: new Date().toISOString(),
+        date: new Date().toLocaleString("vi-VN")
+      };
+
+      state.lastResult = result;
+      saveHistory(result);
+      submitResultToGoogleSheet(result);
+      showResultModal();
+    }
+
+    function showResultModal() {
+      const result = state.lastResult;
+      if (!result) return;
+      $("resultTitle").textContent = `${result.nickname}, bạn được ${formatScore(result.score)}/10`;
+      $("resultRemark").textContent = pickRemark(result.score, result.reason);
+      $("finalScoreBox").innerHTML = `<strong>${formatScore(result.score)}/10</strong><br>${result.correct} đúng / ${result.total} câu trong đề`;
+      $("finalDetailBox").innerHTML = `<strong>${formatTime(result.elapsedSeconds)}</strong><br>${result.answered} câu đã làm, ${result.wrong} câu sai`;
+      renderHistory();
+      $("resultModal").classList.add("active");
+    }
+
+    function renderHistory() {
+      const history = getHistory().filter((item) => item.nickname === state.nickname).slice(0, 10);
+      if (!history.length) {
+        $("historyWrap").innerHTML = `<div class="empty">Chưa có lịch sử.</div>`;
+        return;
+      }
+      $("historyWrap").innerHTML = `
+        <table class="history">
+          <thead>
+            <tr>
+              <th>Thời gian</th>
+              <th>Điểm</th>
+              <th>Thời gian</th>
+              <th>Đúng</th>
+              <th>Sai</th>
+              <th>Tổng</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${history.map((item) => `
+              <tr>
+                <td>${escapeHtml(item.date)}</td>
+                <td>${formatScore(item.score)}/10</td>
+                <td>${formatTime(item.elapsedSeconds || 0)}</td>
+                <td>${item.correct}</td>
+                <td>${item.wrong}</td>
+                <td>${item.total}</td>
+              </tr>
+            `).join("")}
+          </tbody>
+        </table>
+      `;
+    }
+
+    function showReview() {
+      $("resultModal").classList.remove("active");
+      if (!state.answers.length) {
+        toast("Chưa có câu nào để xem lại.");
+        return;
+      }
+      state.reviewIndex = 0;
+      showScreen("review");
+      renderReview();
+    }
+
+    function renderReview() {
+      const item = state.answers[state.reviewIndex];
+      const question = item.question;
+
+      $("reviewIndex").textContent = state.reviewIndex + 1;
+      $("reviewTotal").textContent = state.answers.length;
+      $("reviewUnit").textContent = question.unit;
+      $("reviewLevel").textContent = question.level;
+      $("reviewCategory").textContent = question.category;
+      $("reviewQuestion").textContent = question.question;
+
+      const userText = item.timedOut ? "Hết giờ, chưa chọn đáp án" : item.userAnswer;
+      $("userAnswerBox").className = `answer-box ${item.isCorrect ? "good" : "bad"}`;
+      $("userAnswerBox").innerHTML = `<strong>Lựa chọn của bạn</strong><br>${escapeHtml(userText || "Chưa chọn")}`;
+      $("correctAnswerBox").innerHTML = `<strong>Đáp án đúng</strong><br>${escapeHtml(question.answer)}`;
+      $("explanationBox").innerHTML = `<strong>Gợi ý</strong><br>${escapeHtml(question.explanation)}`;
+
+      $("prevReviewBtn").disabled = state.reviewIndex === 0;
+      $("nextReviewBtn").disabled = state.reviewIndex === state.answers.length - 1;
+    }
+
+    function newQuiz() {
+      $("resultModal").classList.remove("active");
+      showScreen("start");
+      $("nicknameInput").value = state.nickname;
+      $("nicknameInput").focus();
+    }
+
+    function showScreen(name) {
+      Object.values(screens).forEach((screen) => screen.classList.remove("active"));
+      screens[name].classList.add("active");
+      if (name === "start") loadLeaderboard();
+    }
+
+    function saveHistory(result) {
+      const history = getHistory();
+      history.unshift(result);
+      localStorage.setItem(HISTORY_KEY, JSON.stringify(history.slice(0, 100)));
+    }
+
+    async function submitResultToGoogleSheet(result) {
+      if (!GOOGLE_SCRIPT_URL) {
+        renderLeaderboard(buildLocalLeaderboard());
+        return;
+      }
+
+      try {
+        await fetch(GOOGLE_SCRIPT_URL, {
+          method: "POST",
+          mode: "no-cors",
+          body: JSON.stringify(result)
+        });
+        setTimeout(loadLeaderboard, 1200);
+      } catch (error) {
+        console.warn("Không gửi được kết quả lên Google Sheet:", error);
+        toast("Chưa gửi được Google Sheet, đã lưu lịch sử trên máy.");
+      }
+    }
+
+    function loadLeaderboard() {
+      if (!GOOGLE_SCRIPT_URL) {
+        renderLeaderboard(buildLocalLeaderboard());
+        return;
+      }
+
+      const callbackName = `quizLeaderboard${Date.now()}`;
+      const script = document.createElement("script");
+      window[callbackName] = (payload) => {
+        state.leaderboard = Array.isArray(payload && payload.top) ? payload.top : [];
+        renderLeaderboard(state.leaderboard);
+        script.remove();
+        delete window[callbackName];
+      };
+      script.onerror = () => {
+        renderLeaderboard(buildLocalLeaderboard());
+        script.remove();
+        delete window[callbackName];
+      };
+      script.src = `${GOOGLE_SCRIPT_URL}?action=top&limit=5&callback=${callbackName}`;
+      document.body.appendChild(script);
+    }
+
+    function buildLocalLeaderboard() {
+      return getHistory()
+        .slice()
+        .sort(compareResults)
+        .slice(0, 5)
+        .map((item, index) => ({ ...item, rank: index + 1 }));
+    }
+
+    function compareResults(a, b) {
+      if (Number(b.score) !== Number(a.score)) return Number(b.score) - Number(a.score);
+      if (Number(a.elapsedSeconds || 0) !== Number(b.elapsedSeconds || 0)) {
+        return Number(a.elapsedSeconds || 0) - Number(b.elapsedSeconds || 0);
+      }
+      return new Date(a.submittedAt || a.date) - new Date(b.submittedAt || b.date);
+    }
+
+    function renderLeaderboard(rows) {
+      const list = $("leaderboardList");
+      if (!list) return;
+      if (!rows.length) {
+        list.innerHTML = `<div class="empty">${GOOGLE_SCRIPT_URL ? "Chưa có dữ liệu bảng xếp hạng." : "Chưa cấu hình Google Sheet, đang dùng lịch sử trên máy."}</div>`;
+        return;
+      }
+
+      list.innerHTML = rows.slice(0, 5).map((row, index) => `
+        <div class="leader-row">
+          <span class="rank-badge">${row.rank || index + 1}</span>
+          <span>
+            ${escapeHtml(row.nickname || "Ẩn danh")}
+            <small>${formatTime(row.elapsedSeconds || row.time || 0)} · ${row.correct || 0}/${row.total || 0} câu</small>
+          </span>
+          <strong>${formatScore(row.score)}/10</strong>
+        </div>
+      `).join("");
+    }
+
+    function getHistory() {
+      try {
+        return JSON.parse(localStorage.getItem(HISTORY_KEY)) || [];
+      } catch {
+        return [];
+      }
+    }
+
+    function pickRemark(score, reason) {
+      if (reason === "giveup") {
+        return "Đầu hàng cũng là một chiến thuật, nhưng chiến thuật này hơi thiếu hào quang. Làm ván mới lấy lại vibe nào.";
+      }
+      const bucket = score >= 9 ? 0 : score >= 7 ? 4 : score >= 5 ? 8 : score >= 3 ? 14 : 20;
+      const pool = remarks.slice(bucket, Math.min(bucket + 6, remarks.length));
+      return pool[Math.floor(Math.random() * pool.length)] || remarks[Math.floor(Math.random() * remarks.length)];
+    }
+
+    function formatScore(score) {
+      return Number(score || 0).toFixed(2);
+    }
+
+    function formatTime(seconds) {
+      const total = Math.max(0, Number(seconds || 0));
+      const minutes = Math.floor(total / 60);
+      const rest = total % 60;
+      return `${minutes}:${String(rest).padStart(2, "0")}`;
+    }
+
+    function shuffle(array) {
+      for (let index = array.length - 1; index > 0; index -= 1) {
+        const randomIndex = Math.floor(Math.random() * (index + 1));
+        [array[index], array[randomIndex]] = [array[randomIndex], array[index]];
+      }
+      return array;
+    }
+
+    function escapeHtml(value) {
+      return String(value).replace(/[&<>"']/g, (char) => ({
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        '"': "&quot;",
+        "'": "&#039;"
+      })[char]);
+    }
+
+    function escapeAttr(value) {
+      return escapeHtml(value).replace(/`/g, "&#096;");
+    }
+
+    let toastId = null;
+    function toast(message) {
+      const node = $("toast");
+      node.textContent = message;
+      node.classList.add("show");
+      clearTimeout(toastId);
+      toastId = setTimeout(() => node.classList.remove("show"), 2400);
+    }
+  </script>
+</body>
+</html>

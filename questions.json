@@ -1,0 +1,4262 @@
+[
+  {
+    "id": 1,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "'You ____ hard today.' 'Yes, I have a lot to do.'",
+    "options": [
+      "are working",
+      "work",
+      "worked",
+      "have worked"
+    ],
+    "answer": "are working",
+    "explanation": "Đáp án \"are working\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 2,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "I ____ for Christine. Do you know where she is?",
+    "options": [
+      "am looking",
+      "look",
+      "looked",
+      "have looked"
+    ],
+    "answer": "am looking",
+    "explanation": "Đáp án \"am looking\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 3,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "It ____ dark. Shall I turn on the light?",
+    "options": [
+      "is getting",
+      "gets",
+      "got",
+      "has got"
+    ],
+    "answer": "is getting",
+    "explanation": "Đáp án \"is getting\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 4,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "They haven't got anywhere to live the moment. They ____ with friends until they find somewhere.",
+    "options": [
+      "are staying",
+      "stay",
+      "stayed",
+      "have stayed"
+    ],
+    "answer": "are staying",
+    "explanation": "Đáp án \"are staying\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 5,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "'Are you ready, Ann?' 'Yes, I ____ .'",
+    "options": [
+      "am coming",
+      "come",
+      "came",
+      "have come"
+    ],
+    "answer": "am coming",
+    "explanation": "Đáp án \"am coming\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 6,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "Have you got an umbrella? It ____ to rain.",
+    "options": [
+      "is starting",
+      "starts",
+      "started",
+      "has started"
+    ],
+    "answer": "is starting",
+    "explanation": "Đáp án \"is starting\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 7,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "You're making a lot of noise. Could you be quieter? I ____ to concentrate.",
+    "options": [
+      "am trying",
+      "try",
+      "tryed",
+      "have tryed"
+    ],
+    "answer": "am trying",
+    "explanation": "Đáp án \"am trying\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 8,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "Why are all these people here? What ____ ?",
+    "options": [
+      "is happening",
+      "happens",
+      "happened",
+      "has happened"
+    ],
+    "answer": "is happening",
+    "explanation": "Đáp án \"is happening\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 9,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "' ____ this week?' 'No, he's on holiday.' (Colin/work)",
+    "options": [
+      "Is Colin working",
+      "does Colin working",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Is Colin working",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Is Colin working\"."
+  },
+  {
+    "id": 10,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "Why ____ at me like that? What's the matter? (you/look)",
+    "options": [
+      "are you looking",
+      "are you lookings",
+      "are you lookinged",
+      "has are you lookinged"
+    ],
+    "answer": "are you looking",
+    "explanation": "Đáp án \"are you looking\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 11,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "'Jenny is a student at university.' 'Is she? What ____ ?' (she/study)",
+    "options": [
+      "is she studying",
+      "is she studyings",
+      "is she studyinged",
+      "has is she studyinged"
+    ],
+    "answer": "is she studying",
+    "explanation": "Đáp án \"is she studying\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 12,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "____ to the radio or can I turn it off? (anybody/listen)",
+    "options": [
+      "Is anybody listening",
+      "does anybody listening",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Is anybody listening",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Is anybody listening\"."
+  },
+  {
+    "id": 13,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "How is your English? ____ better? (it/get)",
+    "options": [
+      "Is it getting",
+      "does it getting",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Is it getting",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Is it getting\"."
+  },
+  {
+    "id": 14,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "I'm tired. I ____ (go) to bed now. Goodnight!",
+    "options": [
+      "am going",
+      "go",
+      "went",
+      "have gone"
+    ],
+    "answer": "am going",
+    "explanation": "Đáp án \"am going\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 15,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "We can go out now. It ____ (rain) any more.",
+    "options": [
+      "is not raining",
+      "is raining",
+      "does not rain",
+      "did not rain"
+    ],
+    "answer": "is not raining",
+    "explanation": "Đáp án \"is not raining\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 16,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "'How is your new job?' 'Not so good at the moment. I ____ (enjoy) it very much.",
+    "options": [
+      "am not enjoying",
+      "am enjoying",
+      "do not enjoy",
+      "did not enjoy"
+    ],
+    "answer": "am not enjoying",
+    "explanation": "Đáp án \"am not enjoying\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 17,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "Catherine phoned me last night. She's on holiday in France. She ____ (have) a great time and doesn't want to come back.",
+    "options": [
+      "is having",
+      "haves",
+      "had",
+      "has had"
+    ],
+    "answer": "is having",
+    "explanation": "Đáp án \"is having\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 18,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "I want to lose weight, so this week I ____ (eat) lunch.",
+    "options": [
+      "am not eating",
+      "am eating",
+      "do not eat",
+      "did not eat"
+    ],
+    "answer": "am not eating",
+    "explanation": "Đáp án \"am not eating\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 19,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "Angela has just started evening classes. She ____ (learn) German.",
+    "options": [
+      "is learning",
+      "learns",
+      "learned",
+      "has learned"
+    ],
+    "answer": "is learning",
+    "explanation": "Đáp án \"is learning\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 20,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "I think Paul and Ann have had an argument. They ____ (speak) to each other.",
+    "options": [
+      "are not speaking",
+      "are speaking",
+      "do not speak",
+      "did not speak"
+    ],
+    "answer": "are not speaking",
+    "explanation": "Đáp án \"are not speaking\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 21,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "Sarah:Brian! How nice to see you! What ____ (you/do) these days?",
+    "options": [
+      "are you doing",
+      "are you doings",
+      "are you doinged",
+      "has are you doinged"
+    ],
+    "answer": "are you doing",
+    "explanation": "Đáp án \"are you doing\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 22,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "Brian:I ____ (train) to be a supermarket manager.",
+    "options": [
+      "am training",
+      "train",
+      "trained",
+      "have trained"
+    ],
+    "answer": "am training",
+    "explanation": "Đáp án \"am training\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 23,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "Sarah:Really? What's it like? ____ (you/enjoy) it?",
+    "options": [
+      "Are you enjoying",
+      "do you enjoying",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Are you enjoying",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Are you enjoying\"."
+  },
+  {
+    "id": 24,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "Sarah:Well, actually I ____ . (not/work) at the moment. I ____ (try) to find a job but it's not easy. But I'm very busy. I ____ (decorate) my flat.",
+    "options": [
+      "am not working",
+      "am working",
+      "do not work",
+      "did not work"
+    ],
+    "answer": "am not working",
+    "explanation": "Đáp án \"am not working\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 25,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "Sarah:Well, actually I ____ . (not/work) at the moment. I ____ (try) to find a job but it's not easy. But I'm very busy. I ____ (decorate) my flat.",
+    "options": [
+      "am trying",
+      "try",
+      "tryed",
+      "have tryed"
+    ],
+    "answer": "am trying",
+    "explanation": "Đáp án \"am trying\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 26,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "Sarah:Well, actually I ____ . (not/work) at the moment. I ____ (try) to find a job but it's not easy. But I'm very busy. I ____ (decorate) my flat.",
+    "options": [
+      "am decorating",
+      "decorat",
+      "decorated",
+      "have decorated"
+    ],
+    "answer": "am decorating",
+    "explanation": "Đáp án \"am decorating\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 27,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "Brian: ____ (you/do) it alone?",
+    "options": [
+      "Are you doing",
+      "do you doing",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Are you doing",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Are you doing\"."
+  },
+  {
+    "id": 28,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "Sarah:No, some friends of mine ____ (help) me.",
+    "options": [
+      "are helping",
+      "help",
+      "helped",
+      "have helped"
+    ],
+    "answer": "are helping",
+    "explanation": "Đáp án \"are helping\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 29,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "The population of the world ____ very fast.",
+    "options": [
+      "is increasing",
+      "increases",
+      "increased",
+      "has increased"
+    ],
+    "answer": "is increasing",
+    "explanation": "Đáp án \"is increasing\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 30,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "Ken is still ill but he ____ better slowly.",
+    "options": [
+      "is getting",
+      "gets",
+      "got",
+      "has got"
+    ],
+    "answer": "is getting",
+    "explanation": "Đáp án \"is getting\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 31,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "The world ____ . Things never stay the same.",
+    "options": [
+      "is changing",
+      "changs",
+      "changed",
+      "has changed"
+    ],
+    "answer": "is changing",
+    "explanation": "Đáp án \"is changing\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 32,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "The cost of living ____ . Every year things are more expensive.",
+    "options": [
+      "is rising",
+      "rises",
+      "rised",
+      "has rised"
+    ],
+    "answer": "is rising",
+    "explanation": "Đáp án \"is rising\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 33,
+    "unit": "UNIT 1 - Present Continuous",
+    "level": "Dễ",
+    "category": "Grammar - Present Continuous",
+    "question": "The economic situation is already very bad and it ____ worse.",
+    "options": [
+      "is getting",
+      "gets",
+      "got",
+      "has got"
+    ],
+    "answer": "is getting",
+    "explanation": "Đáp án \"is getting\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 34,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "Ann ____ German very well.",
+    "options": [
+      "speaks",
+      "speak",
+      "is speaking",
+      "spoke"
+    ],
+    "answer": "speaks",
+    "explanation": "Đáp án \"speaks\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 35,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "I never ____ coffee.",
+    "options": [
+      "drink",
+      "drinks",
+      "drank",
+      "has drunk"
+    ],
+    "answer": "drink",
+    "explanation": "Đáp án \"drink\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 36,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "The swimming pool ____ at 18.30 every day.",
+    "options": [
+      "closes",
+      "close",
+      "is closeing",
+      "closed"
+    ],
+    "answer": "closes",
+    "explanation": "Đáp án \"closes\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 37,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "Bad driving ____ many accidents.",
+    "options": [
+      "causes",
+      "cause",
+      "is causeing",
+      "caused"
+    ],
+    "answer": "causes",
+    "explanation": "Đáp án \"causes\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 38,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "My parents ____ in a very small flat.",
+    "options": [
+      "live",
+      "lives",
+      "lived",
+      "has lived"
+    ],
+    "answer": "live",
+    "explanation": "Đáp án \"live\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 39,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "The Olympic Games ____ every four years.",
+    "options": [
+      "take place",
+      "take places",
+      "take placed",
+      "has take placed"
+    ],
+    "answer": "take place",
+    "explanation": "Đáp án \"take place\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 40,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "Jane ____ (not/drink) tea very often.",
+    "options": [
+      "does not drink",
+      "drinks",
+      "is not drinking",
+      "has not drunk"
+    ],
+    "answer": "does not drink",
+    "explanation": "Đáp án \"does not drink\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 41,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "What time ____ (the banks/close) in Britain?",
+    "options": [
+      "do the banks close",
+      "do the banks closes",
+      "do the banks closed",
+      "has do the banks closed"
+    ],
+    "answer": "do the banks close",
+    "explanation": "Đáp án \"do the banks close\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 42,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "'Where ____ (Martin/come) from?' 'He's Scottish.'",
+    "options": [
+      "does Martin come",
+      "does Martin comes",
+      "does Martin comed",
+      "has does Martin comed"
+    ],
+    "answer": "does Martin come",
+    "explanation": "Đáp án \"does Martin come\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 43,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "'What ____ . (you/do)? 'I'm an electrical engineer.'",
+    "options": [
+      "do you do",
+      "do you does",
+      "do you doed",
+      "has do you doed"
+    ],
+    "answer": "do you do",
+    "explanation": "Đáp án \"do you do\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 44,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "It ____ (take) me an hour to get to work. How long ____ (it/take) you?",
+    "options": [
+      "takes",
+      "take",
+      "is takeing",
+      "took"
+    ],
+    "answer": "takes",
+    "explanation": "Đáp án \"takes\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 45,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "It ____ (take) me an hour to get to work. How long ____ (it/take) you?",
+    "options": [
+      "does it take",
+      "does it takes",
+      "does it taked",
+      "has does it taked"
+    ],
+    "answer": "does it take",
+    "explanation": "Đáp án \"does it take\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 46,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "I ____ (play) the piano but I ____ (not/play) very well.",
+    "options": [
+      "play",
+      "plays",
+      "played",
+      "has played"
+    ],
+    "answer": "play",
+    "explanation": "Đáp án \"play\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 47,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "I ____ (play) the piano but I ____ (not/play) very well.",
+    "options": [
+      "do not play",
+      "played",
+      "is not playing",
+      "has not played"
+    ],
+    "answer": "do not play",
+    "explanation": "Đáp án \"do not play\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 48,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "I don't understand this sentence. What ____ (this word/mean)?",
+    "options": [
+      "does this word mean",
+      "does this word means",
+      "does this word meaned",
+      "has does this word meaned"
+    ],
+    "answer": "does this word mean",
+    "explanation": "Đáp án \"does this word mean\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 49,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "The sun ____ round the earth.",
+    "options": [
+      "does not go",
+      "goes",
+      "is not going",
+      "has not gone"
+    ],
+    "answer": "does not go",
+    "explanation": "Đáp án \"does not go\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 50,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "Rice ____ in Britain.",
+    "options": [
+      "does not grow",
+      "grows",
+      "is not growing",
+      "has not growed"
+    ],
+    "answer": "does not grow",
+    "explanation": "Đáp án \"does not grow\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 51,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "The sun ____ in the east.",
+    "options": [
+      "rises",
+      "rise",
+      "is riseing",
+      "rised"
+    ],
+    "answer": "rises",
+    "explanation": "Đáp án \"rises\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 52,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "Bees ____ honey.",
+    "options": [
+      "make",
+      "makes",
+      "made",
+      "has made"
+    ],
+    "answer": "make",
+    "explanation": "Đáp án \"make\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 53,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "Vegetarians ____ meat.",
+    "options": [
+      "do not eat",
+      "ate",
+      "is not eating",
+      "has not eaten"
+    ],
+    "answer": "do not eat",
+    "explanation": "Đáp án \"do not eat\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 54,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "An atheist ____ in God.",
+    "options": [
+      "does not believe",
+      "believes",
+      "is not believeing",
+      "has not believed"
+    ],
+    "answer": "does not believe",
+    "explanation": "Đáp án \"does not believe\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 55,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "An interpreter ____ from one language into another.",
+    "options": [
+      "translates",
+      "translate",
+      "is translateing",
+      "translated"
+    ],
+    "answer": "translates",
+    "explanation": "Đáp án \"translates\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 56,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "A liar is someone who ____ the truth.",
+    "options": [
+      "does not tell",
+      "tells",
+      "is not telling",
+      "has not telled"
+    ],
+    "answer": "does not tell",
+    "explanation": "Đáp án \"does not tell\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 57,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "The River Amazon ____ into the Atlantic Ocean.",
+    "options": [
+      "flows",
+      "flow",
+      "is flowing",
+      "flowed"
+    ],
+    "answer": "flows",
+    "explanation": "Đáp án \"flows\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 58,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "You know that Liz plays tennis. You want to know how often. Ask her. ____",
+    "options": [
+      "How often do you play tennis",
+      "How often are you play tennis",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "How often do you play tennis",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How often do you play tennis\"."
+  },
+  {
+    "id": 59,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "Perhaps Liz's sister plays tennis too. You want to know. Ask Liz. ____",
+    "options": [
+      "Does your sister play tennis",
+      "is your sister play tennis",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Does your sister play tennis",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Does your sister play tennis\"."
+  },
+  {
+    "id": 60,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "You know that Liz reads a newspaper every day. You want to know which one. Ask her. ____",
+    "options": [
+      "Which newspaper do you read",
+      "Which newspaper are you read",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Which newspaper do you read",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Which newspaper do you read\"."
+  },
+  {
+    "id": 61,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "You know that Liz's brother works. You want to know what he does. Ask Liz. ____",
+    "options": [
+      "What does your brother do",
+      "What is your brother are",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "What does your brother do",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"What does your brother do\"."
+  },
+  {
+    "id": 62,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "You know that Liz goes to the cinema a lot. You want to know how often. Ask her. ____",
+    "options": [
+      "How often do you go to the cinema",
+      "How often are you go to the cinema",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "How often do you go to the cinema",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How often do you go to the cinema\"."
+  },
+  {
+    "id": 63,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "You don't know where Liz's mother lives. Ask Liz. ____",
+    "options": [
+      "Where does your mother live",
+      "Where is your mother live",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Where does your mother live",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Where does your mother live\"."
+  },
+  {
+    "id": 64,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "I won't tell anybody what you said. ____.",
+    "options": [
+      "I promise",
+      "I promises",
+      "I promised",
+      "has I promised"
+    ],
+    "answer": "I promise",
+    "explanation": "Đáp án \"I promise\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 65,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "(_in a restaurant=) You must let me pay for the meal. ____.",
+    "options": [
+      "I insist",
+      "I insists",
+      "I insisted",
+      "has I insisted"
+    ],
+    "answer": "I insist",
+    "explanation": "Đáp án \"I insist\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 66,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "____ for what I said about you. It wasn't true and I shouldn't have said it.",
+    "options": [
+      "I apologize",
+      "I apologizes",
+      "I apologized",
+      "has I apologized"
+    ],
+    "answer": "I apologize",
+    "explanation": "Đáp án \"I apologize\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 67,
+    "unit": "UNIT 2 - Present Simple",
+    "level": "Dễ",
+    "category": "Grammar - Present Simple",
+    "question": "The new restaurant in Hill Street is very good. ____ it.",
+    "options": [
+      "I recommend",
+      "I recommends",
+      "I recommended",
+      "has I recommended"
+    ],
+    "answer": "I recommend",
+    "explanation": "Đáp án \"I recommend\" phù hợp vì câu nói về thói quen, sự thật chung hoặc lịch trình."
+  },
+  {
+    "id": 68,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Error Correction",
+    "question": "Water boils at 100 degrees celsius. ____",
+    "options": [
+      "Right",
+      "Wrong: use present continuous",
+      "Wrong: use present simple",
+      "Wrong: use past simple"
+    ],
+    "answer": "Right",
+    "explanation": "Câu gốc đã đúng: dùng thì hiện tại đơn cho sự thật chung hoặc thói quen."
+  },
+  {
+    "id": 69,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "The water boils. Can you turn it off? ____",
+    "options": [
+      "The water is boiling",
+      "The water is boilings",
+      "The water is boilinged",
+      "has The water is boilinged"
+    ],
+    "answer": "The water is boiling",
+    "explanation": "Đáp án \"The water is boiling\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 70,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "Look! That man tries to open the door of your car. ____",
+    "options": [
+      "That man is trying",
+      "That man is tryings",
+      "That man is tryinged",
+      "has That man is tryinged"
+    ],
+    "answer": "That man is trying",
+    "explanation": "Đáp án \"That man is trying\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 71,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "Can you hear those people? What do they talk about? ____",
+    "options": [
+      "What are they talking about",
+      "What do they talking about",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "What are they talking about",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"What are they talking about\"."
+  },
+  {
+    "id": 72,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Error Correction",
+    "question": "The moon goes round the earth. ____",
+    "options": [
+      "Right",
+      "Wrong: use present continuous",
+      "Wrong: use present simple",
+      "Wrong: use past simple"
+    ],
+    "answer": "Right",
+    "explanation": "Câu gốc đã đúng: dùng thì hiện tại đơn cho sự thật chung hoặc thói quen."
+  },
+  {
+    "id": 73,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "I must go now. It gets late. ____",
+    "options": [
+      "It is getting late",
+      "It is getting lates",
+      "It is getting lated",
+      "has It is getting lated"
+    ],
+    "answer": "It is getting late",
+    "explanation": "Đáp án \"It is getting late\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 74,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Error Correction",
+    "question": "I usually go to work by car. ____",
+    "options": [
+      "Right",
+      "Wrong: use present continuous",
+      "Wrong: use present simple",
+      "Wrong: use past simple"
+    ],
+    "answer": "Right",
+    "explanation": "Câu gốc đã đúng: dùng thì hiện tại đơn cho sự thật chung hoặc thói quen."
+  },
+  {
+    "id": 75,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "'Hurry up! It's time to leave.' 'OK, I come.' ____",
+    "options": [
+      "I am coming",
+      "I am comings",
+      "I am cominged",
+      "has I am cominged"
+    ],
+    "answer": "I am coming",
+    "explanation": "Đáp án \"I am coming\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 76,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "I hear you've got a new job. How do you get on? ____",
+    "options": [
+      "How are you getting on",
+      "How do you getting on",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "How are you getting on",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How are you getting on\"."
+  },
+  {
+    "id": 77,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "Let's go out. It ____ (not/rain) now.",
+    "options": [
+      "is not raining",
+      "is raining",
+      "does not rain",
+      "did not rain"
+    ],
+    "answer": "is not raining",
+    "explanation": "Đáp án \"is not raining\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 78,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "Julia is very good at languages. She ____ (speak) four languages very well.",
+    "options": [
+      "speaks",
+      "speak",
+      "is speaking",
+      "spoke"
+    ],
+    "answer": "speaks",
+    "explanation": "Đáp án \"speaks\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 79,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "Hurry up! Everybody ____ (wait) for you.",
+    "options": [
+      "is waiting",
+      "waits",
+      "waited",
+      "has waited"
+    ],
+    "answer": "is waiting",
+    "explanation": "Đáp án \"is waiting\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 80,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "' ____ (you/listen) to the radio?' 'No, you can turn it off.'",
+    "options": [
+      "Are you listening",
+      "do you listening",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Are you listening",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Are you listening\"."
+  },
+  {
+    "id": 81,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "' ____ (you/listen) to the radio every day?' 'No, just occasionally.'",
+    "options": [
+      "Do you listen",
+      "are you listen",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Do you listen",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Do you listen\"."
+  },
+  {
+    "id": 82,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "The River Nile ____ (flow) into the Mediterranean.",
+    "options": [
+      "flows",
+      "flow",
+      "is flowing",
+      "flowed"
+    ],
+    "answer": "flows",
+    "explanation": "Đáp án \"flows\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 83,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "Look at the river. It ____ (flow) very fast today - much faster than usual.",
+    "options": [
+      "is flowing",
+      "flows",
+      "flowed",
+      "has flowed"
+    ],
+    "answer": "is flowing",
+    "explanation": "Đáp án \"is flowing\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 84,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "We usually ____ (grow) vegetables in our garden but this year we ____ (not/grow) any.",
+    "options": [
+      "grow",
+      "grows",
+      "growed",
+      "has growed"
+    ],
+    "answer": "grow",
+    "explanation": "Đáp án \"grow\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 85,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "We usually ____ (grow) vegetables in our garden but this year we ____ (not/grow) any.",
+    "options": [
+      "are not growing",
+      "are growing",
+      "do not grow",
+      "did not grow"
+    ],
+    "answer": "are not growing",
+    "explanation": "Đáp án \"are not growing\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 86,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "'How is your English?' 'Not bad. It ____ (improve) slowly.'",
+    "options": [
+      "is improving",
+      "improves",
+      "improved",
+      "has improved"
+    ],
+    "answer": "is improving",
+    "explanation": "Đáp án \"is improving\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 87,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "Ron is in London at the moment. He ____ (stay) at the Park Hotel. He ____ (always/stay) there when he's in London.",
+    "options": [
+      "is staying",
+      "stays",
+      "stayed",
+      "has stayed"
+    ],
+    "answer": "is staying",
+    "explanation": "Đáp án \"is staying\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 88,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "Ron is in London at the moment. He ____ (stay) at the Park Hotel. He ____ (always/stay) there when he's in London.",
+    "options": [
+      "always stays",
+      "always stayses",
+      "always staysed",
+      "has always staysed"
+    ],
+    "answer": "always stays",
+    "explanation": "Đáp án \"always stays\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 89,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "Can we stop walking soon? I ____ (start) to feel tired.",
+    "options": [
+      "am starting",
+      "start",
+      "started",
+      "have started"
+    ],
+    "answer": "am starting",
+    "explanation": "Đáp án \"am starting\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 90,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "'Can you drive?' 'I ____ (learn). My father ____ (teach) me.",
+    "options": [
+      "am learning",
+      "learn",
+      "learned",
+      "have learned"
+    ],
+    "answer": "am learning",
+    "explanation": "Đáp án \"am learning\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 91,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "'Can you drive?' 'I ____ (learn). My father ____ (teach) me.",
+    "options": [
+      "is teaching",
+      "teaches",
+      "taught",
+      "has taught"
+    ],
+    "answer": "is teaching",
+    "explanation": "Đáp án \"is teaching\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 92,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "Normally I ____ (finish) work at 5.00, but this week I ____ (work) until 6.00 to earn a bit more money.",
+    "options": [
+      "finish",
+      "finishes",
+      "finished",
+      "has finished"
+    ],
+    "answer": "finish",
+    "explanation": "Đáp án \"finish\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 93,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "Normally I ____ (finish) work at 5.00, but this week I ____ (work) until 6.00 to earn a bit more money.",
+    "options": [
+      "am working",
+      "work",
+      "worked",
+      "have worked"
+    ],
+    "answer": "am working",
+    "explanation": "Đáp án \"am working\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 94,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "My parents ____ (live) in Bristol. They were born there and have never lived anywhere else. Where ____ (your parents/live)?",
+    "options": [
+      "live",
+      "lives",
+      "lived",
+      "has lived"
+    ],
+    "answer": "live",
+    "explanation": "Đáp án \"live\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 95,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "My parents ____ (live) in Bristol. They were born there and have never lived anywhere else. Where ____ (your parents/live)?",
+    "options": [
+      "do your parents live",
+      "do your parents lives",
+      "do your parents lived",
+      "has do your parents lived"
+    ],
+    "answer": "do your parents live",
+    "explanation": "Đáp án \"do your parents live\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 96,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "Sonia ____ (look) for a place to live. She ____ (stay) with her sister until she finds somewhere.",
+    "options": [
+      "is looking",
+      "looks",
+      "looked",
+      "has looked"
+    ],
+    "answer": "is looking",
+    "explanation": "Đáp án \"is looking\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 97,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "Sonia ____ (look) for a place to live. She ____ (stay) with her sister until she finds somewhere.",
+    "options": [
+      "is staying",
+      "stays",
+      "stayed",
+      "has stayed"
+    ],
+    "answer": "is staying",
+    "explanation": "Đáp án \"is staying\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 98,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "'What ____ (your father/do)?' 'He's an architect but he ____ (not/work) at the moment.'",
+    "options": [
+      "does your father do",
+      "does your father does",
+      "does your father doed",
+      "has does your father doed"
+    ],
+    "answer": "does your father do",
+    "explanation": "Đáp án \"does your father do\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 99,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "'What ____ (your father/do)?' 'He's an architect but he ____ (not/work) at the moment.'",
+    "options": [
+      "is not working",
+      "is working",
+      "does not work",
+      "did not work"
+    ],
+    "answer": "is not working",
+    "explanation": "Đáp án \"is not working\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 100,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "(_at a party=)Usually I ____ (enjoy) parties but I ____ (not/enjoy) this one very much.",
+    "options": [
+      "enjoy",
+      "enjoys",
+      "enjoyed",
+      "has enjoyed"
+    ],
+    "answer": "enjoy",
+    "explanation": "Đáp án \"enjoy\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 101,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "(_at a party=)Usually I ____ (enjoy) parties but I ____ (not/enjoy) this one very much.",
+    "options": [
+      "am not enjoying",
+      "am enjoying",
+      "do not enjoy",
+      "did not enjoy"
+    ],
+    "answer": "am not enjoying",
+    "explanation": "Đáp án \"am not enjoying\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 102,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "B:Not again! ____.",
+    "options": [
+      "You are always losing your key",
+      "You are always losing your keys",
+      "You are always losing your keyed",
+      "has You are always losing your keyed"
+    ],
+    "answer": "You are always losing your key",
+    "explanation": "Đáp án \"You are always losing your key\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 103,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "B:That car is useless! It ____.",
+    "options": [
+      "is always breaking down",
+      "is always breaking downs",
+      "is always breaking downed",
+      "has is always breaking downed"
+    ],
+    "answer": "is always breaking down",
+    "explanation": "Đáp án \"is always breaking down\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 104,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "B:Oh no, not again! I ____.",
+    "options": [
+      "am always making the same mistake",
+      "am always making the same mistakes",
+      "am always making the same mistaked",
+      "has am always making the same mistaked"
+    ],
+    "answer": "am always making the same mistake",
+    "explanation": "Đáp án \"am always making the same mistake\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 105,
+    "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
+    "level": "Trung bình",
+    "category": "Grammar - Present Simple vs Present Continuous",
+    "question": "B:Typical! You ____.",
+    "options": [
+      "are always leaving the lights on",
+      "are always leaving the lights ons",
+      "are always leaving the lights oned",
+      "has are always leaving the lights oned"
+    ],
+    "answer": "are always leaving the lights on",
+    "explanation": "Đáp án \"are always leaving the lights on\" phù hợp vì câu diễn tả hành động đang xảy ra hoặc tình huống tạm thời ở hiện tại."
+  },
+  {
+    "id": 106,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Error Correction",
+    "question": "I'm seeing the manager tomorow morning. ____",
+    "options": [
+      "Right",
+      "Wrong: use present continuous",
+      "Wrong: use present simple",
+      "Wrong: use past simple"
+    ],
+    "answer": "Right",
+    "explanation": "Câu gốc đã đúng: dùng thì hiện tại đơn cho sự thật chung hoặc thói quen."
+  },
+  {
+    "id": 107,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Error Correction",
+    "question": "I'm feeling hungry. Is there anything to eat? ____",
+    "options": [
+      "Right",
+      "Wrong: use present continuous",
+      "Wrong: use present simple",
+      "Wrong: use past simple"
+    ],
+    "answer": "Right",
+    "explanation": "Câu gốc đã đúng: dùng thì hiện tại đơn cho sự thật chung hoặc thói quen."
+  },
+  {
+    "id": 108,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "Are you believing in God? ____",
+    "options": [
+      "Do you believe in God",
+      "are you believe in God",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Do you believe in God",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Do you believe in God\"."
+  },
+  {
+    "id": 109,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Grammar - State Verbs",
+    "question": "This sauce is great. It's tasting really good. ____",
+    "options": [
+      "It tastes really good",
+      "It tastes really goods",
+      "It tastes really gooded",
+      "has It tastes really gooded"
+    ],
+    "answer": "It tastes really good",
+    "explanation": "Đáp án \"It tastes really good\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
+  },
+  {
+    "id": 110,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Grammar - State Verbs",
+    "question": "I'm thinking this is your key. Am I right? ____",
+    "options": [
+      "I think this is your key",
+      "I think this is your keys",
+      "I think this is your keyed",
+      "has I think this is your keyed"
+    ],
+    "answer": "I think this is your key",
+    "explanation": "Đáp án \"I think this is your key\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
+  },
+  {
+    "id": 111,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "Are you hungry? ____ something to eat? (you/want)",
+    "options": [
+      "Do you want",
+      "are you want",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Do you want",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Do you want\"."
+  },
+  {
+    "id": 112,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Grammar - State Verbs",
+    "question": "Jill is interested in politics but she ____ to a political party. (not/belong)",
+    "options": [
+      "does not belong",
+      "belongs",
+      "is not belonging",
+      "has not belonged"
+    ],
+    "answer": "does not belong",
+    "explanation": "Đáp án \"does not belong\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
+  },
+  {
+    "id": 113,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Grammar - State Verbs",
+    "question": "Don't put the dictionary away. I ____ it. (use)",
+    "options": [
+      "am using",
+      "us",
+      "used",
+      "have used"
+    ],
+    "answer": "am using",
+    "explanation": "Đáp án \"am using\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
+  },
+  {
+    "id": 114,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Grammar - State Verbs",
+    "question": "Don't put the dictionary away. I ____ it. (need)",
+    "options": [
+      "need",
+      "ne",
+      "was neing",
+      "has ned"
+    ],
+    "answer": "need",
+    "explanation": "Đáp án \"need\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
+  },
+  {
+    "id": 115,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Grammar - State Verbs",
+    "question": "Who is that man? What ____ ? (he/want)",
+    "options": [
+      "does he want",
+      "does he wants",
+      "does he wanted",
+      "has does he wanted"
+    ],
+    "answer": "does he want",
+    "explanation": "Đáp án \"does he want\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
+  },
+  {
+    "id": 116,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Grammar - State Verbs",
+    "question": "Who is that man? Why ____ at us? (he/look)",
+    "options": [
+      "is he looking",
+      "is he lookings",
+      "is he lookinged",
+      "has is he lookinged"
+    ],
+    "answer": "is he looking",
+    "explanation": "Đáp án \"is he looking\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
+  },
+  {
+    "id": 117,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Grammar - State Verbs",
+    "question": "George says he's 80 years old but nobody ____ him (believe)",
+    "options": [
+      "believes",
+      "believe",
+      "is believeing",
+      "believed"
+    ],
+    "answer": "believes",
+    "explanation": "Đáp án \"believes\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
+  },
+  {
+    "id": 118,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Grammar - State Verbs",
+    "question": "She told me her name but I ____ it now. (not/remember)",
+    "options": [
+      "do not remember",
+      "remembered",
+      "is not remembering",
+      "has not remembered"
+    ],
+    "answer": "do not remember",
+    "explanation": "Đáp án \"do not remember\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
+  },
+  {
+    "id": 119,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Grammar - State Verbs",
+    "question": "I ____ of selling my car. (think). Would you be interested in buying it?",
+    "options": [
+      "am thinking",
+      "think",
+      "thinked",
+      "have thinked"
+    ],
+    "answer": "am thinking",
+    "explanation": "Đáp án \"am thinking\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
+  },
+  {
+    "id": 120,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Grammar - State Verbs",
+    "question": "I ____ you should sell your car. (think) You ____ it very often. (not/use)",
+    "options": [
+      "think",
+      "thinks",
+      "thinked",
+      "has thinked"
+    ],
+    "answer": "think",
+    "explanation": "Đáp án \"think\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
+  },
+  {
+    "id": 121,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Grammar - State Verbs",
+    "question": "I ____ you should sell your car. (think) You ____ it very often. (not/use)",
+    "options": [
+      "do not use",
+      "used",
+      "is not useing",
+      "has not used"
+    ],
+    "answer": "do not use",
+    "explanation": "Đáp án \"do not use\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
+  },
+  {
+    "id": 122,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Grammar - State Verbs",
+    "question": "I used to drink a lot of coffee but these days I ____ tea. (prefer)",
+    "options": [
+      "prefer",
+      "prefers",
+      "prefered",
+      "has prefered"
+    ],
+    "answer": "prefer",
+    "explanation": "Đáp án \"prefer\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
+  },
+  {
+    "id": 123,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Grammar - State Verbs",
+    "question": "Air ____ mainly of nitrogen and oxygen. (consist)",
+    "options": [
+      "consists",
+      "consist",
+      "is consisting",
+      "consisted"
+    ],
+    "answer": "consists",
+    "explanation": "Đáp án \"consists\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
+  },
+  {
+    "id": 124,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Grammar - State Verbs",
+    "question": "I can't understand why ____ so selfish. He isn't usually like that.",
+    "options": [
+      "he is being",
+      "he is beings",
+      "he is beinged",
+      "has he is beinged"
+    ],
+    "answer": "he is being",
+    "explanation": "Đáp án \"he is being\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
+  },
+  {
+    "id": 125,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Grammar - State Verbs",
+    "question": "Jack ____ very nice to me at the moment. I wonder why.",
+    "options": [
+      "is being",
+      "bes",
+      "bed",
+      "has bed"
+    ],
+    "answer": "is being",
+    "explanation": "Đáp án \"is being\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
+  },
+  {
+    "id": 126,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Grammar - State Verbs",
+    "question": "You'll like Jill when you meet her. She ____ very nice.",
+    "options": [
+      "is",
+      "i",
+      "is iing",
+      "ied"
+    ],
+    "answer": "is",
+    "explanation": "Đáp án \"is\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
+  },
+  {
+    "id": 127,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Grammar - State Verbs",
+    "question": "Normally you are very sensible, so why ____ so silly about this matter?",
+    "options": [
+      "are you being",
+      "are you beings",
+      "are you beinged",
+      "has are you beinged"
+    ],
+    "answer": "are you being",
+    "explanation": "Đáp án \"are you being\" phù hợp vì động từ chỉ trạng thái thường dùng hiện tại đơn, còn hành vi tạm thời dùng dạng tiếp diễn."
+  },
+  {
+    "id": 128,
+    "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "Why isn't Sarah at work today? ____ ill?",
+    "options": [
+      "Is she",
+      "does she",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Is she",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Is she\"."
+  },
+  {
+    "id": 129,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "Mozart ____ more than 600 pieces of music.",
+    "options": [
+      "wrote",
+      "was wroteing",
+      "has wroted",
+      "do not know"
+    ],
+    "answer": "wrote",
+    "explanation": "Đáp án \"wrote\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 130,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "'How did you learn to drive?' 'My father ____ me'",
+    "options": [
+      "taught",
+      "was taughting",
+      "has taughted",
+      "do not know"
+    ],
+    "answer": "taught",
+    "explanation": "Đáp án \"taught\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 131,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "We couldn't afford to keep our car, so we ____ it.",
+    "options": [
+      "sold",
+      "was solding",
+      "has solded",
+      "do not know"
+    ],
+    "answer": "sold",
+    "explanation": "Đáp án \"sold\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 132,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "I was very thirsty. I ____ the water very quickly.",
+    "options": [
+      "drank",
+      "was dranking",
+      "has dranked",
+      "do not know"
+    ],
+    "answer": "drank",
+    "explanation": "Đáp án \"drank\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 133,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "Paul and I played tennis yesterday. He's much better than me, so he ____ easily",
+    "options": [
+      "won",
+      "was woning",
+      "has woned",
+      "do not know"
+    ],
+    "answer": "won",
+    "explanation": "Đáp án \"won\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 134,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "Don ____ down the stairs this morning and ____ his leg.",
+    "options": [
+      "fell",
+      "was felling",
+      "has felled",
+      "do not know"
+    ],
+    "answer": "fell",
+    "explanation": "Đáp án \"fell\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 135,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "Don ____ down the stairs this morning and ____ his leg.",
+    "options": [
+      "hurt",
+      "was hurting",
+      "has hurt",
+      "do not know"
+    ],
+    "answer": "hurt",
+    "explanation": "Đáp án \"hurt\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 136,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "Jim ____ the ball to Sue, who ____ it.",
+    "options": [
+      "threw",
+      "was threwing",
+      "has threwed",
+      "do not know"
+    ],
+    "answer": "threw",
+    "explanation": "Đáp án \"threw\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 137,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "Jim ____ the ball to Sue, who ____ it.",
+    "options": [
+      "caught",
+      "was caughting",
+      "has caughted",
+      "do not know"
+    ],
+    "answer": "caught",
+    "explanation": "Đáp án \"caught\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 138,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "Ann ____ a lot of money yesterday. She ____ a dress which '\">cost'\">£100",
+    "options": [
+      "spent",
+      "was spenting",
+      "has spented",
+      "do not know"
+    ],
+    "answer": "spent",
+    "explanation": "Đáp án \"spent\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 139,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "Ann ____ a lot of money yesterday. She ____ a dress which '\">cost'\">£100",
+    "options": [
+      "bought",
+      "was boughting",
+      "has boughted",
+      "do not know"
+    ],
+    "answer": "bought",
+    "explanation": "Đáp án \"bought\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 140,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "(where/go?) ____ ?",
+    "options": [
+      "Where did you go",
+      "Where are you go",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Where did you go",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Where did you go\"."
+  },
+  {
+    "id": 141,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "(go alone?) ____ ?",
+    "options": [
+      "Did you go alone",
+      "are you go alone",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Did you go alone",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Did you go alone\"."
+  },
+  {
+    "id": 142,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "(food/good?) ____ ?",
+    "options": [
+      "Was the food good",
+      "did the food good",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Was the food good",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Was the food good\"."
+  },
+  {
+    "id": 143,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "(how long/ stay there?) ____ ?",
+    "options": [
+      "How long did you stay there",
+      "How long are you stay there",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "How long did you stay there",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How long did you stay there\"."
+  },
+  {
+    "id": 144,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "(stay/ at a hotel?) ____ ?",
+    "options": [
+      "Did you stay at a hotel",
+      "are you stay at a hotel",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Did you stay at a hotel",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Did you stay at a hotel\"."
+  },
+  {
+    "id": 145,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "(how/ travel?) ____ ?",
+    "options": [
+      "How did you travel",
+      "How are you travel",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "How did you travel",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How did you travel\"."
+  },
+  {
+    "id": 146,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "(the weather/ fine?) ____ ?",
+    "options": [
+      "Was the weather fine",
+      "did the weather fine",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Was the weather fine",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Was the weather fine\"."
+  },
+  {
+    "id": 147,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "(what/ do in the evening?) ____ ?",
+    "options": [
+      "What did you do in the evening",
+      "What are you are in the evening",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "What did you do in the evening",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"What did you do in the evening\"."
+  },
+  {
+    "id": 148,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "(meet anybody intersting?) ____ ?",
+    "options": [
+      "Did you meet anybody interesting",
+      "are you meet anybody interesting",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Did you meet anybody interesting",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Did you meet anybody interesting\"."
+  },
+  {
+    "id": 149,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "It was warm, so I ____ off my coat (take)",
+    "options": [
+      "took",
+      "was tooking",
+      "has tooked",
+      "do not know"
+    ],
+    "answer": "took",
+    "explanation": "Đáp án \"took\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 150,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "The film wasn't very good. I ____ it very much. (enjoy)",
+    "options": [
+      "did not enjoy",
+      "enjoyed",
+      "is not enjoying",
+      "has not enjoyed"
+    ],
+    "answer": "did not enjoy",
+    "explanation": "Đáp án \"did not enjoy\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 151,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "I knew Sarah was very busy, so I ____ her, (disturb)",
+    "options": [
+      "did not disturb",
+      "disturbed",
+      "is not disturbing",
+      "has not disturbed"
+    ],
+    "answer": "did not disturb",
+    "explanation": "Đáp án \"did not disturb\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 152,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "I was very tired, so I ____ to bed early. (go)",
+    "options": [
+      "went",
+      "was wenting",
+      "has wented",
+      "do not know"
+    ],
+    "answer": "went",
+    "explanation": "Đáp án \"went\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 153,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "The bed was very uncomfortable. I ____ very well. (sleep)",
+    "options": [
+      "did not sleep",
+      "slept",
+      "is not sleeping",
+      "has not slept"
+    ],
+    "answer": "did not sleep",
+    "explanation": "Đáp án \"did not sleep\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 154,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "Sue wasn't hungry, so she ____ anything. (eat)",
+    "options": [
+      "did not eat",
+      "ate",
+      "is not eating",
+      "has not eaten"
+    ],
+    "answer": "did not eat",
+    "explanation": "Đáp án \"did not eat\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 155,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "We went to Kate's house but she ____ at home. (be)",
+    "options": [
+      "was not",
+      "was nots",
+      "was noted",
+      "has was noted"
+    ],
+    "answer": "was not",
+    "explanation": "Đáp án \"was not\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 156,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "It was a funny situation but nobody ____ (laugh)",
+    "options": [
+      "laughed",
+      "laugh",
+      "was laughing",
+      "has laughed"
+    ],
+    "answer": "laughed",
+    "explanation": "Đáp án \"laughed\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 157,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "The window was open and a bird ____ into the room. (fly)",
+    "options": [
+      "flew",
+      "was flewing",
+      "has flewed",
+      "do not know"
+    ],
+    "answer": "flew",
+    "explanation": "Đáp án \"flew\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 158,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "The hotel wasn't very expensive. It ____ very much. (cost)",
+    "options": [
+      "did not cost",
+      "costed",
+      "is not costing",
+      "has not costed"
+    ],
+    "answer": "did not cost",
+    "explanation": "Đáp án \"did not cost\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 159,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "I was a hurry, so I ____ times to phone you. (have)",
+    "options": [
+      "did not have",
+      "had",
+      "is not haveing",
+      "has not had"
+    ],
+    "answer": "did not have",
+    "explanation": "Đáp án \"did not have\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 160,
+    "unit": "UNIT 5 - Past Simple",
+    "level": "Dễ",
+    "category": "Grammar - Past Simple",
+    "question": "It was hard work carrying the bags. They ____ very heavy. (be)",
+    "options": [
+      "were",
+      "was",
+      "was being",
+      "has bed"
+    ],
+    "answer": "were",
+    "explanation": "Đáp án \"were\" phù hợp vì câu nói về sự việc đã xảy ra và kết thúc trong quá khứ."
+  },
+  {
+    "id": 161,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "Tom burnt his hand while he ____.",
+    "options": [
+      "was cooking",
+      "cooked",
+      "had cooked",
+      "cooks"
+    ],
+    "answer": "was cooking",
+    "explanation": "Đáp án \"was cooking\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 162,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "The doorbell rang while I ____.",
+    "options": [
+      "was having a shower",
+      "had",
+      "had had",
+      "haves"
+    ],
+    "answer": "was having a shower",
+    "explanation": "Đáp án \"was having a shower\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 163,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "We saw an accident while we ____.",
+    "options": [
+      "were driving home",
+      "drived",
+      "had drived",
+      "drive"
+    ],
+    "answer": "were driving home",
+    "explanation": "Đáp án \"were driving home\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 164,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "Mary fell asleep while she ____.",
+    "options": [
+      "was reading",
+      "read",
+      "had read",
+      "reads"
+    ],
+    "answer": "was reading",
+    "explanation": "Đáp án \"was reading\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 165,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "The television was on but nobody ____",
+    "options": [
+      "was watching it",
+      "watched",
+      "had watched",
+      "watches"
+    ],
+    "answer": "was watching it",
+    "explanation": "Đáp án \"was watching it\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 166,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "Jane ____ (wait) for me when I ____ (arrive).",
+    "options": [
+      "was waiting",
+      "waited",
+      "had waited",
+      "waits"
+    ],
+    "answer": "was waiting",
+    "explanation": "Đáp án \"was waiting\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 167,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "Jane ____ (wait) for me when I ____ (arrive).",
+    "options": [
+      "arrived",
+      "arriv",
+      "was arriving",
+      "has arrived"
+    ],
+    "answer": "arrived",
+    "explanation": "Đáp án \"arrived\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 168,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "'What ____ (you/do) this time yesterday?' 'I was asleep'.",
+    "options": [
+      "were you doing",
+      "were you doings",
+      "were you doinged",
+      "has were you doinged"
+    ],
+    "answer": "were you doing",
+    "explanation": "Đáp án \"were you doing\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 169,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Question Formation",
+    "question": "' ____ (you/go) out last night?' 'No, I was too tired.'",
+    "options": [
+      "Did you go",
+      "are you go",
+      "do not know",
+      "is doing"
+    ],
+    "answer": "Did you go",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Did you go\"."
+  },
+  {
+    "id": 170,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "'Was Carol at the party last night?' 'Yes, she ____ (wear) a really nice dress.'",
+    "options": [
+      "was wearing",
+      "wore",
+      "had worn",
+      "wears"
+    ],
+    "answer": "was wearing",
+    "explanation": "Đáp án \"was wearing\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 171,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "How fast ____ (you/drive) when the accident ____ (happen)?",
+    "options": [
+      "were you driving",
+      "were you drivings",
+      "were you drivinged",
+      "has were you drivinged"
+    ],
+    "answer": "were you driving",
+    "explanation": "Đáp án \"were you driving\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 172,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "How fast ____ (you/drive) when the accident ____ (happen)?",
+    "options": [
+      "happened",
+      "happen",
+      "was happening",
+      "has happened"
+    ],
+    "answer": "happened",
+    "explanation": "Đáp án \"happened\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 173,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "John ____ (take) a photograph of me while I ____ (not/look).",
+    "options": [
+      "took",
+      "was tooking",
+      "has tooked",
+      "do not know"
+    ],
+    "answer": "took",
+    "explanation": "Đáp án \"took\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 174,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "John ____ (take) a photograph of me while I ____ (not/look).",
+    "options": [
+      "was not looking",
+      "was looking",
+      "did not look",
+      "had not looked"
+    ],
+    "answer": "was not looking",
+    "explanation": "Đáp án \"was not looking\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 175,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "We were in a very difficult position. We ____ (not/know) what to do.",
+    "options": [
+      "did not know",
+      "knew",
+      "is not knowing",
+      "has not known"
+    ],
+    "answer": "did not know",
+    "explanation": "Đáp án \"did not know\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 176,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "I haven't seen Alan for ages. When I last ____ (see) him, he ____ (try) to find a job in London.",
+    "options": [
+      "saw",
+      "was sawing",
+      "has sawed",
+      "do not know"
+    ],
+    "answer": "saw",
+    "explanation": "Đáp án \"saw\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 177,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "I haven't seen Alan for ages. When I last ____ (see) him, he ____ (try) to find a job in London.",
+    "options": [
+      "was trying",
+      "tryed",
+      "had tryed",
+      "tries"
+    ],
+    "answer": "was trying",
+    "explanation": "Đáp án \"was trying\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 178,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "I ____ (walk) along the street when suddenly I ____ (hear) footsteps behind me. Somebody '\">was following'\">(follow) me. I was frightened and I '\">started'\">(start) to run.",
+    "options": [
+      "was walking",
+      "walked",
+      "had walked",
+      "walks"
+    ],
+    "answer": "was walking",
+    "explanation": "Đáp án \"was walking\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 179,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "I ____ (walk) along the street when suddenly I ____ (hear) footsteps behind me. Somebody '\">was following'\">(follow) me. I was frightened and I '\">started'\">(start) to run.",
+    "options": [
+      "heard",
+      "was hearding",
+      "has hearded",
+      "do not know"
+    ],
+    "answer": "heard",
+    "explanation": "Đáp án \"heard\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 180,
+    "unit": "UNIT 6 - Past Continuous",
+    "level": "Trung bình",
+    "category": "Grammar - Past Continuous vs Past Simple",
+    "question": "When I was young, I ____ (want) to be a bus driver.",
+    "options": [
+      "wanted",
+      "want",
+      "was wanting",
+      "has wanted"
+    ],
+    "answer": "wanted",
+    "explanation": "Đáp án \"wanted\" phù hợp vì câu phân biệt hành động đang diễn ra trong quá khứ và hành động xảy ra chen vào hoặc kết thúc."
+  },
+  {
+    "id": 181,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "I/buy/a new car. ____.",
+    "options": [
+      "I have bought a new car",
+      "I have bought a new cars",
+      "I have bought a new cared",
+      "has I have bought a new cared"
+    ],
+    "answer": "I have bought a new car",
+    "explanation": "Đáp án \"I have bought a new car\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 182,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "my father/start/a new job: ____.",
+    "options": [
+      "My father has started a new job",
+      "My father has started a new jobs",
+      "My father has started a new jobed",
+      "has My father has started a new jobed"
+    ],
+    "answer": "My father has started a new job",
+    "explanation": "Đáp án \"My father has started a new job\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 183,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "I/give/smoking: ____.",
+    "options": [
+      "I have given up smoking",
+      "I have given up smokings",
+      "I have given up smokinged",
+      "has I have given up smokinged"
+    ],
+    "answer": "I have given up smoking",
+    "explanation": "Đáp án \"I have given up smoking\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 184,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "Charles and Sarah/go/to Brazil: ____.",
+    "options": [
+      "Charles and Sarah have gone to Brazil",
+      "Charles and Sarah have gone to Brazils",
+      "Charles and Sarah have gone to Braziled",
+      "has Charles and Sarah have gone to Braziled"
+    ],
+    "answer": "Charles and Sarah have gone to Brazil",
+    "explanation": "Đáp án \"Charles and Sarah have gone to Brazil\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 185,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "Suzanne/have/a baby: ____",
+    "options": [
+      "Suzanne has had a baby",
+      "Suzanne has had a babies",
+      "Suzanne has had a babyed",
+      "has Suzanne has had a babyed"
+    ],
+    "answer": "Suzanne has had a baby",
+    "explanation": "Đáp án \"Suzanne has had a baby\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 186,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "Mike is looking for his key. He can't find it. He ____.",
+    "options": [
+      "has lost it",
+      "has been losting",
+      "losted",
+      "is losting"
+    ],
+    "answer": "has lost it",
+    "explanation": "Đáp án \"has lost it\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 187,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "Magaret can't walk and her leg is in plaster. She ____.",
+    "options": [
+      "has broken her leg",
+      "has been brokening",
+      "brokened",
+      "is brokening"
+    ],
+    "answer": "has broken her leg",
+    "explanation": "Đáp án \"has broken her leg\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 188,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "Maria's English wasn't very good. Now it is much better. ____.",
+    "options": [
+      "It has improved",
+      "It has improveds",
+      "It has improveded",
+      "has It has improveded"
+    ],
+    "answer": "It has improved",
+    "explanation": "Đáp án \"It has improved\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 189,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "Tim didn't have a beard last month. Now he has a beard. ____.",
+    "options": [
+      "He has grown a beard",
+      "He has grown a beards",
+      "He has grown a bearded",
+      "has He has grown a bearded"
+    ],
+    "answer": "He has grown a beard",
+    "explanation": "Đáp án \"He has grown a beard\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 190,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "This morning I was expecting a letter. Now I have it. ____.",
+    "options": [
+      "The letter has arrived",
+      "The letter has arriveds",
+      "The letter has arriveded",
+      "has The letter has arriveded"
+    ],
+    "answer": "The letter has arrived",
+    "explanation": "Đáp án \"The letter has arrived\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 191,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Modal Verbs - Deduction",
+    "question": "Last week the bus fare was 80 pence. Now it is 90. ____",
+    "options": [
+      "The bus fare has gone up",
+      "The bus fare has gone ups",
+      "The bus fare has gone uped",
+      "has The bus fare has gone uped"
+    ],
+    "answer": "The bus fare has gone up",
+    "explanation": "Đáp án \"The bus fare has gone up\" hoàn thành câu đúng về nghĩa và cấu trúc."
+  },
+  {
+    "id": 192,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Modal Verbs - Deduction",
+    "question": "You're going on holiday next week. You ____ be looking forward to it.",
+    "options": [
+      "must",
+      "cannot",
+      "may",
+      "should"
+    ],
+    "answer": "must",
+    "explanation": "Đáp án \"must\" hoàn thành câu đúng về nghĩa và cấu trúc."
+  },
+  {
+    "id": 193,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Modal Verbs - Deduction",
+    "question": "It rained every day during their holiday, so they ____ have had a very nice time.",
+    "options": [
+      "must",
+      "cannot",
+      "may",
+      "should"
+    ],
+    "answer": "cannot",
+    "explanation": "Đáp án \"cannot\" hoàn thành câu đúng về nghĩa và cấu trúc."
+  },
+  {
+    "id": 194,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Modal Verbs - Deduction",
+    "question": "Congratulations on passing your exam. You ____ be very pleased",
+    "options": [
+      "must",
+      "cannot",
+      "may",
+      "should"
+    ],
+    "answer": "must",
+    "explanation": "Đáp án \"must\" hoàn thành câu đúng về nghĩa và cấu trúc."
+  },
+  {
+    "id": 195,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Modal Verbs - Deduction",
+    "question": "You got here very quickly. You ____ have walked very fast.",
+    "options": [
+      "must",
+      "cannot",
+      "may",
+      "should"
+    ],
+    "answer": "must",
+    "explanation": "Đáp án \"must\" hoàn thành câu đúng về nghĩa và cấu trúc."
+  },
+  {
+    "id": 196,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "Bill and Sue go away on holiday very often, so they ____ be short of money. ._A=:Is Ann coming to the cinema with us? _B=: No, she ____ the film. (already/see)",
+    "options": [
+      "must",
+      "cannot",
+      "may",
+      "should"
+    ],
+    "answer": "cannot",
+    "explanation": "Đáp án \"cannot\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 197,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "Bill and Sue go away on holiday very often, so they ____ be short of money. ._A=:Is Ann coming to the cinema with us? _B=: No, she ____ the film. (already/see)",
+    "options": [
+      "has already seen",
+      "has been alreadying",
+      "alreadyed",
+      "is alreadying"
+    ],
+    "answer": "has already seen",
+    "explanation": "Đáp án \"has already seen\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 198,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "_A=:Are you freinds here yet? _B=: Yes, they ____ . (just/arrive)",
+    "options": [
+      "have just arrived",
+      "have been justing",
+      "justed",
+      "are justing"
+    ],
+    "answer": "have just arrived",
+    "explanation": "Đáp án \"have just arrived\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 199,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "_A=:What does Tim thik about your plant? _B=: I ____ (not/tell/yet).",
+    "options": [
+      "have not told him yet",
+      "have been tolding",
+      "did not told",
+      "do not told"
+    ],
+    "answer": "have not told him yet",
+    "explanation": "Đáp án \"have not told him yet\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 200,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "After lunch you go to see a friend at her house. She says \"Would you like something to eat?\". You say: \"No, thank you. ____ . (have lunch)",
+    "options": [
+      "I have just had lunch",
+      "I have just had lunches",
+      "I have just had lunched",
+      "has I have just had lunched"
+    ],
+    "answer": "I have just had lunch",
+    "explanation": "Đáp án \"I have just had lunch\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 201,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "Joe goes out. Five minutes later, the phone rings and the caller says \"Can I speak to Joe?\" .You say: I'm afraid ____ (go out)",
+    "options": [
+      "he has just gone out",
+      "he has just gone outs",
+      "he has just gone outed",
+      "has he has just gone outed"
+    ],
+    "answer": "he has just gone out",
+    "explanation": "Đáp án \"he has just gone out\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 202,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "You are eating in a restaurant. The waiter things you have finished and stars to take your plate away. You say: Wait a minute! ____ (not/finish)",
+    "options": [
+      "I have not finished yet",
+      "I have not finished yets",
+      "I have not finished yeted",
+      "has I have not finished yeted"
+    ],
+    "answer": "I have not finished yet",
+    "explanation": "Đáp án \"I have not finished yet\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 203,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "You are going to restaurant to evening. You phone to reserve a table. Later your friend says 'Shall I phone reserve a table?' You say: No, ____ it (do)",
+    "options": [
+      "I have already done",
+      "I have already dones",
+      "I have already doned",
+      "has I have already doned"
+    ],
+    "answer": "I have already done",
+    "explanation": "Đáp án \"I have already done\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 204,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Question Formation",
+    "question": "You know that a freind of yours is looking for a job. Perhaps she has been successful. Ask her. You say: ____ ? (find)",
+    "options": [
+      "Have you found a job yet",
+      "did you found a job yet",
+      "are you found a job yet",
+      "do not know"
+    ],
+    "answer": "Have you found a job yet",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you found a job yet\"."
+  },
+  {
+    "id": 205,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "Ann went to the bank, but a few minutes ago the returned. Somebody asks 'Is Ann still at the bank?' You say: No, ____ (come back)",
+    "options": [
+      "she has just come back",
+      "she has just come backs",
+      "she has just come backed",
+      "has she has just come backed"
+    ],
+    "answer": "she has just come back",
+    "explanation": "Đáp án \"she has just come back\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 206,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "Jim is on holiday. He's ____ to Italy.",
+    "options": [
+      "gone",
+      "been",
+      "went",
+      "going"
+    ],
+    "answer": "gone",
+    "explanation": "Đáp án \"gone\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 207,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "Hello! I've ____ to the shops. I've bought lots of things.",
+    "options": [
+      "gone",
+      "been",
+      "went",
+      "going"
+    ],
+    "answer": "been",
+    "explanation": "Đáp án \"been\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 208,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "Alice isn't here at the moment. She's ____ to the shop to get a newspaper.",
+    "options": [
+      "gone",
+      "been",
+      "went",
+      "going"
+    ],
+    "answer": "gone",
+    "explanation": "Đáp án \"gone\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 209,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "Tom has ____ out. He'll be back in about an hour.",
+    "options": [
+      "gone",
+      "been",
+      "went",
+      "going"
+    ],
+    "answer": "gone",
+    "explanation": "Đáp án \"gone\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 210,
+    "unit": "UNIT 7 - Present Perfect (1)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "'Are you going to the bank?' 'No, I've already ____ to the bank.",
+    "options": [
+      "gone",
+      "been",
+      "went",
+      "going"
+    ],
+    "answer": "been",
+    "explanation": "Đáp án \"been\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 211,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Question Formation",
+    "question": "(ever/ride/horse?) ____ ?",
+    "options": [
+      "Have you ever ridden a horse",
+      "did you ever ridden a horse",
+      "are you ever ridden a horse",
+      "do not know"
+    ],
+    "answer": "Have you ever ridden a horse",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you ever ridden a horse\"."
+  },
+  {
+    "id": 212,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Question Formation",
+    "question": "(ever/be/California?) ____ ?",
+    "options": [
+      "Have you ever been to California",
+      "did you ever been to California",
+      "are you ever been to California",
+      "do not know"
+    ],
+    "answer": "Have you ever been to California",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you ever been to California\"."
+  },
+  {
+    "id": 213,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Question Formation",
+    "question": "(ever/run/marathon?) ____ ?",
+    "options": [
+      "Have you ever run a marathon",
+      "did you ever run a marathon",
+      "are you ever run a marathon",
+      "do not know"
+    ],
+    "answer": "Have you ever run a marathon",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you ever run a marathon\"."
+  },
+  {
+    "id": 214,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Question Formation",
+    "question": "(ever/speak/famous person?) ____ ?",
+    "options": [
+      "Have you ever spoken to a famous person",
+      "did you ever spoken to a famous person",
+      "are you ever spoken to a famous person",
+      "do not know"
+    ],
+    "answer": "Have you ever spoken to a famous person",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you ever spoken to a famous person\"."
+  },
+  {
+    "id": 215,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Question Formation",
+    "question": "(always/live/in the town?) ____ ?",
+    "options": [
+      "Have you always lived in this town",
+      "did you always lived in this town",
+      "are you always lived in this town",
+      "do not know"
+    ],
+    "answer": "Have you always lived in this town",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you always lived in this town\"."
+  },
+  {
+    "id": 216,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "What ____ her.",
+    "options": [
+      "is the most beautiful place you have ever visited",
+      "is the most beautiful place you have ever visiteds",
+      "is the most beautiful place you have ever visiteded",
+      "has is the most beautiful place you have ever visiteded"
+    ],
+    "answer": "is the most beautiful place you have ever visited",
+    "explanation": "Đáp án \"is the most beautiful place you have ever visited\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 217,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "A: How is Amy these days? B: I don't know. I ____ her recently.",
+    "options": [
+      "have not seen",
+      "have been seening",
+      "did not seen",
+      "do not seen"
+    ],
+    "answer": "have not seen",
+    "explanation": "Đáp án \"have not seen\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 218,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "A: Are you hungry? B: Yes, I ____ much today.",
+    "options": [
+      "have not eaten",
+      "have been eatening",
+      "did not eaten",
+      "do not eaten"
+    ],
+    "answer": "have not eaten",
+    "explanation": "Đáp án \"have not eaten\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 219,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "A: Can you play chess? B: Yes, but ____ for ages.",
+    "options": [
+      "I have not played",
+      "I have not playeds",
+      "I have not playeded",
+      "has I have not playeded"
+    ],
+    "answer": "I have not played",
+    "explanation": "Đáp án \"I have not played\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 220,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "A: Did you enjoy your holiday? B: Yes, it's the best holiday. ____ for a long times.",
+    "options": [
+      "I have had",
+      "I have hads",
+      "I have haded",
+      "has I have haded"
+    ],
+    "answer": "I have had",
+    "explanation": "Đáp án \"I have had\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 221,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "A: What's that book like? B: I don't know. ____ it.",
+    "options": [
+      "I have not read",
+      "I have not reads",
+      "I have not readed",
+      "has I have not readed"
+    ],
+    "answer": "I have not read",
+    "explanation": "Đáp án \"I have not read\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 222,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "A: Is Brussels an interesting place? B: I've no idea. ____ there.",
+    "options": [
+      "I have not been",
+      "I have not beens",
+      "I have not beened",
+      "has I have not beened"
+    ],
+    "answer": "I have not been",
+    "explanation": "Đáp án \"I have not been\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 223,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "A: Mike has later for work again today. B: Agian? He ____ every day this week.",
+    "options": [
+      "has been late",
+      "has been beening",
+      "beened",
+      "is beening"
+    ],
+    "answer": "has been late",
+    "explanation": "Đáp án \"has been late\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 224,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "A: Do you like caviar? B: I don't know ____ it.",
+    "options": [
+      "I have never tried",
+      "I have never trieds",
+      "I have never trieded",
+      "has I have never trieded"
+    ],
+    "answer": "I have never tried",
+    "explanation": "Đáp án \"I have never tried\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 225,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "A: The car broke down again yesterday. B: Not agian! That's the second times. ____ this week.",
+    "options": [
+      "it has broken down",
+      "it has broken downs",
+      "it has broken downed",
+      "has it has broken downed"
+    ],
+    "answer": "it has broken down",
+    "explanation": "Đáp án \"it has broken down\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 226,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "I saw Tom yesterday but I ____ today.",
+    "options": [
+      "have not seen him",
+      "have been seening",
+      "did not seen",
+      "do not seen"
+    ],
+    "answer": "have not seen him",
+    "explanation": "Đáp án \"have not seen him\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 227,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "I read a newspaper yesterday but I ____ today.",
+    "options": [
+      "have not read one",
+      "have been reading",
+      "did not read",
+      "do not read"
+    ],
+    "answer": "have not read one",
+    "explanation": "Đáp án \"have not read one\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 228,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "Last year the company made a profit but this year. ____",
+    "options": [
+      "it has made a loss",
+      "it has made a losses",
+      "it has made a lossed",
+      "has it has made a lossed"
+    ],
+    "answer": "it has made a loss",
+    "explanation": "Đáp án \"it has made a loss\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 229,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "Tracy worked hard at school last term but ____",
+    "options": [
+      "she has not worked hard",
+      "she has not worked hards",
+      "she has not worked harded",
+      "has she has not worked harded"
+    ],
+    "answer": "she has not worked hard",
+    "explanation": "Đáp án \"she has not worked hard\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 230,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "It snowed a lot last winter but ____",
+    "options": [
+      "it has not snowed much",
+      "it has not snowed muches",
+      "it has not snowed muched",
+      "has it has not snowed muched"
+    ],
+    "answer": "it has not snowed much",
+    "explanation": "Đáp án \"it has not snowed much\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 231,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "Our football team won a lot of games last season but we ____",
+    "options": [
+      "have not won many",
+      "have been woning",
+      "did not won",
+      "do not won"
+    ],
+    "answer": "have not won many",
+    "explanation": "Đáp án \"have not won many\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 232,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "_You ask:= Have ____ ?",
+    "options": [
+      "you driven a car before",
+      "you driven a car befores",
+      "you driven a car befored",
+      "has you driven a car befored"
+    ],
+    "answer": "you driven a car before",
+    "explanation": "Đáp án \"you driven a car before\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 233,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "_He says:= No, this is the first times ____.",
+    "options": [
+      "I have driven a car",
+      "I have driven a cars",
+      "I have driven a cared",
+      "has I have driven a cared"
+    ],
+    "answer": "I have driven a car",
+    "explanation": "Đáp án \"I have driven a car\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 234,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "_You ask:= Have ____ ?",
+    "options": [
+      "you played tennis before",
+      "you played tennis befores",
+      "you played tennis befored",
+      "has you played tennis befored"
+    ],
+    "answer": "you played tennis before",
+    "explanation": "Đáp án \"you played tennis before\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 235,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "_He says:= No, this is the first time ____",
+    "options": [
+      "I have played tennis",
+      "I have played tennises",
+      "I have played tennised",
+      "has I have played tennised"
+    ],
+    "answer": "I have played tennis",
+    "explanation": "Đáp án \"I have played tennis\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 236,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Question Formation",
+    "question": "_You ask:= ____ ?",
+    "options": [
+      "Have you ridden a horse before",
+      "did you ridden a horse before",
+      "are you ridden a horse before",
+      "do not know"
+    ],
+    "answer": "Have you ridden a horse before",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you ridden a horse before\"."
+  },
+  {
+    "id": 237,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "_She says:=No, this is the first time ____",
+    "options": [
+      "I have ridden a horse",
+      "I have ridden a horses",
+      "I have ridden a horsed",
+      "has I have ridden a horsed"
+    ],
+    "answer": "I have ridden a horse",
+    "explanation": "Đáp án \"I have ridden a horse\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 238,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Question Formation",
+    "question": "_You ask:= ____ ?",
+    "options": [
+      "Have you been to London before",
+      "did you been to London before",
+      "are you been to London before",
+      "do not know"
+    ],
+    "answer": "Have you been to London before",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you been to London before\"."
+  },
+  {
+    "id": 239,
+    "unit": "UNIT 8 - Present Perfect (2)",
+    "level": "Khá",
+    "category": "Grammar - Present Perfect Simple",
+    "question": "_She says:= ____.",
+    "options": [
+      "No, this is the first time I have been to London",
+      "No, this is the first time I have been to Londons",
+      "No, this is the first time I have been to Londoned",
+      "has No, this is the first time I have been to Londoned"
+    ],
+    "answer": "No, this is the first time I have been to London",
+    "explanation": "Đáp án \"No, this is the first time I have been to London\" phù hợp vì câu nhấn mạnh kết quả hoặc trải nghiệm liên quan đến hiện tại."
+  },
+  {
+    "id": 240,
+    "unit": "UNIT 9 - Present Perfect Continuous",
+    "level": "Khó",
+    "category": "Question Formation",
+    "question": "John looks sunburnt. You ask: (you/ sit in the sun?) ____ ?",
+    "options": [
+      "Have you been sitting in the sun",
+      "did you been sitting in the sun",
+      "are you been sitting in the sun",
+      "do not know"
+    ],
+    "answer": "Have you been sitting in the sun",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you been sitting in the sun\"."
+  },
+  {
+    "id": 241,
+    "unit": "UNIT 9 - Present Perfect Continuous",
+    "level": "Khó",
+    "category": "Question Formation",
+    "question": "You have just arrived to meet a friend who is waiting for you. You ask: (you/wait/long?) ____ ?",
+    "options": [
+      "Have you been waiting long",
+      "did you been waiting long",
+      "are you been waiting long",
+      "do not know"
+    ],
+    "answer": "Have you been waiting long",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you been waiting long\"."
+  },
+  {
+    "id": 242,
+    "unit": "UNIT 9 - Present Perfect Continuous",
+    "level": "Khó",
+    "category": "Question Formation",
+    "question": "You meet a friend in the street. His face and hands are very dirty. You ask: (what/you/do?) ____ ?",
+    "options": [
+      "What have you been doing",
+      "What did you been doing",
+      "What are you been doing",
+      "do not know"
+    ],
+    "answer": "What have you been doing",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"What have you been doing\"."
+  },
+  {
+    "id": 243,
+    "unit": "UNIT 9 - Present Perfect Continuous",
+    "level": "Khó",
+    "category": "Question Formation",
+    "question": "A friend of yours is now living in Baker Street. You want to know 'how long …?) You ask: (how long/you/live/in Baker Street?) ____ ?",
+    "options": [
+      "How long have you been living in Baker Street",
+      "How long did you been living in Baker Street",
+      "How long are you been living in Baker Street",
+      "do not know"
+    ],
+    "answer": "How long have you been living in Baker Street",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How long have you been living in Baker Street\"."
+  },
+  {
+    "id": 244,
+    "unit": "UNIT 9 - Present Perfect Continuous",
+    "level": "Khó",
+    "category": "Question Formation",
+    "question": "A friend tells you about his ob - he sells computer. You want to know 'how long…?) You ask: (how long/you/sell/computer?) ____ ?",
+    "options": [
+      "How long have you been selling computers",
+      "How long did you been selling computers",
+      "How long are you been selling computers",
+      "do not know"
+    ],
+    "answer": "How long have you been selling computers",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How long have you been selling computers\"."
+  },
+  {
+    "id": 245,
+    "unit": "UNIT 9 - Present Perfect Continuous",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Continuous",
+    "question": "The rain stated two hours ago. It's still raining now. It ____ for two hours.",
+    "options": [
+      "has been raining",
+      "has rained",
+      "rained",
+      "is raining"
+    ],
+    "answer": "has been raining",
+    "explanation": "Đáp án \"has been raining\" phù hợp vì hành động bắt đầu trong quá khứ và vẫn tiếp tục hoặc còn dấu hiệu ở hiện tại."
+  },
+  {
+    "id": 246,
+    "unit": "UNIT 9 - Present Perfect Continuous",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Continuous",
+    "question": "We started waiting for the bus 20 minutes ago. We're still waiting now. We ____ for 20 minutes.",
+    "options": [
+      "have been waiting",
+      "have waited",
+      "waited",
+      "are waiting"
+    ],
+    "answer": "have been waiting",
+    "explanation": "Đáp án \"have been waiting\" phù hợp vì hành động bắt đầu trong quá khứ và vẫn tiếp tục hoặc còn dấu hiệu ở hiện tại."
+  },
+  {
+    "id": 247,
+    "unit": "UNIT 9 - Present Perfect Continuous",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Continuous",
+    "question": "I started Spanish classes in December. I'm still learning Spanish now. I ____ since December.",
+    "options": [
+      "have been learning Spanish",
+      "have learned",
+      "learned",
+      "are learning"
+    ],
+    "answer": "have been learning Spanish",
+    "explanation": "Đáp án \"have been learning Spanish\" phù hợp vì hành động bắt đầu trong quá khứ và vẫn tiếp tục hoặc còn dấu hiệu ở hiện tại."
+  },
+  {
+    "id": 248,
+    "unit": "UNIT 9 - Present Perfect Continuous",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Continuous",
+    "question": "Ann began looking for a job six month ago. She's still working now. ____ for six months",
+    "options": [
+      "Ann has been looking for a job",
+      "Ann has been looking for a jobs",
+      "Ann has been looking for a jobed",
+      "has Ann has been looking for a jobed"
+    ],
+    "answer": "Ann has been looking for a job",
+    "explanation": "Đáp án \"Ann has been looking for a job\" phù hợp vì hành động bắt đầu trong quá khứ và vẫn tiếp tục hoặc còn dấu hiệu ở hiện tại."
+  },
+  {
+    "id": 249,
+    "unit": "UNIT 9 - Present Perfect Continuous",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Continuous",
+    "question": "Maty started working in London on 18 January. She's still working there now. ____ since 18 January.",
+    "options": [
+      "Mary has been working there",
+      "Mary has been working theres",
+      "Mary has been working thered",
+      "has Mary has been working thered"
+    ],
+    "answer": "Mary has been working there",
+    "explanation": "Đáp án \"Mary has been working there\" phù hợp vì hành động bắt đầu trong quá khứ và vẫn tiếp tục hoặc còn dấu hiệu ở hiện tại."
+  },
+  {
+    "id": 250,
+    "unit": "UNIT 9 - Present Perfect Continuous",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Continuous",
+    "question": "Years ago you started writing to a penfriend. you still write to each other regularly now. We ____ for years.",
+    "options": [
+      "have been writing to each other",
+      "have writed",
+      "writed",
+      "are writing"
+    ],
+    "answer": "have been writing to each other",
+    "explanation": "Đáp án \"have been writing to each other\" phù hợp vì hành động bắt đầu trong quá khứ và vẫn tiếp tục hoặc còn dấu hiệu ở hiện tại."
+  },
+  {
+    "id": 251,
+    "unit": "UNIT 9 - Present Perfect Continuous",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Continuous",
+    "question": "Maria ____ (learn) English for two years.",
+    "options": [
+      "has been learning",
+      "has learned",
+      "learned",
+      "is learning"
+    ],
+    "answer": "has been learning",
+    "explanation": "Đáp án \"has been learning\" phù hợp vì hành động bắt đầu trong quá khứ và vẫn tiếp tục hoặc còn dấu hiệu ở hiện tại."
+  },
+  {
+    "id": 252,
+    "unit": "UNIT 9 - Present Perfect Continuous",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Continuous",
+    "question": "Hello, Tom. I ____ (look) for you all morning. Where have you been ?",
+    "options": [
+      "have been looking",
+      "have looked",
+      "looked",
+      "are looking"
+    ],
+    "answer": "have been looking",
+    "explanation": "Đáp án \"have been looking\" phù hợp vì hành động bắt đầu trong quá khứ và vẫn tiếp tục hoặc còn dấu hiệu ở hiện tại."
+  },
+  {
+    "id": 253,
+    "unit": "UNIT 9 - Present Perfect Continuous",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Continuous",
+    "question": "Why ____ (you/look) at me like that? Stop it!",
+    "options": [
+      "are you looking",
+      "are you lookings",
+      "are you lookinged",
+      "has are you lookinged"
+    ],
+    "answer": "are you looking",
+    "explanation": "Đáp án \"are you looking\" phù hợp vì hành động bắt đầu trong quá khứ và vẫn tiếp tục hoặc còn dấu hiệu ở hiện tại."
+  },
+  {
+    "id": 254,
+    "unit": "UNIT 9 - Present Perfect Continuous",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Continuous",
+    "question": "We always go to Ireland for our holidays. We ____ (go) there for years.",
+    "options": [
+      "have been going",
+      "have gone",
+      "went",
+      "are going"
+    ],
+    "answer": "have been going",
+    "explanation": "Đáp án \"have been going\" phù hợp vì hành động bắt đầu trong quá khứ và vẫn tiếp tục hoặc còn dấu hiệu ở hiện tại."
+  },
+  {
+    "id": 255,
+    "unit": "UNIT 9 - Present Perfect Continuous",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Continuous",
+    "question": "I ____ (think) about what you said and I've decided to take your advice.",
+    "options": [
+      "have been thinking",
+      "have thinked",
+      "thinked",
+      "are thinking"
+    ],
+    "answer": "have been thinking",
+    "explanation": "Đáp án \"have been thinking\" phù hợp vì hành động bắt đầu trong quá khứ và vẫn tiếp tục hoặc còn dấu hiệu ở hiện tại."
+  },
+  {
+    "id": 256,
+    "unit": "UNIT 9 - Present Perfect Continuous",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Continuous",
+    "question": "\"Is Ann on holiday this week?\" No, she ____ (work) very hard recently.",
+    "options": [
+      "has been working",
+      "has worked",
+      "worked",
+      "is working"
+    ],
+    "answer": "has been working",
+    "explanation": "Đáp án \"has been working\" phù hợp vì hành động bắt đầu trong quá khứ và vẫn tiếp tục hoặc còn dấu hiệu ở hiện tại."
+  },
+  {
+    "id": 257,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Simple vs Continuous",
+    "question": "(read/for two hours) He ____.",
+    "options": [
+      "has been reading for two hours",
+      "has read",
+      "read",
+      "is reading"
+    ],
+    "answer": "has been reading for two hours",
+    "explanation": "Đáp án \"has been reading for two hours\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
+  },
+  {
+    "id": 258,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Simple vs Continuous",
+    "question": "(read/53 pages so far) He ____.",
+    "options": [
+      "has read 53 pages so far",
+      "has been reading",
+      "read",
+      "is reading"
+    ],
+    "answer": "has read 53 pages so far",
+    "explanation": "Đáp án \"has read 53 pages so far\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
+  },
+  {
+    "id": 259,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Simple vs Continuous",
+    "question": "(travel/for three months) She ____.",
+    "options": [
+      "has been travelling for three months",
+      "has travelled",
+      "travelled",
+      "is travelling"
+    ],
+    "answer": "has been travelling for three months",
+    "explanation": "Đáp án \"has been travelling for three months\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
+  },
+  {
+    "id": 260,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Simple vs Continuous",
+    "question": "(visit/six countries so far) ____.",
+    "options": [
+      "She has visited six countries so far",
+      "She has visited six countries so fars",
+      "She has visited six countries so fared",
+      "has She has visited six countries so fared"
+    ],
+    "answer": "She has visited six countries so far",
+    "explanation": "Đáp án \"She has visited six countries so far\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
+  },
+  {
+    "id": 261,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Simple vs Continuous",
+    "question": "(win/the national championship four times) ____.",
+    "options": [
+      "He has won the national championship four times",
+      "He has won the national championship four timeses",
+      "He has won the national championship four timesed",
+      "has He has won the national championship four timesed"
+    ],
+    "answer": "He has won the national championship four times",
+    "explanation": "Đáp án \"He has won the national championship four times\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
+  },
+  {
+    "id": 262,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Simple vs Continuous",
+    "question": "(play/tennis since he was ten) ____",
+    "options": [
+      "He has been playing tennis since he was ten",
+      "He has been playing tennis since he was tens",
+      "He has been playing tennis since he was tened",
+      "has He has been playing tennis since he was tened"
+    ],
+    "answer": "He has been playing tennis since he was ten",
+    "explanation": "Đáp án \"He has been playing tennis since he was ten\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
+  },
+  {
+    "id": 263,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Simple vs Continuous",
+    "question": "When they left college, Mary and Sue started making films together. They still make films. (make/ten films since they left college) They ____",
+    "options": [
+      "have made ten films since they left college",
+      "have been madeing",
+      "maded",
+      "are madeing"
+    ],
+    "answer": "have made ten films since they left college",
+    "explanation": "Đáp án \"have made ten films since they left college\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
+  },
+  {
+    "id": 264,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Simple vs Continuous",
+    "question": "You have a friend who is learning Arabic. You ask: (how long/learn/Arabic?) How long ____ ?",
+    "options": [
+      "have you been learning Arabic",
+      "have been youing",
+      "youed",
+      "are youing"
+    ],
+    "answer": "have you been learning Arabic",
+    "explanation": "Đáp án \"have you been learning Arabic\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
+  },
+  {
+    "id": 265,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Question Formation",
+    "question": "You have just arrived to meet a friend. She is waiting for you. You ask: (how long/wait?) ____ ?",
+    "options": [
+      "How long have you been waiting",
+      "How long did you been waiting",
+      "How long are you been waiting",
+      "do not know"
+    ],
+    "answer": "How long have you been waiting",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How long have you been waiting\"."
+  },
+  {
+    "id": 266,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Question Formation",
+    "question": "(how many fish/catch?) ____ ?",
+    "options": [
+      "How many fish have you caught",
+      "How many fish did you caught",
+      "How many fish are you caught",
+      "do not know"
+    ],
+    "answer": "How many fish have you caught",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How many fish have you caught\"."
+  },
+  {
+    "id": 267,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Question Formation",
+    "question": "Some friends of yours are having a party next week. You ask: (how many people/invite?) ____ ?",
+    "options": [
+      "How many people have you invited",
+      "How many people did you invited",
+      "How many people are you invited",
+      "do not know"
+    ],
+    "answer": "How many people have you invited",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How many people have you invited\"."
+  },
+  {
+    "id": 268,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Question Formation",
+    "question": "A friend of yours is a teacher. You ask: (how long/teach?) ____ ?",
+    "options": [
+      "How long have you been teaching",
+      "How long did you been teaching",
+      "How long are you been teaching",
+      "do not know"
+    ],
+    "answer": "How long have you been teaching",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How long have you been teaching\"."
+  },
+  {
+    "id": 269,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Question Formation",
+    "question": "(how many books/write?) ____ ?",
+    "options": [
+      "How many books have you written",
+      "How many books did you written",
+      "How many books are you written",
+      "do not know"
+    ],
+    "answer": "How many books have you written",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How many books have you written\"."
+  },
+  {
+    "id": 270,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Question Formation",
+    "question": "(how long/write/books?) ____ ?",
+    "options": [
+      "How long have you been writing books",
+      "How long did you been writing books",
+      "How long are you been writing books",
+      "do not know"
+    ],
+    "answer": "How long have you been writing books",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How long have you been writing books\"."
+  },
+  {
+    "id": 271,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Question Formation",
+    "question": "(how long/save?) ____ ?",
+    "options": [
+      "How long have you been saving",
+      "How long did you been saving",
+      "How long are you been saving",
+      "do not know"
+    ],
+    "answer": "How long have you been saving",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How long have you been saving\"."
+  },
+  {
+    "id": 272,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Question Formation",
+    "question": "(how much money/save?) ____ ?",
+    "options": [
+      "How much money have you saved",
+      "How much money did you saved",
+      "How much money are you saved",
+      "do not know"
+    ],
+    "answer": "How much money have you saved",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"How much money have you saved\"."
+  },
+  {
+    "id": 273,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Question Formation",
+    "question": "Where have you been? ____ (you/play) tennis?",
+    "options": [
+      "Have you been playing",
+      "did you been playing",
+      "are you been playing",
+      "do not know"
+    ],
+    "answer": "Have you been playing",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you been playing\"."
+  },
+  {
+    "id": 274,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Simple vs Continuous",
+    "question": "Look! Somebody ____ (break) that window.",
+    "options": [
+      "has broken",
+      "has been brokening",
+      "brokened",
+      "is brokening"
+    ],
+    "answer": "has broken",
+    "explanation": "Đáp án \"has broken\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
+  },
+  {
+    "id": 275,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Question Formation",
+    "question": "You look tired. ____ (you/work) hard?",
+    "options": [
+      "Have you been working",
+      "did you been working",
+      "are you been working",
+      "do not know"
+    ],
+    "answer": "Have you been working",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you been working\"."
+  },
+  {
+    "id": 276,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Question Formation",
+    "question": "____ you/ever/work) in a factory? \"No, never\"",
+    "options": [
+      "Have you ever worked",
+      "did you ever worked",
+      "are you ever worked",
+      "do not know"
+    ],
+    "answer": "Have you ever worked",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you ever worked\"."
+  },
+  {
+    "id": 277,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Simple vs Continuous",
+    "question": "\"Ane is away on holiday.\" Oh, is she? Where ____ (she/go)?",
+    "options": [
+      "has she gone",
+      "has been sheing",
+      "shed",
+      "is sheing"
+    ],
+    "answer": "has she gone",
+    "explanation": "Đáp án \"has she gone\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
+  },
+  {
+    "id": 278,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Simple vs Continuous",
+    "question": "My brother is an actor. He ____ (appear) in several films.",
+    "options": [
+      "has appeared",
+      "has been appeareding",
+      "appeareded",
+      "is appeareding"
+    ],
+    "answer": "has appeared",
+    "explanation": "Đáp án \"has appeared\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
+  },
+  {
+    "id": 279,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Simple vs Continuous",
+    "question": "\"Sorry I'm late\" That's all right. I ____ (not/wait) long.",
+    "options": [
+      "have not been waiting",
+      "have not waited",
+      "did not wait",
+      "are not waiting"
+    ],
+    "answer": "have not been waiting",
+    "explanation": "Đáp án \"have not been waiting\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
+  },
+  {
+    "id": 280,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Simple vs Continuous",
+    "question": "\"Is it still raining?\" No, it ____ (stop)",
+    "options": [
+      "has stopped",
+      "has been stoppeding",
+      "stoppeded",
+      "is stoppeding"
+    ],
+    "answer": "has stopped",
+    "explanation": "Đáp án \"has stopped\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
+  },
+  {
+    "id": 281,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Simple vs Continuous",
+    "question": "I ____ (lose) my address book ____ (you/see) it anywhere?",
+    "options": [
+      "have lost",
+      "have been losting",
+      "losted",
+      "are losting"
+    ],
+    "answer": "have lost",
+    "explanation": "Đáp án \"have lost\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
+  },
+  {
+    "id": 282,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Question Formation",
+    "question": "I ____ (lose) my address book ____ (you/see) it anywhere?",
+    "options": [
+      "Have you seen",
+      "did you seen",
+      "are you seen",
+      "do not know"
+    ],
+    "answer": "Have you seen",
+    "explanation": "Câu hỏi cần đúng trợ động từ, trật tự từ và thì theo ngữ cảnh; vì vậy đáp án phù hợp là \"Have you seen\"."
+  },
+  {
+    "id": 283,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Simple vs Continuous",
+    "question": "I ____ (read) the book you lent me but I ____ (not/finish) it yet.",
+    "options": [
+      "have been reading",
+      "have read",
+      "read",
+      "are reading"
+    ],
+    "answer": "have been reading",
+    "explanation": "Đáp án \"have been reading\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
+  },
+  {
+    "id": 284,
+    "unit": "UNIT 10 - Present Perfect Continuous and Simple",
+    "level": "Khó",
+    "category": "Grammar - Present Perfect Simple vs Continuous",
+    "question": "I ____ (read) the book you lent me but I ____ (not/finish) it yet.",
+    "options": [
+      "have not finished",
+      "have been finisheding",
+      "did not finished",
+      "do not finished"
+    ],
+    "answer": "have not finished",
+    "explanation": "Đáp án \"have not finished\" phù hợp vì câu cần chọn giữa kết quả/số lượng đã hoàn tất và quá trình kéo dài đến hiện tại."
+  }
+]
