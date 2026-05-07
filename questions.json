@@ -349,7 +349,7 @@
     "unit": "UNIT 1 - Present Continuous",
     "level": "Dễ",
     "category": "Grammar - Present Continuous",
-    "question": "Sarah:Well, actually I ____ . (not/work) at the moment. I ____ (try) to find a job but it's not easy. But I'm very busy. I ____ (decorate) my flat.",
+    "question": "Sarah: Well, actually I ____ at the moment. (not/work)",
     "options": [
       "am not working",
       "am working",
@@ -364,7 +364,7 @@
     "unit": "UNIT 1 - Present Continuous",
     "level": "Dễ",
     "category": "Grammar - Present Continuous",
-    "question": "Sarah:Well, actually I ____ . (not/work) at the moment. I ____ (try) to find a job but it's not easy. But I'm very busy. I ____ (decorate) my flat.",
+    "question": "I ____ to find a job but it's not easy. (try)",
     "options": [
       "am trying",
       "try",
@@ -379,7 +379,7 @@
     "unit": "UNIT 1 - Present Continuous",
     "level": "Dễ",
     "category": "Grammar - Present Continuous",
-    "question": "Sarah:Well, actually I ____ . (not/work) at the moment. I ____ (try) to find a job but it's not easy. But I'm very busy. I ____ (decorate) my flat.",
+    "question": "But I'm very busy. I ____ my flat. (decorate)",
     "options": [
       "am decorating",
       "decorat",
@@ -649,7 +649,7 @@
     "unit": "UNIT 2 - Present Simple",
     "level": "Dễ",
     "category": "Grammar - Present Simple",
-    "question": "It ____ (take) me an hour to get to work. How long ____ (it/take) you?",
+    "question": "It ____ me an hour to get to work. (take)",
     "options": [
       "takes",
       "take",
@@ -664,7 +664,7 @@
     "unit": "UNIT 2 - Present Simple",
     "level": "Dễ",
     "category": "Grammar - Present Simple",
-    "question": "It ____ (take) me an hour to get to work. How long ____ (it/take) you?",
+    "question": "How long ____ you to get to work? (it/take)",
     "options": [
       "does it take",
       "does it takes",
@@ -679,7 +679,7 @@
     "unit": "UNIT 2 - Present Simple",
     "level": "Dễ",
     "category": "Grammar - Present Simple",
-    "question": "I ____ (play) the piano but I ____ (not/play) very well.",
+    "question": "I ____ the piano. (play)",
     "options": [
       "play",
       "plays",
@@ -694,7 +694,7 @@
     "unit": "UNIT 2 - Present Simple",
     "level": "Dễ",
     "category": "Grammar - Present Simple",
-    "question": "I ____ (play) the piano but I ____ (not/play) very well.",
+    "question": "I play the piano but I ____ very well. (not/play)",
     "options": [
       "do not play",
       "played",
@@ -1249,7 +1249,7 @@
     "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
     "level": "Trung bình",
     "category": "Grammar - Present Simple vs Present Continuous",
-    "question": "We usually ____ (grow) vegetables in our garden but this year we ____ (not/grow) any.",
+    "question": "We usually ____ vegetables in our garden. (grow)",
     "options": [
       "grow",
       "grows",
@@ -1264,7 +1264,7 @@
     "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
     "level": "Trung bình",
     "category": "Grammar - Present Simple vs Present Continuous",
-    "question": "We usually ____ (grow) vegetables in our garden but this year we ____ (not/grow) any.",
+    "question": "This year we ____ any vegetables in our garden. (not/grow)",
     "options": [
       "are not growing",
       "are growing",
@@ -1294,7 +1294,7 @@
     "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
     "level": "Trung bình",
     "category": "Grammar - Present Simple vs Present Continuous",
-    "question": "Ron is in London at the moment. He ____ (stay) at the Park Hotel. He ____ (always/stay) there when he's in London.",
+    "question": "Ron is in London at the moment. He ____ at the Park Hotel. (stay)",
     "options": [
       "is staying",
       "stays",
@@ -1309,7 +1309,7 @@
     "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
     "level": "Trung bình",
     "category": "Grammar - Present Simple vs Present Continuous",
-    "question": "Ron is in London at the moment. He ____ (stay) at the Park Hotel. He ____ (always/stay) there when he's in London.",
+    "question": "Ron ____ at the Park Hotel when he's in London. (always/stay)",
     "options": [
       "always stays",
       "always stayses",
@@ -1339,7 +1339,7 @@
     "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
     "level": "Trung bình",
     "category": "Grammar - Present Simple vs Present Continuous",
-    "question": "'Can you drive?' 'I ____ (learn). My father ____ (teach) me.",
+    "question": "'Can you drive?' 'I ____.' (learn)",
     "options": [
       "am learning",
       "learn",
@@ -1354,7 +1354,7 @@
     "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
     "level": "Trung bình",
     "category": "Grammar - Present Simple vs Present Continuous",
-    "question": "'Can you drive?' 'I ____ (learn). My father ____ (teach) me.",
+    "question": "My father ____ me to drive. (teach)",
     "options": [
       "is teaching",
       "teaches",
@@ -1369,7 +1369,7 @@
     "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
     "level": "Trung bình",
     "category": "Grammar - Present Simple vs Present Continuous",
-    "question": "Normally I ____ (finish) work at 5.00, but this week I ____ (work) until 6.00 to earn a bit more money.",
+    "question": "Normally I ____ work at 5.00. (finish)",
     "options": [
       "finish",
       "finishes",
@@ -1384,7 +1384,7 @@
     "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
     "level": "Trung bình",
     "category": "Grammar - Present Simple vs Present Continuous",
-    "question": "Normally I ____ (finish) work at 5.00, but this week I ____ (work) until 6.00 to earn a bit more money.",
+    "question": "This week I ____ until 6.00 to earn a bit more money. (work)",
     "options": [
       "am working",
       "work",
@@ -1399,7 +1399,7 @@
     "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
     "level": "Trung bình",
     "category": "Grammar - Present Simple vs Present Continuous",
-    "question": "My parents ____ (live) in Bristol. They were born there and have never lived anywhere else. Where ____ (your parents/live)?",
+    "question": "My parents ____ in Bristol. (live)",
     "options": [
       "live",
       "lives",
@@ -1414,7 +1414,7 @@
     "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
     "level": "Trung bình",
     "category": "Grammar - Present Simple vs Present Continuous",
-    "question": "My parents ____ (live) in Bristol. They were born there and have never lived anywhere else. Where ____ (your parents/live)?",
+    "question": "Where ____? (your parents/live)",
     "options": [
       "do your parents live",
       "do your parents lives",
@@ -1429,7 +1429,7 @@
     "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
     "level": "Trung bình",
     "category": "Grammar - Present Simple vs Present Continuous",
-    "question": "Sonia ____ (look) for a place to live. She ____ (stay) with her sister until she finds somewhere.",
+    "question": "Sonia ____ for a place to live. (look)",
     "options": [
       "is looking",
       "looks",
@@ -1444,7 +1444,7 @@
     "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
     "level": "Trung bình",
     "category": "Grammar - Present Simple vs Present Continuous",
-    "question": "Sonia ____ (look) for a place to live. She ____ (stay) with her sister until she finds somewhere.",
+    "question": "Sonia ____ with her sister until she finds somewhere. (stay)",
     "options": [
       "is staying",
       "stays",
@@ -1459,7 +1459,7 @@
     "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
     "level": "Trung bình",
     "category": "Grammar - Present Simple vs Present Continuous",
-    "question": "'What ____ (your father/do)?' 'He's an architect but he ____ (not/work) at the moment.'",
+    "question": "'What ____?' 'He's an architect.' (your father/do)",
     "options": [
       "does your father do",
       "does your father does",
@@ -1474,7 +1474,7 @@
     "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
     "level": "Trung bình",
     "category": "Grammar - Present Simple vs Present Continuous",
-    "question": "'What ____ (your father/do)?' 'He's an architect but he ____ (not/work) at the moment.'",
+    "question": "My father is an architect but he ____ at the moment. (not/work)",
     "options": [
       "is not working",
       "is working",
@@ -1489,7 +1489,7 @@
     "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
     "level": "Trung bình",
     "category": "Grammar - Present Simple vs Present Continuous",
-    "question": "(_at a party=)Usually I ____ (enjoy) parties but I ____ (not/enjoy) this one very much.",
+    "question": "Usually I ____ parties. (enjoy)",
     "options": [
       "enjoy",
       "enjoys",
@@ -1504,7 +1504,7 @@
     "unit": "UNIT 3 - Present Continuous and Present Simple (1)",
     "level": "Trung bình",
     "category": "Grammar - Present Simple vs Present Continuous",
-    "question": "(_at a party=)Usually I ____ (enjoy) parties but I ____ (not/enjoy) this one very much.",
+    "question": "At this party, I ____ this one very much. (not/enjoy)",
     "options": [
       "am not enjoying",
       "am enjoying",
@@ -1789,7 +1789,7 @@
     "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
     "level": "Trung bình",
     "category": "Grammar - State Verbs",
-    "question": "I ____ you should sell your car. (think) You ____ it very often. (not/use)",
+    "question": "I ____ you should sell your car. (think)",
     "options": [
       "think",
       "thinks",
@@ -1804,7 +1804,7 @@
     "unit": "UNIT 4 - Present Continuous and Present Simple (2)",
     "level": "Trung bình",
     "category": "Grammar - State Verbs",
-    "question": "I ____ you should sell your car. (think) You ____ it very often. (not/use)",
+    "question": "You ____ your car very often. (not/use)",
     "options": [
       "do not use",
       "used",
@@ -1999,7 +1999,7 @@
     "unit": "UNIT 5 - Past Simple",
     "level": "Dễ",
     "category": "Grammar - Past Simple",
-    "question": "Don ____ down the stairs this morning and ____ his leg.",
+    "question": "Don ____ down the stairs this morning.",
     "options": [
       "fell",
       "was felling",
@@ -2014,7 +2014,7 @@
     "unit": "UNIT 5 - Past Simple",
     "level": "Dễ",
     "category": "Grammar - Past Simple",
-    "question": "Don ____ down the stairs this morning and ____ his leg.",
+    "question": "Don fell down the stairs this morning and ____ his leg.",
     "options": [
       "hurt",
       "was hurting",
@@ -2029,7 +2029,7 @@
     "unit": "UNIT 5 - Past Simple",
     "level": "Dễ",
     "category": "Grammar - Past Simple",
-    "question": "Jim ____ the ball to Sue, who ____ it.",
+    "question": "Jim ____ the ball to Sue.",
     "options": [
       "threw",
       "was threwing",
@@ -2044,7 +2044,7 @@
     "unit": "UNIT 5 - Past Simple",
     "level": "Dễ",
     "category": "Grammar - Past Simple",
-    "question": "Jim ____ the ball to Sue, who ____ it.",
+    "question": "Sue ____ the ball.",
     "options": [
       "caught",
       "was caughting",
@@ -2059,7 +2059,7 @@
     "unit": "UNIT 5 - Past Simple",
     "level": "Dễ",
     "category": "Grammar - Past Simple",
-    "question": "Ann ____ a lot of money yesterday. She ____ a dress which '\">cost'\">£100",
+    "question": "Ann ____ a lot of money yesterday.",
     "options": [
       "spent",
       "was spenting",
@@ -2074,7 +2074,7 @@
     "unit": "UNIT 5 - Past Simple",
     "level": "Dễ",
     "category": "Grammar - Past Simple",
-    "question": "Ann ____ a lot of money yesterday. She ____ a dress which '\">cost'\">£100",
+    "question": "She ____ a dress which cost ?100.",
     "options": [
       "bought",
       "was boughting",
@@ -2479,7 +2479,7 @@
     "unit": "UNIT 6 - Past Continuous",
     "level": "Trung bình",
     "category": "Grammar - Past Continuous vs Past Simple",
-    "question": "Jane ____ (wait) for me when I ____ (arrive).",
+    "question": "Jane ____ for me. (wait)",
     "options": [
       "was waiting",
       "waited",
@@ -2494,7 +2494,7 @@
     "unit": "UNIT 6 - Past Continuous",
     "level": "Trung bình",
     "category": "Grammar - Past Continuous vs Past Simple",
-    "question": "Jane ____ (wait) for me when I ____ (arrive).",
+    "question": "Jane was waiting for me when I ____. (arrive)",
     "options": [
       "arrived",
       "arriv",
@@ -2554,7 +2554,7 @@
     "unit": "UNIT 6 - Past Continuous",
     "level": "Trung bình",
     "category": "Grammar - Past Continuous vs Past Simple",
-    "question": "How fast ____ (you/drive) when the accident ____ (happen)?",
+    "question": "How fast ____ when the accident happened? (you/drive)",
     "options": [
       "were you driving",
       "were you drivings",
@@ -2569,7 +2569,7 @@
     "unit": "UNIT 6 - Past Continuous",
     "level": "Trung bình",
     "category": "Grammar - Past Continuous vs Past Simple",
-    "question": "How fast ____ (you/drive) when the accident ____ (happen)?",
+    "question": "The accident ____ while you were driving. (happen)",
     "options": [
       "happened",
       "happen",
@@ -2584,7 +2584,7 @@
     "unit": "UNIT 6 - Past Continuous",
     "level": "Trung bình",
     "category": "Grammar - Past Continuous vs Past Simple",
-    "question": "John ____ (take) a photograph of me while I ____ (not/look).",
+    "question": "John ____ a photograph of me. (take)",
     "options": [
       "took",
       "was tooking",
@@ -2599,7 +2599,7 @@
     "unit": "UNIT 6 - Past Continuous",
     "level": "Trung bình",
     "category": "Grammar - Past Continuous vs Past Simple",
-    "question": "John ____ (take) a photograph of me while I ____ (not/look).",
+    "question": "John took a photograph of me while I ____. (not/look)",
     "options": [
       "was not looking",
       "was looking",
@@ -2629,7 +2629,7 @@
     "unit": "UNIT 6 - Past Continuous",
     "level": "Trung bình",
     "category": "Grammar - Past Continuous vs Past Simple",
-    "question": "I haven't seen Alan for ages. When I last ____ (see) him, he ____ (try) to find a job in London.",
+    "question": "When I last ____ Alan, he was trying to find a job in London. (see)",
     "options": [
       "saw",
       "was sawing",
@@ -2644,7 +2644,7 @@
     "unit": "UNIT 6 - Past Continuous",
     "level": "Trung bình",
     "category": "Grammar - Past Continuous vs Past Simple",
-    "question": "I haven't seen Alan for ages. When I last ____ (see) him, he ____ (try) to find a job in London.",
+    "question": "When I last saw Alan, he ____ to find a job in London. (try)",
     "options": [
       "was trying",
       "tryed",
@@ -2659,7 +2659,7 @@
     "unit": "UNIT 6 - Past Continuous",
     "level": "Trung bình",
     "category": "Grammar - Past Continuous vs Past Simple",
-    "question": "I ____ (walk) along the street when suddenly I ____ (hear) footsteps behind me. Somebody '\">was following'\">(follow) me. I was frightened and I '\">started'\">(start) to run.",
+    "question": "I ____ along the street when suddenly I heard footsteps behind me. (walk)",
     "options": [
       "was walking",
       "walked",
@@ -2674,7 +2674,7 @@
     "unit": "UNIT 6 - Past Continuous",
     "level": "Trung bình",
     "category": "Grammar - Past Continuous vs Past Simple",
-    "question": "I ____ (walk) along the street when suddenly I ____ (hear) footsteps behind me. Somebody '\">was following'\">(follow) me. I was frightened and I '\">started'\">(start) to run.",
+    "question": "I was walking along the street when suddenly I ____ footsteps behind me. (hear)",
     "options": [
       "heard",
       "was hearding",
@@ -2929,7 +2929,7 @@
     "unit": "UNIT 7 - Present Perfect (1)",
     "level": "Khá",
     "category": "Grammar - Present Perfect Simple",
-    "question": "Bill and Sue go away on holiday very often, so they ____ be short of money. ._A=:Is Ann coming to the cinema with us? _B=: No, she ____ the film. (already/see)",
+    "question": "Bill and Sue go away on holiday very often, so they ____ be short of money.",
     "options": [
       "must",
       "cannot",
@@ -2944,7 +2944,7 @@
     "unit": "UNIT 7 - Present Perfect (1)",
     "level": "Khá",
     "category": "Grammar - Present Perfect Simple",
-    "question": "Bill and Sue go away on holiday very often, so they ____ be short of money. ._A=:Is Ann coming to the cinema with us? _B=: No, she ____ the film. (already/see)",
+    "question": "A: Is Ann coming to the cinema with us? B: No, she ____ the film. (already/see)",
     "options": [
       "has already seen",
       "has been alreadying",
@@ -4204,7 +4204,7 @@
     "unit": "UNIT 10 - Present Perfect Continuous and Simple",
     "level": "Khó",
     "category": "Grammar - Present Perfect Simple vs Continuous",
-    "question": "I ____ (lose) my address book ____ (you/see) it anywhere?",
+    "question": "I ____ my address book. (lose)",
     "options": [
       "have lost",
       "have been losting",
@@ -4219,7 +4219,7 @@
     "unit": "UNIT 10 - Present Perfect Continuous and Simple",
     "level": "Khó",
     "category": "Question Formation",
-    "question": "I ____ (lose) my address book ____ (you/see) it anywhere?",
+    "question": "____ it anywhere? (you/see)",
     "options": [
       "Have you seen",
       "did you seen",
@@ -4234,7 +4234,7 @@
     "unit": "UNIT 10 - Present Perfect Continuous and Simple",
     "level": "Khó",
     "category": "Grammar - Present Perfect Simple vs Continuous",
-    "question": "I ____ (read) the book you lent me but I ____ (not/finish) it yet.",
+    "question": "I ____ the book you lent me. (read)",
     "options": [
       "have been reading",
       "have read",
@@ -4249,7 +4249,7 @@
     "unit": "UNIT 10 - Present Perfect Continuous and Simple",
     "level": "Khó",
     "category": "Grammar - Present Perfect Simple vs Continuous",
-    "question": "I ____ (read) the book you lent me but I ____ (not/finish) it yet.",
+    "question": "I ____ it yet. (not/finish)",
     "options": [
       "have not finished",
       "have been finisheding",
