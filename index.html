@@ -631,7 +631,7 @@
         </div>
         <div class="hero-art" aria-hidden="true">
           <div class="sticker-board">
-            <div class="bubble one">15s</div>
+            <div class="bubble one">30s</div>
             <div class="bubble two">10/10</div>
             <div class="bubble three">No cap</div>
           </div>
@@ -645,7 +645,7 @@
           <div class="pill" id="playerPill">Player</div>
           <div class="pill">Câu <span id="questionIndex">1</span>/<span id="totalQuestions">20</span></div>
           <div class="pill">Điểm <span id="scorePill">0.00</span>/10</div>
-          <div id="timer" class="timer" style="--timer-angle: 360deg"><span>15</span></div>
+          <div id="timer" class="timer" style="--timer-angle: 360deg"><span>30</span></div>
         </div>
 
         <div class="question-panel">
@@ -679,7 +679,7 @@
             </div>
             <div class="statbox">
               <strong id="streakStat">0</strong>
-              <span>Sai liên tiếp</span>
+              <span>Câu thêm</span>
             </div>
             <div class="statbox">
               <strong id="queueStat">20</strong>
@@ -741,7 +741,7 @@
   <div id="toast" class="toast"></div>
 
   <script>
-    const QUESTION_SECONDS = 15;
+    const QUESTION_SECONDS = 30;
     const START_TOTAL = 20;
     const LEVEL_ORDER = ["Dễ", "Trung bình", "Khá", "Khó"];
     const HISTORY_KEY = "englishQuizHistory.v1";
@@ -977,13 +977,11 @@
 
       if (isCorrect) {
         state.correct += 1;
-        state.wrongStreak = 0;
       } else {
         state.wrong += 1;
-        state.wrongStreak += 1;
-        const extra = state.wrongStreak >= 2 ? 4 : 2;
+        const extra = 2;
         addRandomQuestions(extra, question.level);
-        toast(state.wrongStreak >= 2 ? `Sai ${state.wrongStreak} câu liên tiếp: thêm ${extra} câu cho nóng.` : `Sai rồi, thêm ${extra} câu cùng hoặc cao level.`);
+        toast(`Sai rồi, thêm ${extra} câu cùng hoặc cao level.`);
       }
 
       state.currentIndex += 1;
@@ -1001,7 +999,7 @@
       $("scorePill").textContent = formatScore(score);
       $("correctStat").textContent = state.correct;
       $("wrongStat").textContent = state.wrong;
-      $("streakStat").textContent = state.wrongStreak;
+      $("streakStat").textContent = Math.max(0, state.queue.length - START_TOTAL);
       $("queueStat").textContent = state.queue.length;
       document.querySelector(".progress").style.setProperty("--w", `${Math.min(100, score * 10)}%`);
     }
