@@ -631,7 +631,7 @@
         </div>
         <div class="hero-art" aria-hidden="true">
           <div class="sticker-board">
-            <div class="bubble one">30s</div>
+            <div class="bubble one">45/60s</div>
             <div class="bubble two">10/10</div>
             <div class="bubble three">No cap</div>
           </div>
@@ -645,7 +645,7 @@
           <div class="pill" id="playerPill">Player</div>
           <div class="pill">Câu <span id="questionIndex">1</span>/<span id="totalQuestions">20</span></div>
           <div class="pill">Điểm <span id="scorePill">0.00</span>/10</div>
-          <div id="timer" class="timer" style="--timer-angle: 360deg"><span>30</span></div>
+          <div id="timer" class="timer" style="--timer-angle: 360deg"><span>60</span></div>
         </div>
 
         <div class="question-panel">
@@ -741,7 +741,8 @@
   <div id="toast" class="toast"></div>
 
   <script>
-    const QUESTION_SECONDS = 45;
+    const EASY_QUESTION_SECONDS = 45;
+    const OTHER_QUESTION_SECONDS = 60;
     const START_TOTAL = 20;
     const LEVEL_ORDER = ["Dễ", "Trung bình", "Khá", "Khó"];
     const HISTORY_KEY = "englishQuizHistory.v1";
@@ -787,7 +788,7 @@
       wrong: 0,
       wrongStreak: 0,
       timerId: null,
-      secondsLeft: QUESTION_SECONDS,
+      secondsLeft: OTHER_QUESTION_SECONDS,
       startedAt: null,
       finished: false,
       reviewIndex: 0,
@@ -867,7 +868,7 @@
         correct: 0,
         wrong: 0,
         wrongStreak: 0,
-        secondsLeft: QUESTION_SECONDS,
+        secondsLeft: OTHER_QUESTION_SECONDS,
         startedAt: Date.now(),
         finished: false,
         reviewIndex: 0,
@@ -944,7 +945,7 @@
     }
 
     function startTimer() {
-      state.secondsLeft = QUESTION_SECONDS;
+      state.secondsLeft = getQuestionSeconds();
       updateTimer();
       state.timerId = setInterval(() => {
         state.secondsLeft -= 1;
@@ -954,9 +955,13 @@
     }
 
     function updateTimer() {
-      const ratio = Math.max(0, state.secondsLeft) / QUESTION_SECONDS;
+      const ratio = Math.max(0, state.secondsLeft) / getQuestionSeconds();
       $("timer").style.setProperty("--timer-angle", `${ratio * 360}deg`);
       $("timer").querySelector("span").textContent = Math.max(0, state.secondsLeft);
+    }
+
+    function getQuestionSeconds(question = state.queue[state.currentIndex]) {
+      return question && question.level === "Dễ" ? EASY_QUESTION_SECONDS : OTHER_QUESTION_SECONDS;
     }
 
     function submitCurrent(timedOut) {
@@ -977,11 +982,13 @@
 
       if (isCorrect) {
         state.correct += 1;
+        state.wrongStreak = 0;
       } else {
         state.wrong += 1;
-        const extra = 2;
+        state.wrongStreak += 1;
+        const extra = state.wrongStreak >= 2 ? 2 : 1;
         addRandomQuestions(extra, question.level);
-        toast(`Sai rồi, thêm ${extra} câu cùng hoặc cao level.`);
+        toast(state.wrongStreak >= 2 ? `Sai ${state.wrongStreak} câu liên tiếp, thêm ${extra} câu.` : `Sai rồi, thêm ${extra} câu cùng hoặc cao level.`);
       }
 
       state.currentIndex += 1;
